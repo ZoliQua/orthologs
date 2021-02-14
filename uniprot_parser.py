@@ -1,5 +1,14 @@
 
-#This file converts uniprod downloaded mapping files to a reduced file size
+# UNIPROT PARSER v1.0
+#
+# What this file do?
+# This file converts downloaded id_mapping files (from data/uniprot folder) to a reduced file size. Filtering out STRING and eggNOG db related lines.
+#
+# Source folder for files (data/unirprot): https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/
+# Source files downloaded on 11/02/2021
+#
+# Code written by Zoltan Dul, PhD (2021)
+# Contact me at zoltan dul [at] gmail.com
 
 import csv
 import sys
@@ -23,13 +32,16 @@ for this_file in filenames:
         try:
             for row in reader:
                 counter += 1
+                # Filtering eggNOG DB out
                 if row['db'] == 'eggNOG':
                     write_lines.append("\t".join([row['uniprot'], row['db'], row['second']]))
                     write_lines_all.append("\t".join([row['uniprot'], row['db'], row['second']]))
-
+                # Filtering STRING DB out
                 if row['db'] == 'STRING':
                     write_lines.append("\t".join([row['uniprot'], "convert", row['second'][5:]]))
                     write_lines_all.append("\t".join([row['uniprot'], "convert", row['second'][5:]]))
+
+                # More filters can be added easily by repeating the condion above with different terms.
 
                 # if counter == 10000:
                 #     break
