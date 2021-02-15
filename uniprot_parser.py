@@ -25,6 +25,8 @@ for this_file in filenames:
 
     counter = 0
     write_lines = []
+    filename_taxid_split = this_file.split("_")
+    this_taxid = filename_taxid_split[1]
 
     with open(this_file, newline='') as f:
         reader = csv.DictReader(f, fieldnames= ( 'uniprot', 'db','second' ), delimiter='\t')
@@ -34,12 +36,12 @@ for this_file in filenames:
                 counter += 1
                 # Filtering eggNOG DB out
                 if row['db'] == 'eggNOG':
-                    write_lines.append("\t".join([row['uniprot'], row['db'], row['second']]))
-                    write_lines_all.append("\t".join([row['uniprot'], row['db'], row['second']]))
+                    write_lines.append("\t".join([row['uniprot'], row['db'], this_taxid, row['second']]))
+                    write_lines_all.append("\t".join([row['uniprot'], row['db'], this_taxid, row['second']]))
                 # Filtering STRING DB out
                 if row['db'] == 'STRING':
-                    write_lines.append("\t".join([row['uniprot'], "convert", row['second'][5:]]))
-                    write_lines_all.append("\t".join([row['uniprot'], "convert", row['second'][5:]]))
+                    write_lines.append("\t".join([row['uniprot'], "convert", this_taxid, row['second'][5:]]))
+                    write_lines_all.append("\t".join([row['uniprot'], "convert", this_taxid, row['second'][5:]]))
 
                 # More filters can be added easily by repeating the condion above with different terms.
 
@@ -53,8 +55,7 @@ for this_file in filenames:
 
     counter = 0
 
-    export_filename_taxid = this_file.split("_")
-    export_filename = "data/uniprot_convert_"+export_filename_taxid[1]+".tsv"
+    export_filename = "data/uniprot_convert_"+this_taxid+".tsv"
 
     with open(export_filename, mode='w') as export_file:
         writer = csv.writer(export_file, delimiter='\t', quotechar='"', quoting = csv.QUOTE_MINIMAL)
