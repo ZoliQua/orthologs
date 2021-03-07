@@ -1,7 +1,7 @@
 
 import csv
 
-filename = "data/go_reg_of_cc.tsv"
+filename = "data/go/go_reg_of_cc.tsv"
 taxon_dict = {'9606': 'H. sapiens', '7955': 'D. rerio', '6239': 'C. elegans', '3702': 'A. thaliana', '7227': 'D. melanogaster', '4896': 'S. pombe', '284812': 'S. pombe', '559292': 'S. cerevisiae'}
 uniprot_list = {'9606': [], '7955': [], '6239': [], '3702': [], '7227': [], '4896': [], '284812': [], '559292': []}
 list_uniprot2taxid = {}
@@ -32,7 +32,7 @@ with open(filename, newline='') as f:
         sys.exit('file {}, line {}: {}'.format(filename, reader.line_num, e))
 
 
-filename = "data/latest.Eukaryota.tsv"
+filename = "data/eggnog/latest.Eukaryota.tsv"
 with open(filename, newline='') as f:
     reader = csv.DictReader(f, fieldnames= ('uniprot', 'eggnog'), delimiter='\t')
     counter = 0

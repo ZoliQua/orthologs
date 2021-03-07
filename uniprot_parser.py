@@ -43,7 +43,7 @@ for this_file in filenames:
                     write_lines.append("\t".join([row['uniprot'], "convert", this_taxid, row['second'][5:]]))
                     write_lines_all.append("\t".join([row['uniprot'], "convert", this_taxid, row['second'][5:]]))
 
-                # More filters can be added easily by repeating the condion above with different terms.
+                # More filters can be added easily by repeating the condition above with different terms.
 
                 # if counter == 10000:
                 #     break
@@ -79,4 +79,4 @@ with open(export_filename_merged, mode='w') as export_file:
         this_line = line.split("\t")
         writer.writerow(this_line)
 
-    print("Parser have ", counter, " lines wrote in", export_filename, "(merged) file.")
+    print("Parser have ", counter, " lines wrote in", export_filename_merged, "(merged) file.")
