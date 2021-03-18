@@ -12,7 +12,14 @@ import sys
 
 csv.field_size_limit(sys.maxsize)
 
-filename_go = "data/go/go_reg_of_cc.tsv"
+go_tag = "0051726"
+
+# GO-0007049.tsv
+# GO-0007568.tsv
+# GO-0008361.tsv
+# GO-0051726.tsv
+
+filename_go = "data/go/GO-" + go_tag + ".tsv"
 taxon_dicter = {'9606': 'H. sapiens', '7955': 'D. rerio', '6239': 'C. elegans', '3702': 'A. thaliana', '7227': 'D. melanogaster', '4896': 'S. pombe', '284812': 'S. pombe', '559292': 'S. cerevisiae'}
 go_listofproteins = {}
 go_subgo = {}
@@ -62,7 +69,7 @@ with open(filename, newline='') as f:
     except csv.Error as e:
         sys.exit('file {}, line {}: {}'.format(filename, reader.line_num, e))
 
-    print("Parser have", counter, "lines processed.")
+    print("Parser have", counter, "lines processed from eggNOG merged file.")
 
 write_the_output = []
 write_the_output_hit = []
@@ -107,7 +114,7 @@ for groupid in write_lines_all:
         total_prot_count += this_total_prot_count[taxid]
 
         if this_hit_spec_count[taxid] > 0:
-            average_hm_list.append(float(this_hit_spec_count[taxid]/this_total_spec_count[taxid]))
+            average_hm_list.append(float(this_hit_prot_count[taxid]/this_total_prot_count[taxid]))
 
     average_hm_total = 0
     if len(average_hm_list) == 0:
@@ -115,7 +122,7 @@ for groupid in write_lines_all:
     else:
         for value in average_hm_list:
             average_hm_total += value
-        average_hm = float( average_hm_total / hit_spec_count)
+        average_hm = float( average_hm_total / total_spec_count)
 
     if hit_spec_count > 0:
         total_hm = hit_prot_count / total_prot_count
@@ -144,10 +151,10 @@ for groupid in write_lines_all:
         if total_spec_count > 3:
             write_the_output_hit.append(this_line)
 
-print(counter)
+print("Parser have ", counter, "elements processed from GO-", go_tag,".")
 # print(write_the_output_hit)
 
-export_filename = "data/go_ordered.tsv"
+export_filename = "data/go-" + go_tag + "-ordered.tsv"
 counter = 0
 
 with open(export_filename, mode='w') as export_file:
