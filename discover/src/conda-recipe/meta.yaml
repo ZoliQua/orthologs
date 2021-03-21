@@ -1,0 +1,22 @@
+package:
+  name: discover
+  version: 0.9
+
+source:
+  path: ..
+  patches:
+    - arch-core2.patch
+
+build:
+  number: 0
+
+requirements:
+  build:
+    - python
+    - numpy
+
+  run:
+    - python
+    - numpy
+    - pandas
+    - libgcc [not win]

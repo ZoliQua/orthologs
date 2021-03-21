@@ -9,6 +9,7 @@
 
 import csv
 import sys
+import operator
 
 csv.field_size_limit(sys.maxsize)
 
@@ -73,6 +74,9 @@ with open(filename, newline='') as f:
 
 write_the_output = []
 write_the_output_hit = []
+write_the_output_hit_dict_4items = {}
+write_the_output_hit_dict_4order = {}
+
 counter = 0
 for groupid in write_lines_all:
 
@@ -129,11 +133,11 @@ for groupid in write_lines_all:
     else:
         total_hm = 0
 
-    # Writing out the cells in the order of appereance
+    # Writing out the cells in the order of appearance
 
     this_line += groupid + "\t"
-    this_line += str(average_hm) + "\t"
-    this_line += str(total_hm) + "\t"
+    this_line += str(float("{:.5f}".format(average_hm))) + "\t"
+    this_line += str(float("{:.5f}".format(total_hm))) + "\t"
     this_line += str(hit_prot_count) + "\t"
     this_line += str(total_prot_count) + "\t"
     this_line += str(hit_spec_count) + "\t"
@@ -150,9 +154,13 @@ for groupid in write_lines_all:
     if hit_spec_count > 0:
         if total_spec_count > 3:
             write_the_output_hit.append(this_line)
+            write_the_output_hit_dict_4items[counter] = this_line
+            write_the_output_hit_dict_4order[counter] = int(average_hm*10000000)
 
 print("Parser have ", counter, "elements processed from GO-", go_tag,".")
 # print(write_the_output_hit)
+
+sorted_dicdata = sorted(write_the_output_hit_dict_4order.items(), key=operator.itemgetter(1), reverse=True)
 
 export_filename = "data/go-" + go_tag + "-ordered.tsv"
 counter = 0
@@ -176,10 +184,15 @@ with open(export_filename, mode='w') as export_file:
     this_line = this_line.split("\t")
     writer.writerow(this_line)
 
-    for line in write_the_output_hit:
-
+    for rowid in sorted_dicdata:
         counter += 1
-        this_line = line.split("\t")
+        this_line = write_the_output_hit_dict_4items[rowid[0]].split("\t")
         writer.writerow(this_line)
+
+    # for line in write_the_output_hit:
+    #
+    #     counter += 1
+    #     this_line = line.split("\t")
+    #     writer.writerow(this_line)
 
     print("Parser have ", counter, " lines wrote in", export_filename, "(merged) file.")
