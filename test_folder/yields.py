@@ -34,5 +34,4 @@ data = seq(100,100_000_000)
 
 end_time = time.time()
 
-
-print(f"execution time: {end_time - start_time}")
+print(f"execution time: {end_time - start_time}"
