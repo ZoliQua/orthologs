@@ -118,9 +118,11 @@ for j in range(1, 10):
 	# Text for the y axis
 	plt.ylabel("Max/Min ratio")
 	# Title of the plot
-	plt.title("Random numbers")
+	plt.title("Difference in the distribution of generated random numbers (10k x 100)")
 	# Plotting
-	plt.plot(list_of_minmax, "-", label="test", linewidth=3, color="orange")
+	plt.plot(list_of_minmax, "-", label="Max/Min ratio (10k run)", linewidth=3, color="orange")
+	# Create the legend for the figure
+	plt.legend()
 	# Save the file
 	plt.savefig('jpgImageDir/line_plot_' + current_time_abbrev + '.jpg', dpi=300)
 	# Show the file

@@ -137,4 +137,10 @@ data/uniprot/ECOLI_83333_idmapping.dat
 data/uniprot/HUMAN_9606_idmapping.dat
 data/uniprot/SCHPO_284812_idmapping.dat
 data/uniprot/YEAST_559292_idmapping.dat
+
+# Images
+test_folder/jpgImageDir
+test_folder/pngImageDir
+
 >>>>>>> 8f7b5e3... Initial commit for ortholog repository
+
