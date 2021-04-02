@@ -12,7 +12,7 @@ import csv
 filename = "data/go/go_reg_of_cc.tsv"
 taxon_list = []
 with open(filename, newline='') as f:
-    reader = csv.DictReader(f, fieldnames= ('type', 'uniprot','name','subgo','longname','taxid' ), delimiter='\t')
+    reader = csv.DictReader(f, fieldnames= ('type', 'uniprot', 'name', 'subgo', 'longname', 'taxid'), delimiter='\t')
     counter = 0
     try:
         for row in reader:
@@ -20,12 +20,12 @@ with open(filename, newline='') as f:
                 continue
             print(row['taxid'], row['subgo'], row['uniprot'])
             counter += 1
-            if (row['taxid'] in taxon_list):
+            if row['taxid'] in taxon_list:
                 continue
             else:
                 taxon_list.append(row['taxid'])
             # if counter == 100:
-           #     break
+            #    break
     except csv.Error as e:
         sys.exit('file {}, line {}: {}'.format(filename, reader.line_num, e))
 
