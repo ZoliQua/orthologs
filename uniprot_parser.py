@@ -42,6 +42,10 @@ for this_file in filenames:
                 if row['db'] == 'STRING':
                     write_lines.append("\t".join([row['uniprot'], "convert", this_taxid, row['second'][5:]]))
                     write_lines_all.append("\t".join([row['uniprot'], "convert", this_taxid, row['second'][5:]]))
+                # Filtering Gene_Name out
+                if row['db'] == 'Gene_Name':
+                    write_lines.append("\t".join([row['uniprot'], row['db'], this_taxid, row['second']]))
+                    write_lines_all.append("\t".join([row['uniprot'], row['db'], this_taxid, row['second']]))
 
                 # More filters can be added easily by repeating the condition above with different terms.
 

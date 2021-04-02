@@ -141,6 +141,8 @@ data/uniprot/YEAST_559292_idmapping.dat
 # Images
 test_folder/jpgImageDir
 test_folder/pngImageDir
+export/
+logs/
 
 >>>>>>> 8f7b5e3... Initial commit for ortholog repository
 
