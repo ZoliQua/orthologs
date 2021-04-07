@@ -7,11 +7,10 @@
 # Code written by Zoltan Dul, PhD (2021)
 # Contact me at zoltan dul [at] gmail.com
 
-import os
 import csv
 import sys
 import random
-import requests ## python -m pip install requests
+import requests  # python -m pip install requests
 import pandas as pd
 import logging
 from datetime import datetime
@@ -20,19 +19,23 @@ from datetime import datetime
 now = datetime.now()
 current_time_abbrev = now.strftime("%Y%m%d-%H%M%S-%f")
 
-#########################
-## SET FILE PARAMETERS ##
-#########################
+#######################
+# SET FILE PARAMETERS #
+#######################
 
+isTest = True
 num_cycles = 10
 num_request_per_cycle = 10
 num_bottles = 5
+dir_export = "export/"
+dir_log = "logs/"
 str_goid = "go-0051726"
-log_filename = "logs/pvalues_" + str_goid + "_" + current_time_abbrev + ".tsv"
+log_filename1 = dir_log + "pvalues_" + str_goid + "_general_" + current_time_abbrev + ".tsv"
+log_filename2 = dir_log + "pvalues_" + str_goid + "_detailed_" + current_time_abbrev + ".tsv"
 
 
 # START LOGGING
-logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', filename=log_filename, level=logging.DEBUG)
+logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', filename=log_filename1, level=logging.DEBUG)
 
 # Maximalize file-read size
 csv.field_size_limit(sys.maxsize)
@@ -51,9 +54,9 @@ taxon_dict_go = {'9606': 'H. sapiens Hit', '7955': 'D. rerio Hit', '6239': 'C. e
 ##################
 bottles = {1.0: [], 0.8: [], 0.6: [], 0.4: [], 0.2: []}
 if num_bottles == 5:
-	bottles_list = (0, 0.2, 0.4, 0.6, 0.8, 1)
+	bottles_list = (0.0, 0.2, 0.4, 0.6, 0.8, 1)
 elif num_bottles == 10:
-	bottles_list = (0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0)
+	bottles_list = (0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0)
 
 #############
 # FUNCTIONS #
@@ -116,9 +119,6 @@ for taxid in taxon_list:
 	uniprot_2_protname = {}
 	list_of_uniprotids = []
 
-	if taxid == "9606":
-		continue
-
 	# Read file then return the count of read lines
 	counter = ReadUniprotConvert(taxid)
 
@@ -142,6 +142,9 @@ for taxid in taxon_list:
 	# Logging
 	log_calls = []
 
+	# Create P-value array for the whole taxid
+	p_val_array = {}
+
 	bottle_counter = 0
 	for num in bottles_list:
 
@@ -153,8 +156,11 @@ for taxid in taxon_list:
 		go2 = go["Average H/M"].between(nr1, nr2)
 		this_taxon_column_name = taxon_dict_go[taxid]
 
-		export_filename = "export/pvalues_" + str_goid + "_" + str(num_cycles).zfill(2) + "-cycles_" + str(num_request_per_cycle).zfill(2) + \
-						  "-rounds_bottle-" + str(nr1) + "-" + str(nr2) + "_" + taxid + "_" + current_time_abbrev + ".tsv"
+		bottle_name = f"{nr1}-{nr2}"
+		p_val_array[bottle_name] = []
+
+		export_filename = str_goid + "_pvalues_" + taxid + "_" + str(num_cycles * num_request_per_cycle) + "_bottle-" +\
+				   str(nr1) + "-" + str(nr2) + current_time_abbrev + ".tsv"
 
 		bottle_counter += 1
 
@@ -205,6 +211,7 @@ for taxid in taxon_list:
 					try:
 						this_string_id = uniprot_2_stringid[this_random_selection]
 					except:
+						logging.warning(f"This {this_random_selection} is not in uniprot-id array")
 						i -= 1
 						continue
 
@@ -230,18 +237,22 @@ for taxid in taxon_list:
 				}
 
 				## Calling STRING
-				response = requests.post(request_url, data=params)
 
-				## Parse and print the respons Parse and print the responsee
-				# print("The following IDs have been used: ", ','.join(map(str, list_of_random_stringids)) )
+				if isTest == True:
+					pvalue = "{:.4f}".format(random.uniform(0.0, 1.0))
 
-				for line in response.text.strip().split("\n"):
-					pvalue = line.split("\t")[5]
-					this_line[1] = pvalue
-					p_values.append(float(pvalue))
-					p_values_allcycles.append(float(pvalue))
+				else:
+					response = requests.post(request_url, data=params)
 
-				log_calls.append([nr1, nr2, k, j, pvalue, request_url, ",".join(list_of_random_stringids), params["species"], response.text.strip()])
+					for line in response.text.strip().split("\n"):
+						pvalue = line.split("\t")[5]
+
+				this_line[1] = pvalue
+				p_values.append(float(pvalue))
+				p_values_allcycles.append(float(pvalue))
+
+				log_calls.append([taxid, nr1, nr2, k, j, pvalue, request_url,
+								  ",".join(list_of_random_stringids)]) # , response.text.strip()
 
 				# Print P-value to the console (inactive)
 				# print("P-value:", pvalue)
@@ -254,21 +265,19 @@ for taxid in taxon_list:
 			print(f"Parser summary for cycle {k}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
 			logging.info(f"Parser summary for cycle {k}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
 
-			counter = WriteLines(export_filename, responses_array)
+			this_export_path = dir_export + taxid + "/" + export_filename
+			if isTest == False:
+				counter = WriteLines(this_export_path, responses_array)
 
 		pvs = pd.Series(p_values_allcycles, index=range(1, 101))
+		p_val_array[bottle_name] = p_values_allcycles
 
 		# Print & Log
 		print(f"Parser summary for all cycle in bottle between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
 		logging.info(f"Parser summary all cycle in bottle between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
 
-			# print(f"Parser have {counter} lines wrote in {export_filename} (merged) file.")
-
-	# Writing log file
-	log_filename = "logs/pvalues_" + str_goid + "_c" + str(num_cycles).zfill(2) + "_r" + str(num_request_per_cycle).zfill(2) + "_bottle-" +\
-				   str(nr1) + "-" + str(nr2) + "_" + taxid + "_" + current_time_abbrev + ".tsv"
-
-	with open(log_filename, mode='a') as log_file:
+	# Writing detailed log file
+	with open(log_filename2, mode='a') as log_file:
 		writer = csv.writer(log_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
 		log_counter = 0
@@ -276,4 +285,4 @@ for taxid in taxon_list:
 			writer.writerow(line)
 			log_counter += 1
 
-	print(f"Parser has written {log_counter}: lines in {log_filename}.")
+	print(f"Parser has written {log_counter}: lines in {log_filename2}.")
