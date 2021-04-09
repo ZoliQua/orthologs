@@ -6,6 +6,7 @@
 #
 # Code written by Zoltan Dul, PhD (2021)
 # Contact me at zoltan dul [at] gmail.com
+#
 
 import csv
 import sys
