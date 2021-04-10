@@ -131,6 +131,7 @@ for taxid in taxon_list:
 	# Open GO file in Pandas as a DataFrame for this TaxID #
 	########################################################
 	selected_cols = ["Group ID", "Average H/M", "Total H/M", "Hit Proteins", "Total Proteins", "Hit Species", "Total Species"]
+
 	# Adding this taxid col_name
 	selected_cols.append(taxon_dict_go[taxid])
 
