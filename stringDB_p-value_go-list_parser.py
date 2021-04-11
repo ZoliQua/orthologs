@@ -2,7 +2,7 @@
 # EGGNOG RANDOM SELECTOR
 #
 # What this file do?
-# x
+# This file get p-values from STRING DB for a randomly selected pool of proteins.
 #
 # Code written by Zoltan Dul, PhD (2021)
 # Contact me at zoltan dul [at] gmail.com
