@@ -1,0 +1,579 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	TAXON ID	GENE_PRODUCT_SYNONYMS	GO ASPECT
+UniProtKB	A0A0A0MQR2	RTF2	GO:1902979	mitotic DNA replication termination	9606	RTF2	P
+UniProtKB	A0A0E3D6N5	mcm7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm7,MCM7	P
+UniProtKB	A0A0E4AXB8	mcm6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm6,Mcm6	P
+UniProtKB	A0A0E4AXB8	mcm6	GO:1902969	mitotic DNA replication	7955	mcm6,Mcm6	P
+UniProtKB	A0A0E4AY38	mcm3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm3,MCM3	P
+UniProtKB	A0A0E4AY38	mcm3	GO:1902975	mitotic DNA replication initiation	7955	mcm3,MCM3	P
+UniProtKB	A0A0E4AYA7	mcm6l	GO:1902969	mitotic DNA replication	7955	mcm6l,Mcm6	P
+UniProtKB	A0A0E4AYA7	mcm6l	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm6l,Mcm6	P
+UniProtKB	A0A0J9YJK4	mcm7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm7,MCM7	P
+UniProtKB	A0A0R4IF39	mcm7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm7,MCM7	P
+UniProtKB	A0A0R4IF65	mcm2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm2	P
+UniProtKB	A0A0R4IF65	mcm2	GO:1902975	mitotic DNA replication initiation	7955	mcm2	P
+UniProtKB	A0A0R4ILE7	mcm6l	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm6l	P
+UniProtKB	A0A0R4ILE7	mcm6l	GO:1902969	mitotic DNA replication	7955	mcm6l	P
+UniProtKB	A0A0R4IM40	mcm7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm7,MCM7	P
+UniProtKB	A0A0R4IRW9	mcm7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm7	P
+UniProtKB	A0A0R4IT16	rtf2	GO:1902979	mitotic DNA replication termination	7955	rtf2,rtfdc1	P
+UniProtKB	A0A178UAJ7	AXX17_At5g57350	GO:1902979	mitotic DNA replication termination	3702	AXX17_At5g57350	P
+UniProtKB	A0A178UQK2	AXX17_At5g20790	GO:1990426	mitotic recombination-dependent replication fork processing	3702	AXX17_At5g20790,AN1_LOCUS22879,AT9943_LOCUS19700,C24_LOCUS22765	P
+UniProtKB	A0A1P8AW53	PSF1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	3702	PSF1,partner of SLD five 1,At1g80190,F18B13.27,F18B13_27	P
+UniProtKB	A0A1P8BGT9	RAD51	GO:1990426	mitotic recombination-dependent replication fork processing	3702	RAD51,ATRAD51,At5g20850,F22D1.20,F22D1_20	P
+UniProtKB	A0A2R8Q089	mcmdc2	GO:1902975	mitotic DNA replication initiation	7955	mcmdc2	P
+UniProtKB	A0A2R8Q089	mcmdc2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcmdc2	P
+UniProtKB	A0A2R8Q0Q5	lig1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	7955	lig1	P
+UniProtKB	A0A2R8QU46	lig1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	7955	lig1	P
+UniProtKB	A0A2R8RYI2	mcm3l	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm3l	P
+UniProtKB	A0A2R8RYI2	mcm3l	GO:1902975	mitotic DNA replication initiation	7955	mcm3l	P
+UniProtKB	A0A654GCH3	AN1_LOCUS26096	GO:1902979	mitotic DNA replication termination	3702	AN1_LOCUS26096,AT9943_LOCUS22470,C24_LOCUS25921	P
+UniProtKB	A2A2L5	RTF2	GO:1902979	mitotic DNA replication termination	9606	RTF2	P
+UniProtKB	A2A2L6	RTF2	GO:1902979	mitotic DNA replication termination	9606	RTF2	P
+UniProtKB	A3KMS0	mcm6	GO:1902969	mitotic DNA replication	7955	mcm6	P
+UniProtKB	A3KMS0	mcm6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm6	P
+UniProtKB	A3KNV7	lig1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	7955	lig1,si:dkeyp-35b8.5	P
+UniProtKB	A7E2G8	lig1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	7955	lig1,si:dkeyp-35b8.5	P
+UniProtKB	A8WGM6	cdc45	GO:1902977	mitotic DNA replication preinitiation complex assembly	7955	cdc45,cdc45l	P
+UniProtKB	B0S533	lig1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	7955	lig1	P
+UniProtKB	B0S7S1	mcm6l	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm6l	P
+UniProtKB	B0S7S1	mcm6l	GO:1902969	mitotic DNA replication	7955	mcm6l	P
+UniProtKB	B2RB99	B2RB99	GO:1902979	mitotic DNA replication termination	9606		P
+UniProtKB	B4DEJ8	B4DEJ8	GO:1902979	mitotic DNA replication termination	9606		P
+UniProtKB	B4DXL5	B4DXL5	GO:1902979	mitotic DNA replication termination	9606		P
+UniProtKB	B8JKC1	mcm3l	GO:1902975	mitotic DNA replication initiation	7955	mcm3l,MCM3	P
+UniProtKB	B8JKC1	mcm3l	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm3l,MCM3	P
+UniProtKB	C1M2W1	rtf2	GO:1902979	mitotic DNA replication termination	4896	rtf2	P
+UniProtKB	C6SV45	spn-A-RA	GO:1990426	mitotic recombination-dependent replication fork processing	7227	spn-A-RA	P
+UniProtKB	C6Y4D0	dpb3	GO:0140529	CMG complex assembly	284812	dpb3,daf1,SPCC16C4.22	P
+UniProtKB	C6Y4D0	dpb3	GO:1902983	DNA strand elongation involved in mitotic DNA replication	284812	dpb3,daf1,SPCC16C4.22	P
+UniProtKB	C6Y4D0	dpb3	GO:1902975	mitotic DNA replication initiation	284812	dpb3,daf1,SPCC16C4.22	P
+UniProtKB	C7IVS4	pola-1	GO:1902975	mitotic DNA replication initiation	6239	pola-1,CELE_Y47D3A.29,Y47D3A.29	P
+UniProtKB	E7F2R5	cdt1	GO:0071163	DNA replication preinitiation complex assembly	7955	cdt1	P
+UniProtKB	E7FB68	pola1	GO:1902975	mitotic DNA replication initiation	7955	pola1	P
+UniProtKB	E9QIM3	pola1	GO:1902975	mitotic DNA replication initiation	7955	pola1	P
+UniProtKB	F1QK71	mcm5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm5	P
+UniProtKB	F1QNV6	pola1	GO:1902975	mitotic DNA replication initiation	7955	pola1	P
+UniProtKB	F1QP75	orc3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	orc3	P
+UniProtKB	F1QSV2	rtf2	GO:1902979	mitotic DNA replication termination	7955	rtf2,rtfdc1	P
+UniProtKB	F1QXM4	gins3	GO:1902975	mitotic DNA replication initiation	7955	gins3	P
+UniProtKB	F1R5P3	mcm6	GO:1902969	mitotic DNA replication	7955	mcm6	P
+UniProtKB	F1R5P3	mcm6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm6	P
+UniProtKB	F1R816	mcm6l	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm6l	P
+UniProtKB	F1R816	mcm6l	GO:1902969	mitotic DNA replication	7955	mcm6l	P
+UniProtKB	F1RAD9	gins1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	7955	gins1	P
+UniProtKB	F4JE17	At3g54750	GO:0033260	nuclear DNA replication	3702	At3g54750	P
+UniProtKB	F4KAB8	MCM6	GO:1902969	mitotic DNA replication	3702	MCM6,At5g44635,K15C23	P
+UniProtKB	F4KAB8	MCM6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3702	MCM6,At5g44635,K15C23	P
+UniProtKB	F8W3F6	cdt1	GO:0071163	DNA replication preinitiation complex assembly	7955	cdt1	P
+UniProtKB	G5EGG8	rad-51	GO:1990426	mitotic recombination-dependent replication fork processing	6239	rad-51,rad51,CELE_Y43C5A.6,Y43C5A.6	P
+UniProtKB	L8E822	rad-51	GO:1990426	mitotic recombination-dependent replication fork processing	6239	rad-51,CELE_Y43C5A.6,Y43C5A.6	P
+UniProtKB	O02209	tads-1	GO:1902979	mitotic DNA replication termination	6239	tads-1,C01A2.5,CELE_C01A2.5	P
+UniProtKB	O13351	pmt3	GO:1990426	mitotic recombination-dependent replication fork processing	284812	pmt3,smt3,ubl2,SPBC365.06	P
+UniProtKB	O13762	SPAC17A2.12	GO:1990505	mitotic DNA replication maintenance of fidelity	284812	SPAC17A2.12	P
+UniProtKB	O13984	SPAC26H5.02c	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	284812	SPAC26H5.02c	P
+UniProtKB	O13985	SPAC26H5.03	GO:1990426	mitotic recombination-dependent replication fork processing	284812	SPAC26H5.03	P
+UniProtKB	O14003	rfc3	GO:1903460	mitotic DNA replication leading strand elongation	284812	rfc3,SPAC27E2.10c,SPAPJ698.01c	P
+UniProtKB	O14215	pri1	GO:1902981	synthesis of RNA primer involved in mitotic DNA replication	284812	pri1,spp1,SPAC6B12.10c	P
+UniProtKB	O14216	drc1	GO:1902977	mitotic DNA replication preinitiation complex assembly	284812	drc1,sld2,SPAC6B12.11	P
+UniProtKB	O14216	drc1	GO:1902977	mitotic DNA replication preinitiation complex assembly	284812	drc1,sld2,SPAC6B12.11	P
+UniProtKB	O14216	drc1	GO:1902969	mitotic DNA replication	284812	drc1,sld2,SPAC6B12.11	P
+UniProtKB	O14246	tpz1	GO:1902990	mitotic telomere maintenance via semi-conservative replication	284812	tpz1,mug169,SPAC6F6.16c,SPAC6F6.18c	P
+UniProtKB	O14246	tpz1	GO:1902990	mitotic telomere maintenance via semi-conservative replication	284812	tpz1,mug169,SPAC6F6.16c,SPAC6F6.18c	P
+UniProtKB	O14332	rem1	GO:0006279	premeiotic DNA replication	284812	rem1,SPBC16E9.17c	P
+UniProtKB	O16297	mcm-7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	6239	mcm-7,MCM7,CELE_F32D1.10,F32D1.10	P
+UniProtKB	O42709	mcm10	GO:1902975	mitotic DNA replication initiation	284812	mcm10,cdc23,SPBC1347.10	P
+UniProtKB	O43086	elg1	GO:1902969	mitotic DNA replication	284812	elg1,SPBC947.11c	P
+UniProtKB	O43114	orc5	GO:1902975	mitotic DNA replication initiation	284812	orc5,orp5,SPBC646.14c	P
+UniProtKB	O59835	cdm1	GO:1903459	mitotic DNA replication lagging strand elongation	284812	cdm1,SPBC12D12.02c	P
+UniProtKB	O60126	top3	GO:1902969	mitotic DNA replication	284812	top3,SPBC16G5.12c	P
+UniProtKB	O60177	SPBC23E6.02	GO:1990505	mitotic DNA replication maintenance of fidelity	284812	SPBC23E6.02	P
+UniProtKB	O60182	rfc1	GO:1903460	mitotic DNA replication leading strand elongation	284812	rfc1,SPBC23E6.07c	P
+UniProtKB	O74113	sna41	GO:1902977	mitotic DNA replication preinitiation complex assembly	284812	sna41,SPAC17D4.02	P
+UniProtKB	O74113	sna41	GO:1902977	mitotic DNA replication preinitiation complex assembly	284812	sna41,SPAC17D4.02	P
+UniProtKB	O74113	sna41	GO:1902977	mitotic DNA replication preinitiation complex assembly	284812	sna41,SPAC17D4.02	P
+UniProtKB	O74113	sna41	GO:1902975	mitotic DNA replication initiation	284812	sna41,SPAC17D4.02	P
+UniProtKB	O74761	pri2	GO:1902981	synthesis of RNA primer involved in mitotic DNA replication	284812	pri2,spp2,SPBC17D11.06	P
+UniProtKB	O74796	orc6	GO:1902975	mitotic DNA replication initiation	284812	orc6,SPBC2A9.12,SPBC2D10.02	P
+UniProtKB	O74946	pol12	GO:1902981	synthesis of RNA primer involved in mitotic DNA replication	284812	pol12,spb70,SPCC553.09c	P
+UniProtKB	O74946	pol12	GO:1902975	mitotic DNA replication initiation	284812	pol12,spb70,SPCC553.09c	P
+UniProtKB	O74986	ctp1	GO:1903211	mitotic recombination involved in replication fork processing	284812	ctp1,mug38,nip1,slr9,SPCC338.08	P
+UniProtKB	O75001	mcm7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	284812	mcm7,SPBC25D12.03c	P
+UniProtKB	O75001	mcm7	GO:1902975	mitotic DNA replication initiation	284812	mcm7,SPBC25D12.03c	P
+UniProtKB	O75004	cdc24	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	284812	cdc24,SPAC8F11.07c	P
+UniProtKB	O75419	CDC45	GO:1902977	mitotic DNA replication preinitiation complex assembly	9606	CDC45,CDC45L,CDC45L2,UNQ374/PRO710	P
+UniProtKB	O75496	GMNN	GO:0071163	DNA replication preinitiation complex assembly	9606	GMNN	P
+UniProtKB	O80786	MCM5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3702	MCM5,At2g07690,T12J2	P
+UniProtKB	O94247	hcs1	GO:1903459	mitotic DNA replication lagging strand elongation	284812	hcs1,SPCC737.07c	P
+UniProtKB	O94263	dpb2	GO:0140529	CMG complex assembly	284812	dpb2,SPBP8B7.14c	P
+UniProtKB	O94263	dpb2	GO:1902983	DNA strand elongation involved in mitotic DNA replication	284812	dpb2,SPBP8B7.14c	P
+UniProtKB	O94263	dpb2	GO:1902975	mitotic DNA replication initiation	284812	dpb2,SPBP8B7.14c	P
+UniProtKB	O94329	psf2	GO:1902975	mitotic DNA replication initiation	284812	psf2,bsh3,dre13,SPBC725.13c	P
+UniProtKB	O94329	psf2	GO:1902969	mitotic DNA replication	284812	psf2,bsh3,dre13,SPBC725.13c	P
+UniProtKB	O94444	rpn10	GO:1990426	mitotic recombination-dependent replication fork processing	284812	rpn10,pus1,SPAC637.10c	P
+UniProtKB	O94449	rfc4	GO:1903460	mitotic DNA replication leading strand elongation	284812	rfc4,SPAC1687.03c	P
+UniProtKB	O94450	SPAC1687.04	GO:1902969	mitotic DNA replication	284812	SPAC1687.04	P
+UniProtKB	O94627	rnh202	GO:1903469	removal of RNA primer involved in mitotic DNA replication	284812	rnh202,SPBC1347.08c	P
+UniProtKB	O96989	Cdc45	GO:1902977	mitotic DNA replication preinitiation complex assembly	7227	Cdc45,CDC45,CDC45L,D,DmCdc45,Dmel\CG3658,EG:BACR7A4.11,anon-1Ec,cdc45,dCDC45,dCDC45L,CG3658,Dmel_CG3658	P
+UniProtKB	P04819	CDC9	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	559292	CDC9,YDL164C	P
+UniProtKB	P06243	CDC7	GO:0006279	premeiotic DNA replication	559292	CDC7,OAF2,YDL017W,D2855	P
+UniProtKB	P06243	CDC7	GO:1902977	mitotic DNA replication preinitiation complex assembly	559292	CDC7,OAF2,YDL017W,D2855	P
+UniProtKB	P06243	CDC7	GO:1902977	mitotic DNA replication preinitiation complex assembly	559292	CDC7,OAF2,YDL017W,D2855	P
+UniProtKB	P06243	CDC7	GO:1902977	mitotic DNA replication preinitiation complex assembly	559292	CDC7,OAF2,YDL017W,D2855	P
+UniProtKB	P09119	CDC6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	CDC6,YJL194W,J0347	P
+UniProtKB	P09119	CDC6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	CDC6,YJL194W,J0347	P
+UniProtKB	P09119	CDC6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	CDC6,YJL194W,J0347	P
+UniProtKB	P09119	CDC6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	CDC6,YJL194W,J0347	P
+UniProtKB	P09119	CDC6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	CDC6,YJL194W,J0347	P
+UniProtKB	P09884	POLA1	GO:1902975	mitotic DNA replication initiation	9606	POLA1,POLA	P
+UniProtKB	P09884	POLA1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLA1,POLA	P
+UniProtKB	P09884	POLA1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLA1,POLA	P
+UniProtKB	P09884	POLA1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLA1,POLA	P
+UniProtKB	P09884	POLA1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLA1,POLA	P
+UniProtKB	P0A8J2	dnaT	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	83333	dnaT,JW4326,b4362	P
+UniProtKB	P0CG13	CHTF8	GO:0032201	telomere maintenance via semi-conservative replication	9606	CHTF8,CTF8	P
+UniProtKB	P12000	cdc17	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	284812	cdc17,SPAC20G8.01,SPAC57A10.13c	P
+UniProtKB	P12000	cdc17	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	284812	cdc17,SPAC20G8.01,SPAC57A10.13c	P
+UniProtKB	P12004	PCNA	GO:0032201	telomere maintenance via semi-conservative replication	9606	PCNA	P
+UniProtKB	P12004	PCNA	GO:0032201	telomere maintenance via semi-conservative replication	9606	PCNA	P
+UniProtKB	P12004	PCNA	GO:0032201	telomere maintenance via semi-conservative replication	9606	PCNA	P
+UniProtKB	P12004	PCNA	GO:0032201	telomere maintenance via semi-conservative replication	9606	PCNA	P
+UniProtKB	P12004	PCNA	GO:0032201	telomere maintenance via semi-conservative replication	9606	PCNA	P
+UniProtKB	P12004	PCNA	GO:0032201	telomere maintenance via semi-conservative replication	9606	PCNA	P
+UniProtKB	P12004	PCNA	GO:1902990	mitotic telomere maintenance via semi-conservative replication	9606	PCNA	P
+UniProtKB	P12004	PCNA	GO:1902990	mitotic telomere maintenance via semi-conservative replication	9606	PCNA	P
+UniProtKB	P13382	POL1	GO:1902975	mitotic DNA replication initiation	559292	POL1,CDC17,YNL102W,N2181	P
+UniProtKB	P13382	POL1	GO:0006279	premeiotic DNA replication	559292	POL1,CDC17,YNL102W,N2181	P
+UniProtKB	P15927	RPA2	GO:0032201	telomere maintenance via semi-conservative replication	9606	RPA2,REPA2,RPA32,RPA34	P
+UniProtKB	P15927	RPA2	GO:0032201	telomere maintenance via semi-conservative replication	9606	RPA2,REPA2,RPA32,RPA34	P
+UniProtKB	P15927	RPA2	GO:0032201	telomere maintenance via semi-conservative replication	9606	RPA2,REPA2,RPA32,RPA34	P
+UniProtKB	P18858	LIG1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	9606	LIG1	P
+UniProtKB	P24279	MCM3	GO:1902975	mitotic DNA replication initiation	559292	MCM3,YEL032W,SYGP-ORF23	P
+UniProtKB	P24279	MCM3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM3,YEL032W,SYGP-ORF23	P
+UniProtKB	P24279	MCM3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM3,YEL032W,SYGP-ORF23	P
+UniProtKB	P24279	MCM3	GO:1902975	mitotic DNA replication initiation	559292	MCM3,YEL032W,SYGP-ORF23	P
+UniProtKB	P25205	MCM3	GO:1902975	mitotic DNA replication initiation	9606	MCM3	P
+UniProtKB	P25205	MCM3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	9606	MCM3	P
+UniProtKB	P25454	RAD51	GO:1990426	mitotic recombination-dependent replication fork processing	559292	RAD51,YER095W	P
+UniProtKB	P26019	PolA1	GO:1902975	mitotic DNA replication initiation	7227	PolA1,DNApol-alpha,DNApol-alpha180,POLA,CG6349	P
+UniProtKB	P27694	RPA1	GO:0032201	telomere maintenance via semi-conservative replication	9606	RPA1,REPA1,RPA70	P
+UniProtKB	P27694	RPA1	GO:0032201	telomere maintenance via semi-conservative replication	9606	RPA1,REPA1,RPA70	P
+UniProtKB	P27694	RPA1	GO:0032201	telomere maintenance via semi-conservative replication	9606	RPA1,REPA1,RPA70	P
+UniProtKB	P28040	pol1	GO:1902975	mitotic DNA replication initiation	284812	pol1,swi7,SPAC3H5.06c	P
+UniProtKB	P28040	pol1	GO:0006279	premeiotic DNA replication	284812	pol1,swi7,SPAC3H5.06c	P
+UniProtKB	P28040	pol1	GO:1902981	synthesis of RNA primer involved in mitotic DNA replication	284812	pol1,swi7,SPAC3H5.06c	P
+UniProtKB	P28040	pol1	GO:1902975	mitotic DNA replication initiation	284812	pol1,swi7,SPAC3H5.06c	P
+UniProtKB	P28340	POLD1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD1,POLD	P
+UniProtKB	P28340	POLD1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD1,POLD	P
+UniProtKB	P28340	POLD1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD1,POLD	P
+UniProtKB	P28340	POLD1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD1,POLD	P
+UniProtKB	P28340	POLD1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD1,POLD	P
+UniProtKB	P29458	mcm4	GO:1902975	mitotic DNA replication initiation	284812	mcm4,cdc21,SPCC16A11.17,SPCC24B10.01	P
+UniProtKB	P29458	mcm4	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	284812	mcm4,cdc21,SPCC16A11.17,SPCC24B10.01	P
+UniProtKB	P29458	mcm4	GO:0006279	premeiotic DNA replication	284812	mcm4,cdc21,SPCC16A11.17,SPCC24B10.01	P
+UniProtKB	P29458	mcm4	GO:1902975	mitotic DNA replication initiation	284812	mcm4,cdc21,SPCC16A11.17,SPCC24B10.01	P
+UniProtKB	P29469	MCM2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM2,YBL023C,YBL0438	P
+UniProtKB	P29469	MCM2	GO:1902975	mitotic DNA replication initiation	559292	MCM2,YBL023C,YBL0438	P
+UniProtKB	P29469	MCM2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM2,YBL023C,YBL0438	P
+UniProtKB	P29469	MCM2	GO:1902975	mitotic DNA replication initiation	559292	MCM2,YBL023C,YBL0438	P
+UniProtKB	P29469	MCM2	GO:1902975	mitotic DNA replication initiation	559292	MCM2,YBL023C,YBL0438	P
+UniProtKB	P29496	MCM5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM5,CDC46,YLR274W,L9328.1	P
+UniProtKB	P29496	MCM5	GO:0033260	nuclear DNA replication	559292	MCM5,CDC46,YLR274W,L9328.1	P
+UniProtKB	P29496	MCM5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM5,CDC46,YLR274W,L9328.1	P
+UniProtKB	P30261	cdc27	GO:1903460	mitotic DNA replication leading strand elongation	284812	cdc27,SPBC1734.02c,SPBC337.18c	P
+UniProtKB	P30261	cdc27	GO:1903459	mitotic DNA replication lagging strand elongation	284812	cdc27,SPBC1734.02c,SPBC337.18c	P
+UniProtKB	P30283	CLB5	GO:0006279	premeiotic DNA replication	559292	CLB5,YPR120C,P9642.8	P
+UniProtKB	P30283	CLB5	GO:0006279	premeiotic DNA replication	559292	CLB5,YPR120C,P9642.8	P
+UniProtKB	P30316	pol3	GO:1903459	mitotic DNA replication lagging strand elongation	284812	pol3,pold,SPBC336.04	P
+UniProtKB	P30316	pol3	GO:1903459	mitotic DNA replication lagging strand elongation	284812	pol3,pold,SPBC336.04	P
+UniProtKB	P30665	MCM4	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM4,CDC54,HCD21,YPR019W,YP9531.13	P
+UniProtKB	P30665	MCM4	GO:1902975	mitotic DNA replication initiation	559292	MCM4,CDC54,HCD21,YPR019W,YP9531.13	P
+UniProtKB	P30665	MCM4	GO:0033260	nuclear DNA replication	559292	MCM4,CDC54,HCD21,YPR019W,YP9531.13	P
+UniProtKB	P30665	MCM4	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM4,CDC54,HCD21,YPR019W,YP9531.13	P
+UniProtKB	P30666	mcm3	GO:1902975	mitotic DNA replication initiation	284812	mcm3,SPCC1682.02c	P
+UniProtKB	P30666	mcm3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	284812	mcm3,SPCC1682.02c	P
+UniProtKB	P30666	mcm3	GO:1902975	mitotic DNA replication initiation	284812	mcm3,SPCC1682.02c	P
+UniProtKB	P32325	DBF4	GO:0006279	premeiotic DNA replication	559292	DBF4,DNA52,YDR052C,D4205,YD9609.07C	P
+UniProtKB	P32833	ORC2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	ORC2,RRR1,SIR5,YBR060C,YBR0523	P
+UniProtKB	P32943	CLB6	GO:0006279	premeiotic DNA replication	559292	CLB6,YGR109C,G5970	P
+UniProtKB	P32943	CLB6	GO:0006279	premeiotic DNA replication	559292	CLB6,YGR109C,G5970	P
+UniProtKB	P33991	MCM4	GO:1902975	mitotic DNA replication initiation	9606	MCM4,CDC21	P
+UniProtKB	P33991	MCM4	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	9606	MCM4,CDC21	P
+UniProtKB	P33992	MCM5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	9606	MCM5,CDC46	P
+UniProtKB	P33993	MCM7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	9606	MCM7,CDC47,MCM2	P
+UniProtKB	P34252	SLD2	GO:1902977	mitotic DNA replication preinitiation complex assembly	559292	SLD2,DRC1,YKL108W,YKL463	P
+UniProtKB	P34252	SLD2	GO:0071163	DNA replication preinitiation complex assembly	559292	SLD2,DRC1,YKL108W,YKL463	P
+UniProtKB	P34647	mcm-6	GO:1902969	mitotic DNA replication	6239	mcm-6,ZK632.1	P
+UniProtKB	P34647	mcm-6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	6239	mcm-6,ZK632.1	P
+UniProtKB	P34730	BMH2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	BMH2,YDR099W,YD8557.08	P
+UniProtKB	P35244	RPA3	GO:0032201	telomere maintenance via semi-conservative replication	9606	RPA3,REPA3,RPA14	P
+UniProtKB	P35244	RPA3	GO:0032201	telomere maintenance via semi-conservative replication	9606	RPA3,REPA3,RPA14	P
+UniProtKB	P35244	RPA3	GO:0032201	telomere maintenance via semi-conservative replication	9606	RPA3,REPA3,RPA14	P
+UniProtKB	P35249	RFC4	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC4	P
+UniProtKB	P35249	RFC4	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC4	P
+UniProtKB	P35249	RFC4	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC4	P
+UniProtKB	P35249	RFC4	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC4	P
+UniProtKB	P35250	RFC2	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC2	P
+UniProtKB	P35250	RFC2	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC2	P
+UniProtKB	P35250	RFC2	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC2	P
+UniProtKB	P35250	RFC2	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC2	P
+UniProtKB	P35251	RFC1	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC1,RFC140	P
+UniProtKB	P35251	RFC1	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC1,RFC140	P
+UniProtKB	P35251	RFC1	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC1,RFC140	P
+UniProtKB	P36592	rad22	GO:1990426	mitotic recombination-dependent replication fork processing	284812	rad22,SPAC30D11.10	P
+UniProtKB	P36601	rhp51	GO:1990426	mitotic recombination-dependent replication fork processing	284812	rhp51,rad51,SPAC644.14c	P
+UniProtKB	P36601	rhp51	GO:1990426	mitotic recombination-dependent replication fork processing	284812	rhp51,rad51,SPAC644.14c	P
+UniProtKB	P38132	MCM7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM7,CDC47,YBR202W,YBR1441	P
+UniProtKB	P38132	MCM7	GO:0033260	nuclear DNA replication	559292	MCM7,CDC47,YBR202W,YBR1441	P
+UniProtKB	P38132	MCM7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM7,CDC47,YBR202W,YBR1441	P
+UniProtKB	P38148	PPS1	GO:0033260	nuclear DNA replication	559292	PPS1,YBR276C,YBR2013	P
+UniProtKB	P38148	PPS1	GO:0033260	nuclear DNA replication	559292	PPS1,YBR276C,YBR2013	P
+UniProtKB	P38236	MUM2	GO:0006279	premeiotic DNA replication	559292	MUM2,YBR057C,YBR0514	P
+UniProtKB	P38741	RIM4	GO:0006279	premeiotic DNA replication	559292	RIM4,YHL024W	P
+UniProtKB	P38803	IPI1	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	IPI1,YHR085W	P
+UniProtKB	P38826	ORC6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	ORC6,AAP1,YHR118C	P
+UniProtKB	P38883	RIX1	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	RIX1,IPI2,YHR197W	P
+UniProtKB	P39748	FEN1	GO:0032201	telomere maintenance via semi-conservative replication	9606	FEN1,RAD2	P
+UniProtKB	P40377	mcm2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	284812	mcm2,cdc19,nda1,SPBC4.04c	P
+UniProtKB	P40377	mcm2	GO:1902975	mitotic DNA replication initiation	284812	mcm2,cdc19,nda1,SPBC4.04c	P
+UniProtKB	P40377	mcm2	GO:0006279	premeiotic DNA replication	284812	mcm2,cdc19,nda1,SPBC4.04c	P
+UniProtKB	P40377	mcm2	GO:1902975	mitotic DNA replication initiation	284812	mcm2,cdc19,nda1,SPBC4.04c	P
+UniProtKB	P40382	cdt1	GO:0071163	DNA replication preinitiation complex assembly	284812	cdt1,SPBC428.18	P
+UniProtKB	P40382	cdt1	GO:1902985	mitotic pre-replicative complex assembly	284812	cdt1,SPBC428.18	P
+UniProtKB	P40847	sap1	GO:1902985	mitotic pre-replicative complex assembly	284812	sap1,SPCC1672.02c	P
+UniProtKB	P40937	RFC5	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC5	P
+UniProtKB	P40937	RFC5	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC5	P
+UniProtKB	P40937	RFC5	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC5	P
+UniProtKB	P40937	RFC5	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC5	P
+UniProtKB	P40938	RFC3	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC3	P
+UniProtKB	P40938	RFC3	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC3	P
+UniProtKB	P40938	RFC3	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC3	P
+UniProtKB	P40938	RFC3	GO:0032201	telomere maintenance via semi-conservative replication	9606	RFC3	P
+UniProtKB	P41389	mcm5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	284812	mcm5,nda4,SPAC1B2.05,SPAC3F10.01	P
+UniProtKB	P41389	mcm5	GO:1902975	mitotic DNA replication initiation	284812	mcm5,nda4,SPAC1B2.05,SPAC3F10.01	P
+UniProtKB	P41411	cdc18	GO:0140530	MCM complex loading	284812	cdc18,SPBC14C8.07c	P
+UniProtKB	P41411	cdc18	GO:0140530	MCM complex loading	284812	cdc18,SPBC14C8.07c	P
+UniProtKB	P41411	cdc18	GO:1902985	mitotic pre-replicative complex assembly	284812	cdc18,SPBC14C8.07c	P
+UniProtKB	P41833	IME4	GO:1902974	meiotic DNA replication initiation	559292	IME4,SPO8,YGL192W,G1337	P
+UniProtKB	P43299	MCM7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3702	MCM7,PRL,At4g02060,AGAA.2,T10M13.7	P
+UniProtKB	P47112	TAH11	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	TAH11,CDT1,SID2,YJR046W,J1641	P
+UniProtKB	P49005	POLD2	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD2	P
+UniProtKB	P49005	POLD2	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD2	P
+UniProtKB	P49005	POLD2	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD2	P
+UniProtKB	P49005	POLD2	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD2	P
+UniProtKB	P49005	POLD2	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD2	P
+UniProtKB	P49642	PRIM1	GO:0032201	telomere maintenance via semi-conservative replication	9606	PRIM1	P
+UniProtKB	P49642	PRIM1	GO:0032201	telomere maintenance via semi-conservative replication	9606	PRIM1	P
+UniProtKB	P49642	PRIM1	GO:0032201	telomere maintenance via semi-conservative replication	9606	PRIM1	P
+UniProtKB	P49642	PRIM1	GO:0032201	telomere maintenance via semi-conservative replication	9606	PRIM1	P
+UniProtKB	P49643	PRIM2	GO:0032201	telomere maintenance via semi-conservative replication	9606	PRIM2,PRIM2A	P
+UniProtKB	P49643	PRIM2	GO:0032201	telomere maintenance via semi-conservative replication	9606	PRIM2,PRIM2A	P
+UniProtKB	P49643	PRIM2	GO:0032201	telomere maintenance via semi-conservative replication	9606	PRIM2,PRIM2A	P
+UniProtKB	P49643	PRIM2	GO:0032201	telomere maintenance via semi-conservative replication	9606	PRIM2,PRIM2A	P
+UniProtKB	P49731	mcm6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	284812	mcm6,mis5,SPBC211.04c	P
+UniProtKB	P49731	mcm6	GO:1902969	mitotic DNA replication	284812	mcm6,mis5,SPBC211.04c	P
+UniProtKB	P49731	mcm6	GO:0006279	premeiotic DNA replication	284812	mcm6,mis5,SPBC211.04c	P
+UniProtKB	P49731	mcm6	GO:1902975	mitotic DNA replication initiation	284812	mcm6,mis5,SPBC211.04c	P
+UniProtKB	P49731	mcm6	GO:1902969	mitotic DNA replication	284812	mcm6,mis5,SPBC211.04c	P
+UniProtKB	P49735	Mcm2	GO:1902975	mitotic DNA replication initiation	7227	Mcm2,CG7538	P
+UniProtKB	P49735	Mcm2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	Mcm2,CG7538	P
+UniProtKB	P49736	MCM2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	9606	MCM2,BM28,CCNL1,CDCL1,KIAA0030	P
+UniProtKB	P49736	MCM2	GO:1902975	mitotic DNA replication initiation	9606	MCM2,BM28,CCNL1,CDCL1,KIAA0030	P
+UniProtKB	P50582	hsk1	GO:1902975	mitotic DNA replication initiation	284812	hsk1,SPBC776.12c	P
+UniProtKB	P50582	hsk1	GO:1902975	mitotic DNA replication initiation	284812	hsk1,SPBC776.12c	P
+UniProtKB	P50582	hsk1	GO:1902975	mitotic DNA replication initiation	284812	hsk1,SPBC776.12c	P
+UniProtKB	P50874	ORC5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	ORC5,YNL261W,N0834	P
+UniProtKB	P51530	DNA2	GO:0032201	telomere maintenance via semi-conservative replication	9606	DNA2,DNA2L,KIAA0083	P
+UniProtKB	P51530	DNA2	GO:0032201	telomere maintenance via semi-conservative replication	9606	DNA2,DNA2L,KIAA0083	P
+UniProtKB	P51530	DNA2	GO:1902990	mitotic telomere maintenance via semi-conservative replication	9606	DNA2,DNA2L,KIAA0083	P
+UniProtKB	P51530	DNA2	GO:1902990	mitotic telomere maintenance via semi-conservative replication	9606	DNA2,DNA2L,KIAA0083	P
+UniProtKB	P51587	BRCA2	GO:1990426	mitotic recombination-dependent replication fork processing	9606	BRCA2,FACD,FANCD1	P
+UniProtKB	P53091	MCM6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM6,YGL201C	P
+UniProtKB	P53091	MCM6	GO:1902969	mitotic DNA replication	559292	MCM6,YGL201C	P
+UniProtKB	P53091	MCM6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	MCM6,YGL201C	P
+UniProtKB	P53695	exo1	GO:1903211	mitotic recombination involved in replication fork processing	284812	exo1,SPBC29A10.05	P
+UniProtKB	P53877	IPI3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	IPI3,YNL182C,N1636	P
+UniProtKB	P54132	BLM	GO:0032201	telomere maintenance via semi-conservative replication	9606	BLM,RECQ2,RECQL3	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54274	TERF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF1,PIN2,TRBF1,TRF,TRF1	P
+UniProtKB	P54784	ORC1	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	ORC1,YML065W	P
+UniProtKB	P54784	ORC1	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	ORC1,YML065W	P
+UniProtKB	P54789	orc1	GO:1902975	mitotic DNA replication initiation	284812	orc1,orp1,SPBC29A10.15	P
+UniProtKB	P54789	orc1	GO:1902969	mitotic DNA replication	284812	orc1,orp1,SPBC29A10.15	P
+UniProtKB	P54790	ORC3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	ORC3,OAF1,OIF1,YLL004W,L1365	P
+UniProtKB	P54790	ORC3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	ORC3,OAF1,OIF1,YLL004W,L1365	P
+UniProtKB	P54791	ORC4	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	ORC4,YPR162C,P9325.5	P
+UniProtKB	P79005	taz1	GO:1902990	mitotic telomere maintenance via semi-conservative replication	284812	taz1,myb,myb1,SPAC16A10.07c	P
+UniProtKB	P79005	taz1	GO:1902990	mitotic telomere maintenance via semi-conservative replication	284812	taz1,myb,myb1,SPAC16A10.07c	P
+UniProtKB	P87154	pol2	GO:0006279	premeiotic DNA replication	284812	pol2,cdc20,SPBC25H2.13c	P
+UniProtKB	P87154	pol2	GO:0140529	CMG complex assembly	284812	pol2,cdc20,SPBC25H2.13c	P
+UniProtKB	P87154	pol2	GO:1902983	DNA strand elongation involved in mitotic DNA replication	284812	pol2,cdc20,SPBC25H2.13c	P
+UniProtKB	P87154	pol2	GO:1902975	mitotic DNA replication initiation	284812	pol2,cdc20,SPBC25H2.13c	P
+UniProtKB	P87154	pol2	GO:1903460	mitotic DNA replication leading strand elongation	284812	pol2,cdc20,SPBC25H2.13c	P
+UniProtKB	P87154	pol2	GO:1903460	mitotic DNA replication leading strand elongation	284812	pol2,cdc20,SPBC25H2.13c	P
+UniProtKB	P87174	dpb4	GO:0140529	CMG complex assembly	284812	dpb4,SPBC3D6.09	P
+UniProtKB	P87174	dpb4	GO:1902983	DNA strand elongation involved in mitotic DNA replication	284812	dpb4,SPBC3D6.09	P
+UniProtKB	P87324	cdc1	GO:0006279	premeiotic DNA replication	284812	cdc1,SPAC27E2.05	P
+UniProtKB	P87324	cdc1	GO:1903460	mitotic DNA replication leading strand elongation	284812	cdc1,SPAC27E2.05	P
+UniProtKB	P87324	cdc1	GO:1903459	mitotic DNA replication lagging strand elongation	284812	cdc1,SPAC27E2.05	P
+UniProtKB	P94102	RAD51	GO:1990426	mitotic recombination-dependent replication fork processing	3702	RAD51,At5g20850,F22D1.20	P
+UniProtKB	Q02796	LGE1	GO:0006279	premeiotic DNA replication	559292	LGE1,YPL055C	P
+UniProtKB	Q03392	pcn1	GO:1903460	mitotic DNA replication leading strand elongation	284812	pcn1,pcn,SPBC16D10.09	P
+UniProtKB	Q03392	pcn1	GO:1903459	mitotic DNA replication lagging strand elongation	284812	pcn1,pcn,SPBC16D10.09	P
+UniProtKB	Q06609	RAD51	GO:1990426	mitotic recombination-dependent replication fork processing	9606	RAD51,RAD51A,RECA	P
+UniProtKB	Q07896	NOC3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	559292	NOC3,YLR002C	P
+UniProtKB	Q08032	CDC45	GO:1902977	mitotic DNA replication preinitiation complex assembly	559292	CDC45,SLD4,YLR103C,L8004.11	P
+UniProtKB	Q09142	orc2	GO:1902975	mitotic DNA replication initiation	284812	orc2,orp2,SPBC685.09	P
+UniProtKB	Q09761	sld3	GO:1902975	mitotic DNA replication initiation	284812	sld3,mug175,SPAC24H6.06	P
+UniProtKB	Q09811	rqh1	GO:1990426	mitotic recombination-dependent replication fork processing	284812	rqh1,hus2,rad12,rec9,SPAC2G11.12	P
+UniProtKB	Q09843	rfc2	GO:1903460	mitotic DNA replication leading strand elongation	284812	rfc2,SPAC23D3.02	P
+UniProtKB	Q0KHR4	mei-218	GO:1902975	mitotic DNA replication initiation	7227	mei-218,CG33067,Dmel\CG8923,mei-218-RB,mei-218-RD,CG8923,Dmel_CG8923	P
+UniProtKB	Q0KHR4	mei-218	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	mei-218,CG33067,Dmel\CG8923,mei-218-RB,mei-218-RD,CG8923,Dmel_CG8923	P
+UniProtKB	Q0WU10	At5g20850	GO:1990426	mitotic recombination-dependent replication fork processing	3702	At5g20850	P
+UniProtKB	Q0WVF5	MCM4	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3702	MCM4,At2g16440,F16F14.6	P
+UniProtKB	Q0WVF5	MCM4	GO:1902975	mitotic DNA replication initiation	3702	MCM4,At2g16440,F16F14.6	P
+UniProtKB	Q10067	orc3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	284812	orc3,orp3,SPAC3H1.01c,SPAP14E8.06c	P
+UniProtKB	Q10067	orc3	GO:1902975	mitotic DNA replication initiation	284812	orc3,orp3,SPAC3H1.01c,SPAP14E8.06c	P
+UniProtKB	Q10154	rtf2	GO:1902979	mitotic DNA replication termination	284812	rtf2,SPAC1D4.09c	P
+UniProtKB	Q10236	rnh201	GO:1902969	mitotic DNA replication	284812	rnh201,SPAC4G9.02	P
+UniProtKB	Q10448	SPAC12B10.15c	GO:1903469	removal of RNA primer involved in mitotic DNA replication	284812	SPAC12B10.15c	P
+UniProtKB	Q12146	PSF3	GO:1902975	mitotic DNA replication initiation	559292	PSF3,YOL146W	P
+UniProtKB	Q12488	PSF1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	559292	PSF1,YDR013W,PZA208,YD8119.18	P
+UniProtKB	Q13156	RPA4	GO:0033260	nuclear DNA replication	9606	RPA4	P
+UniProtKB	Q13156	RPA4	GO:0033260	nuclear DNA replication	9606	RPA4	P
+UniProtKB	Q14181	POLA2	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLA2	P
+UniProtKB	Q14181	POLA2	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLA2	P
+UniProtKB	Q14181	POLA2	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLA2	P
+UniProtKB	Q14181	POLA2	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLA2	P
+UniProtKB	Q14191	WRN	GO:0032201	telomere maintenance via semi-conservative replication	9606	WRN,RECQ3,RECQL2	P
+UniProtKB	Q14566	MCM6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	9606	MCM6	P
+UniProtKB	Q14566	MCM6	GO:1902969	mitotic DNA replication	9606	MCM6	P
+UniProtKB	Q14691	GINS1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	9606	GINS1,KIAA0186,PSF1	P
+UniProtKB	Q15054	POLD3	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD3,KIAA0039	P
+UniProtKB	Q15054	POLD3	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD3,KIAA0039	P
+UniProtKB	Q15054	POLD3	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD3,KIAA0039	P
+UniProtKB	Q15054	POLD3	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD3,KIAA0039	P
+UniProtKB	Q15054	POLD3	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD3,KIAA0039	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q15554	TERF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2,TRBF2,TRF2	P
+UniProtKB	Q1MTN9	rlf2	GO:1990426	mitotic recombination-dependent replication fork processing	284812	rlf2,SPBC29A10.03c	P
+UniProtKB	Q21902	mcm-5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	6239	mcm-5,R10E4.4	P
+UniProtKB	Q22019	psf-1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	6239	psf-1,R53.6	P
+UniProtKB	Q22139	sel-13	GO:0033260	nuclear DNA replication	6239	sel-13,CELE_T04A8.10,T04A8.10	P
+UniProtKB	Q24137	mei-218	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	mei-218,CG8923	P
+UniProtKB	Q24137	mei-218	GO:1902975	mitotic DNA replication initiation	7227	mei-218,CG8923	P
+UniProtKB	Q26454	dpa	GO:1902975	mitotic DNA replication initiation	7227	dpa,CG1616	P
+UniProtKB	Q26454	dpa	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	dpa,CG1616	P
+UniProtKB	Q27297	spn-A	GO:1990426	mitotic recombination-dependent replication fork processing	7227	spn-A,DMR,Rad51,CG7948	P
+UniProtKB	Q27474	lig-1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	6239	lig-1,C29A12.3	P
+UniProtKB	Q2NKJ3	CTC1	GO:0032201	telomere maintenance via semi-conservative replication	9606	CTC1,C17orf68	P
+UniProtKB	Q2NKJ3	CTC1	GO:0032201	telomere maintenance via semi-conservative replication	9606	CTC1,C17orf68	P
+UniProtKB	Q2NKJ3	CTC1	GO:0032201	telomere maintenance via semi-conservative replication	9606	CTC1,C17orf68	P
+UniProtKB	Q2NKJ3	CTC1	GO:0032201	telomere maintenance via semi-conservative replication	9606	CTC1,C17orf68	P
+UniProtKB	Q3YNA4	Orc3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	Orc3,lat,CG4088	P
+UniProtKB	Q4G0Z9	MCMDC2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	9606	MCMDC2,C8orf45	P
+UniProtKB	Q4G0Z9	MCMDC2	GO:1902975	mitotic DNA replication initiation	9606	MCMDC2,C8orf45	P
+UniProtKB	Q4V9J1	mcm6l	GO:1902969	mitotic DNA replication	7955	mcm6l	P
+UniProtKB	Q4V9J1	mcm6l	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm6l	P
+UniProtKB	Q5RIC5	mcm3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm3	P
+UniProtKB	Q5RIC5	mcm3	GO:1902975	mitotic DNA replication initiation	7955	mcm3	P
+UniProtKB	Q5TYR1	rad51	GO:1990426	mitotic recombination-dependent replication fork processing	7955	rad51	P
+UniProtKB	Q5U0A5	Q5U0A5	GO:1990426	mitotic recombination-dependent replication fork processing	9606		P
+UniProtKB	Q5XJQ9	gins1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	7955	gins1	P
+UniProtKB	Q6DRM6	pola1	GO:1902975	mitotic DNA replication initiation	7955	pola1,pola	P
+UniProtKB	Q6DRM7	gins3	GO:1902975	mitotic DNA replication initiation	7955	gins3,flj13912	P
+UniProtKB	Q6E7H0	ORC3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3702	ORC3,At5g16690,F5E19.30	P
+UniProtKB	Q6IQR4	rtf2	GO:1902979	mitotic DNA replication termination	7955	rtf2,rtfdc1,zgc:55448	P
+UniProtKB	Q6NNH6	TTN10	GO:1902975	mitotic DNA replication initiation	3702	TTN10,PSF3,Partner of SLD5 3,TITAN 10,At1g19080,At3g55490,F14D16.33	P
+UniProtKB	Q6NQ98	At5g58020	GO:1902979	mitotic DNA replication termination	3702	At5g58020,F2C19.3,F2C19_3	P
+UniProtKB	Q6NV07	mcm5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm5	P
+UniProtKB	Q6NZV2	mcm4	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm4	P
+UniProtKB	Q6NZV2	mcm4	GO:1902975	mitotic DNA replication initiation	7955	mcm4	P
+UniProtKB	Q6P0I6	znf830	GO:0033260	nuclear DNA replication	7955	znf830,ccdc16,zgc:77398	P
+UniProtKB	Q6P5K8	rad51	GO:1990426	mitotic recombination-dependent replication fork processing	7955	rad51	P
+UniProtKB	Q6PH47	mcm3	GO:1902975	mitotic DNA replication initiation	7955	mcm3	P
+UniProtKB	Q6PH47	mcm3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm3	P
+UniProtKB	Q6PHK9	mcm4	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm4	P
+UniProtKB	Q6PHK9	mcm4	GO:1902975	mitotic DNA replication initiation	7955	mcm4	P
+UniProtKB	Q6TNU7	orc3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	orc3,ORC3L,orc3l	P
+UniProtKB	Q7JMR0	evl-18	GO:1902977	mitotic DNA replication preinitiation complex assembly	6239	evl-18,CELE_F34D10.2,F34D10.2	P
+UniProtKB	Q7JNL9	dap	GO:0006279	premeiotic DNA replication	7227	dap,CDI4,CDKN2B,CIB1,Cdi4,DAP,Dac,Dacapo,Dap,Decapo,Dmel\CG1772,E(Sev-CycE)2B,P15,cdi4,dacapo,dap-RA,kip,l(2)04454,p21	P
+UniProtKB	Q7JVY2	dup	GO:0071163	DNA replication preinitiation complex assembly	7227	dup,19k,CDT1,Cdt1,DUP,Dmel\CG8171,Dup,anon-WO0257455.31,cdt1,fs(2)51Fa,fs(2)PA77,fs(2)ltoPA77,l(2)51Ec,l(2)k03308,CG8171,Dmel_CG8171	P
+UniProtKB	Q7K2L1	Orc3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	Orc3,CG34315-RB,DmORC3,DmOrc3,Dmel\CG4088,LAT,Lat,ORC,ORC3,l(2)49Fd,l(2)vr6,lat,lat-RA,latheo,orc3,vr-6,vr6,CG4088,Dmel_CG4088	P
+UniProtKB	Q7K7J6	mcm-2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	6239	mcm-2,CELE_Y17G7B.5,Y17G7B.5	P
+UniProtKB	Q7K7J6	mcm-2	GO:1902975	mitotic DNA replication initiation	6239	mcm-2,CELE_Y17G7B.5,Y17G7B.5	P
+UniProtKB	Q7ZTS7	mcm5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm5	P
+UniProtKB	Q7ZU79	cdc45	GO:1902977	mitotic DNA replication preinitiation complex assembly	7955	cdc45,cdc45l,DKEY-49H9.4-001	P
+UniProtKB	Q7ZUR0	mcm2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm2	P
+UniProtKB	Q7ZUR0	mcm2	GO:1902975	mitotic DNA replication initiation	7955	mcm2	P
+UniProtKB	Q7ZVL6	mcm7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm7,MCM7	P
+UniProtKB	Q7ZVS5	mcm3l	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm3l	P
+UniProtKB	Q7ZVS5	mcm3l	GO:1902975	mitotic DNA replication initiation	7955	mcm3l	P
+UniProtKB	Q7ZVZ5	orc3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	orc3,orc3l	P
+UniProtKB	Q7ZW03	rtf2	GO:1902979	mitotic DNA replication termination	7955	rtf2,rtfdc1,zgc:55448	P
+UniProtKB	Q86S68	cdt-1	GO:0071163	DNA replication preinitiation complex assembly	6239	cdt-1,CELE_Y54E10A.15,Y54E10A.15	P
+UniProtKB	Q86WV5	TEN1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TEN1,C17orf106	P
+UniProtKB	Q86WV5	TEN1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TEN1,C17orf106	P
+UniProtKB	Q86WV5	TEN1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TEN1,C17orf106	P
+UniProtKB	Q86WV5	TEN1	GO:0032201	telomere maintenance via semi-conservative replication	9606	TEN1,C17orf106	P
+UniProtKB	Q8JGR5	mcm2	GO:1902975	mitotic DNA replication initiation	7955	mcm2	P
+UniProtKB	Q8JGR5	mcm2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm2	P
+UniProtKB	Q8JGR9	mcm7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm7,MCM7	P
+UniProtKB	Q8JH75	mcm5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm5	P
+UniProtKB	Q8JHI8	mcm3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7955	mcm3	P
+UniProtKB	Q8JHI8	mcm3	GO:1902975	mitotic DNA replication initiation	7955	mcm3	P
+UniProtKB	Q8MR81	mei-218	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	mei-218,CG8923	P
+UniProtKB	Q8MR81	mei-218	GO:1902975	mitotic DNA replication initiation	7227	mei-218,CG8923	P
+UniProtKB	Q8WVB6	CHTF18	GO:0032201	telomere maintenance via semi-conservative replication	9606	CHTF18,C16orf41,CTF18	P
+UniProtKB	Q92372	ssb1	GO:0006279	premeiotic DNA replication	284812	ssb1,rad11,rpa1,SPBC660.13c	P
+UniProtKB	Q92372	ssb1	GO:1902969	mitotic DNA replication	284812	ssb1,rad11,rpa1,SPBC660.13c	P
+UniProtKB	Q92373	ssb2	GO:1902981	synthesis of RNA primer involved in mitotic DNA replication	284812	ssb2,SPCC1753.01c,SPCC584.06c	P
+UniProtKB	Q92374	ssb3	GO:1902981	synthesis of RNA primer involved in mitotic DNA replication	284812	ssb3,SPCC23B6.05c	P
+UniProtKB	Q92900	UPF1	GO:0032201	telomere maintenance via semi-conservative replication	9606	UPF1,KIAA0221,RENT1	P
+UniProtKB	Q95Q25	rad-51	GO:1990426	mitotic recombination-dependent replication fork processing	6239	rad-51,CELE_Y43C5A.6,Y43C5A.6	P
+UniProtKB	Q95X82	dnsn-1	GO:0033260	nuclear DNA replication	6239	dnsn-1,C24H12.5,CELE_C24H12.5	P
+UniProtKB	Q95XQ8	mcm-4	GO:1902975	mitotic DNA replication initiation	6239	mcm-4,let-358,lin-6,Y39G10AR.14	P
+UniProtKB	Q95XQ8	mcm-4	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	6239	mcm-4,let-358,lin-6,Y39G10AR.14	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96AP0	ACD	GO:0032201	telomere maintenance via semi-conservative replication	9606	ACD,PIP1,PTOP,TINT1,TPP1	P
+UniProtKB	Q96NB3	ZNF830	GO:0033260	nuclear DNA replication	9606	ZNF830,CCDC16	P
+UniProtKB	Q96NB3	ZNF830	GO:0033260	nuclear DNA replication	9606	ZNF830,CCDC16	P
+UniProtKB	Q9BL54	psf-3	GO:1902975	mitotic DNA replication initiation	6239	psf-3,CELE_Y65B4BR.8,Y65B4BR.8	P
+UniProtKB	Q9BRX5	GINS3	GO:1902975	mitotic DNA replication initiation	9606	GINS3,PSF3	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BSI4	TINF2	GO:0032201	telomere maintenance via semi-conservative replication	9606	TINF2,TIN2	P
+UniProtKB	Q9BVC3	DSCC1	GO:0032201	telomere maintenance via semi-conservative replication	9606	DSCC1,DCC1,UNQ9337/PRO34008	P
+UniProtKB	Q9BY42	RTF2	GO:1902979	mitotic DNA replication termination	9606	RTF2,C20orf43,RTFDC1,AD-007,CDA05,HSPC164,HSPC169	P
+UniProtKB	Q9C107	mcl1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	284812	mcl1,slr3,SPAPB1E7.02c	P
+UniProtKB	Q9C107	mcl1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	284812	mcl1,slr3,SPAPB1E7.02c	P
+UniProtKB	Q9FGU2	At5g58020	GO:1902979	mitotic DNA replication termination	3702	At5g58020	P
+UniProtKB	Q9FHA3	POLA	GO:1902975	mitotic DNA replication initiation	3702	POLA,At5g67100,K21H1.14	P
+UniProtKB	Q9FL33	MCM3	GO:1902975	mitotic DNA replication initiation	3702	MCM3,At5g46280,MPL12.6	P
+UniProtKB	Q9FL33	MCM3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3702	MCM3,At5g46280,MPL12.6	P
+UniProtKB	Q9GUG2	CELE_Y73B6BL.14	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	6239	CELE_Y73B6BL.14,Y73B6BL.14	P
+UniProtKB	Q9H211	CDT1	GO:0071163	DNA replication preinitiation complex assembly	9606	CDT1	P
+UniProtKB	Q9H211	CDT1	GO:0071163	DNA replication preinitiation complex assembly	9606	CDT1	P
+UniProtKB	Q9H668	STN1	GO:0032201	telomere maintenance via semi-conservative replication	9606	STN1,OBFC1	P
+UniProtKB	Q9H668	STN1	GO:0032201	telomere maintenance via semi-conservative replication	9606	STN1,OBFC1	P
+UniProtKB	Q9H668	STN1	GO:0032201	telomere maintenance via semi-conservative replication	9606	STN1,OBFC1	P
+UniProtKB	Q9H668	STN1	GO:0032201	telomere maintenance via semi-conservative replication	9606	STN1,OBFC1	P
+UniProtKB	Q9HCU8	POLD4	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD4,POLDS	P
+UniProtKB	Q9HCU8	POLD4	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD4,POLDS	P
+UniProtKB	Q9HCU8	POLD4	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD4,POLDS	P
+UniProtKB	Q9HCU8	POLD4	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD4,POLDS	P
+UniProtKB	Q9HCU8	POLD4	GO:0032201	telomere maintenance via semi-conservative replication	9606	POLD4,POLDS	P
+UniProtKB	Q9HE09	fml2	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	284812	fml2,mfh2,SPAC20H4.04	P
+UniProtKB	Q9LPD9	MCM2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3702	MCM2,At1g44900,T12C22.19	P
+UniProtKB	Q9LPD9	MCM2	GO:1902975	mitotic DNA replication initiation	3702	MCM2,At1g44900,T12C22.19	P
+UniProtKB	Q9LSG6	CDC45	GO:1902977	mitotic DNA replication preinitiation complex assembly	3702	CDC45,cdc45,cell division cycle 45,At3g25100	P
+UniProtKB	Q9LSG6	CDC45	GO:0006279	premeiotic DNA replication	3702	CDC45,cdc45,cell division cycle 45,At3g25100	P
+UniProtKB	Q9M1S9	CDT1B	GO:0071163	DNA replication preinitiation complex assembly	3702	CDT1B,At3g54710,T5N23.70	P
+UniProtKB	Q9M8S7	At3g02860	GO:0033260	nuclear DNA replication	3702	At3g02860,F13E7.20,F13E7_20	P
+UniProtKB	Q9NAH1	pola-1	GO:1902975	mitotic DNA replication initiation	6239	pola-1,CELE_Y47D3A.29,Y47D3A.29	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NUX5	POT1	GO:0032201	telomere maintenance via semi-conservative replication	9606	POT1	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYB0	TERF2IP	GO:0032201	telomere maintenance via semi-conservative replication	9606	TERF2IP,DRIP5,RAP1,PP8000	P
+UniProtKB	Q9NYP3	DONSON	GO:0033260	nuclear DNA replication	9606	DONSON,C21orf60	P
+UniProtKB	Q9NZ71	RTEL1	GO:1902990	mitotic telomere maintenance via semi-conservative replication	9606	RTEL1,C20orf41,KIAA1088,NHL	P
+UniProtKB	Q9P6M0	slx4	GO:1902969	mitotic DNA replication	284812	slx4,SPAC688.06c	P
+UniProtKB	Q9P7C8	sld5	GO:1902975	mitotic DNA replication initiation	284812	sld5,SPBP4H10.21c	P
+UniProtKB	Q9P7X6	psf1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	284812	psf1,SPBP23A10.09	P
+UniProtKB	Q9P7X6	psf1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	284812	psf1,SPBP23A10.09	P
+UniProtKB	Q9P7X6	psf1	GO:1902975	mitotic DNA replication initiation	284812	psf1,SPBP23A10.09	P
+UniProtKB	Q9SJW9	CDT1A	GO:0071163	DNA replication preinitiation complex assembly	3702	CDT1A,At2g31270,F16D14.11	P
+UniProtKB	Q9TVK9	Orc3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	Orc3,lat,CG4088	P
+UniProtKB	Q9UBD5	ORC3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	9606	ORC3,LATHEO,ORC3L	P
+UniProtKB	Q9URU2	dna2	GO:1903469	removal of RNA primer involved in mitotic DNA replication	284812	dna2,SPBC16D10.04c	P
+UniProtKB	Q9URU2	dna2	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	284812	dna2,SPBC16D10.04c	P
+UniProtKB	Q9UST8	rnh1	GO:1990505	mitotic DNA replication maintenance of fidelity	284812	rnh1,SPBC336.06c	P
+UniProtKB	Q9UT23	fml1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	284812	fml1,SPAC9.05	P
+UniProtKB	Q9UTC3	psf3	GO:1902975	mitotic DNA replication initiation	284812	psf3,SPAC227.16c	P
+UniProtKB	Q9UTC3	psf3	GO:1902975	mitotic DNA replication initiation	284812	psf3,SPAC227.16c	P
+UniProtKB	Q9UTH0	nup132	GO:1990426	mitotic recombination-dependent replication fork processing	284812	nup132,nup133b,SPAC1805.04	P
+UniProtKB	Q9UTJ8	rad50	GO:1903211	mitotic recombination involved in replication fork processing	284812	rad50,SPAC1556.01c,SPAP4C9.01c	P
+UniProtKB	Q9UTJ8	rad50	GO:1990426	mitotic recombination-dependent replication fork processing	284812	rad50,SPAC1556.01c,SPAP4C9.01c	P
+UniProtKB	Q9UUA2	pfh1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	284812	pfh1,pif1,rph1,SPBC887.14c	P
+UniProtKB	Q9UUA2	pfh1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	284812	pfh1,pif1,rph1,SPBC887.14c	P
+UniProtKB	Q9UUA2	pfh1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	284812	pfh1,pif1,rph1,SPBC887.14c	P
+UniProtKB	Q9UUA2	pfh1	GO:1903469	removal of RNA primer involved in mitotic DNA replication	284812	pfh1,pif1,rph1,SPBC887.14c	P
+UniProtKB	Q9UUA2	pfh1	GO:1903469	removal of RNA primer involved in mitotic DNA replication	284812	pfh1,pif1,rph1,SPBC887.14c	P
+UniProtKB	Q9V461	Mcm6	GO:1902969	mitotic DNA replication	7227	Mcm6,CG4039	P
+UniProtKB	Q9V461	Mcm6	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	Mcm6,CG4039	P
+UniProtKB	Q9VBY5	Dmel\CG11839	GO:0033260	nuclear DNA replication	7227	Dmel\CG11839,CT36969,Znf830,CG11839,Dmel_CG11839	P
+UniProtKB	Q9VGW6	Mcm5	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	Mcm5,CG4082	P
+UniProtKB	Q9VKR2	Dmel\CG6443	GO:1902979	mitotic DNA replication termination	7227	Dmel\CG6443,CG17118,CG6443,Dmel_CG6443	P
+UniProtKB	Q9VNA8	hd	GO:0033260	nuclear DNA replication	7227	hd,CG2669	P
+UniProtKB	Q9VNA8	hd	GO:0033260	nuclear DNA replication	7227	hd,CG2669	P
+UniProtKB	Q9VRQ7	DNApol-epsilon58	GO:1902969	mitotic DNA replication	7227	DNApol-epsilon58,DNApolE2,Pole2,CG10489	P
+UniProtKB	Q9W088	Pol31	GO:1990506	mitotic DNA-dependent DNA replication	7227	Pol31,DNApolD1,CG12018	P
+UniProtKB	Q9W0I7	Psf1	GO:1902983	DNA strand elongation involved in mitotic DNA replication	7227	Psf1,CG9187-PA,Dmel\CG9187,PSF1,psf1,CG9187,Dmel_CG9187	P
+UniProtKB	Q9W1H4	DNAlig1	GO:1903461	Okazaki fragment processing involved in mitotic DNA replication	7227	DNAlig1,DNA-ligI,CG5602	P
+UniProtKB	Q9W2V7	Psf3	GO:1902975	mitotic DNA replication initiation	7227	Psf3,Dmel\CG2222,PSF3,CG2222,Dmel_CG2222	P
+UniProtKB	Q9XVR7	mcm-3	GO:1902975	mitotic DNA replication initiation	6239	mcm-3,C25D7.6,CELE_C25D7.6	P
+UniProtKB	Q9XVR7	mcm-3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	6239	mcm-3,C25D7.6,CELE_C25D7.6	P
+UniProtKB	Q9XXI9	mcm-2	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	6239	mcm-2,CELE_Y17G7B.5,Y17G7B.5	P
+UniProtKB	Q9XXI9	mcm-2	GO:1902975	mitotic DNA replication initiation	6239	mcm-2,CELE_Y17G7B.5,Y17G7B.5	P
+UniProtKB	Q9XYU0	Mcm7	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	Mcm7,CG4978	P
+UniProtKB	Q9XYU1	Mcm3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	Mcm3,Mcm3-RA,CG4206	P
+UniProtKB	Q9XYU1	Mcm3	GO:1902975	mitotic DNA replication initiation	7227	Mcm3,Mcm3-RA,CG4206	P
+UniProtKB	Q9Y118	Pol32	GO:1902969	mitotic DNA replication	7227	Pol32,DNApolD3,rd,CG3975	P
+UniProtKB	Q9Y1B4	Orc3	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7227	Orc3,ORC3,lat,CG4088	P
+UniProtKB	Q9Y794	orc4	GO:1902975	mitotic DNA replication initiation	284812	orc4,orp4,SPBP23A10.13	P
+UniProtKB	Q9Y7X9	SPBC365.09c	GO:1902969	mitotic DNA replication	284812	SPBC365.09c	P
+UniProtKB	Q9Y825	SPAC25H1.06	GO:1990426	mitotic recombination-dependent replication fork processing	284812	SPAC25H1.06	P
+UniProtKB	X1WF35	rtf2	GO:1902979	mitotic DNA replication termination	7955	rtf2,rtfdc1	P
+UniProtKB	X1WHX5	gins3	GO:1902975	mitotic DNA replication initiation	7955	gins3	P
