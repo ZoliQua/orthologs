@@ -15,6 +15,7 @@ import requests  # python -m pip install requests
 import pandas as pd
 import logging
 from datetime import datetime
+from stringDB_functions import *
 
 # Creating timestamp for output filename
 now = datetime.now()
@@ -32,7 +33,6 @@ dir_log = "logs/"
 str_goid = "go-0007049"
 log_filename1 = dir_log + "pvalues_" + str_goid + "_general_" + current_time_abbrev + ".tsv"
 log_filename2 = dir_log + "pvalues_" + str_goid + "_detailed_" + current_time_abbrev + ".tsv"
-
 
 # START LOGGING
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', filename=log_filename1, level=logging.DEBUG)
@@ -52,67 +52,7 @@ taxon_dict_go = {'9606': 'H. sapiens Hit', '7955': 'D. rerio Hit', '6239': 'C. e
 # Number of all request
 num_sum_of_request = num_cycles * num_request_per_cycle
 
-#############
-# FUNCTIONS #
-#############
-#####################
-# Read UniProt file #
-#####################
-
-def ReadUniprotConvert(taxid):
-
-	global uniprot_2_protname
-	global uniprot_2_stringid
-	global list_of_uniprotids
-
-	filename = "data/uniprot_convert_" + taxid + ".tsv"
-
-	with open(filename, newline='') as f:
-		reader = csv.DictReader(f, fieldnames=('uniprot', 'db', 'taxid', 'selector'), delimiter='\t')
-		counter = 0
-		try:
-			for row in reader:
-
-				# Filtering STRING to convert Uniprot to STRING db id
-				if row['db'] == 'convert':
-					if row['uniprot'] in uniprot_2_stringid:
-						continue
-					else:
-						uniprot_2_stringid[row['uniprot']] = row['selector']
-						list_of_uniprotids.append(row['uniprot'])
-						counter += 1
-
-				# Filtering STRING convert out
-				if row['db'] == 'Gene_Name':
-					if row['uniprot'] in uniprot_2_protname:
-						continue
-					else:
-						uniprot_2_protname[row['uniprot']] = row['selector']
-
-		except csv.Error as e:
-			sys.exit('file {}, line {}: {}'.format(filename, reader.line_num, e))
-
-		return counter
-
-def WriteLines(export_filename, write_this_array):
-
-	counter = 0
-
-	with open(export_filename, mode='a') as export_file:
-		writer = csv.writer(export_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-
-		for line in write_this_array:
-			counter += 1
-			writer.writerow(line)
-
-	return counter
-
-
 for taxid in taxon_list:
-
-	uniprot_2_stringid = {}
-	uniprot_2_protname = {}
-	list_of_uniprotids = []
 
 	# Read file then return the count of read lines
 	counter = ReadUniprotConvert(taxid)
@@ -146,7 +86,7 @@ for taxid in taxon_list:
 	hm_sum_array = {}
 	hm_sum = 0
 
-	go_sampled = go.sample(n=100)
+	go_sampled = go # go.sample(n=100)
 	this_taxon_column_name = taxon_dict_go[taxid]
 
 	bottle_name = f"bottle one"
