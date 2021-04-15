@@ -1,6 +1,10 @@
 
+# Import libraries
 import csv
 import sys
+
+# Maximalize file-read size
+csv.field_size_limit(sys.maxsize)
 
 uniprot_2_stringid = {}
 uniprot_2_protname = {}
@@ -49,7 +53,15 @@ def ReadUniprotConvert(taxid):
 
 		return counter
 
-def WriteLines(export_filename, write_this_array):
+#################################
+# Write Export Function #########
+#################################
+#  creates a tsv separated file #
+#  takes an array as an input ###
+#  returns the count of lines ###
+#################################
+
+def WriteExportFile(export_filename, write_this_array):
 
 	counter = 0
 

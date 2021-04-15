@@ -8,6 +8,7 @@
 # Contact me at zoltan dul [at] gmail.com
 #
 
+# Import libraries
 import csv
 import sys
 import random
@@ -15,6 +16,7 @@ import requests  # python -m pip install requests
 import pandas as pd
 import logging
 from datetime import datetime
+# Import local functions
 from stringDB_functions import *
 
 # Creating timestamp for output filename
@@ -30,15 +32,12 @@ num_cycles = 20
 num_request_per_cycle = 10
 dir_export = "export/"
 dir_log = "logs/"
-str_goid = "go-0007049"
+str_goid = "go-0051726"
 log_filename1 = dir_log + "pvalues_" + str_goid + "_general_" + current_time_abbrev + ".tsv"
 log_filename2 = dir_log + "pvalues_" + str_goid + "_detailed_" + current_time_abbrev + ".tsv"
 
 # START LOGGING
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', filename=log_filename1, level=logging.DEBUG)
-
-# Maximalize file-read size
-csv.field_size_limit(sys.maxsize)
 
 ###############################
 # Taxon files: list and dicts #
@@ -211,7 +210,7 @@ for taxid in taxon_list:
 
 		this_export_path = dir_export + taxid + "/" + export_filename
 		if isTest == False:
-			counter = WriteLines(this_export_path, responses_array)
+			counter = WriteExportFile(this_export_path, responses_array)
 
 	pvs = pd.Series(p_values_allcycles, index=range(1, 401))
 	p_val_array[bottle_name] = p_values_allcycles
@@ -221,12 +220,5 @@ for taxid in taxon_list:
 	logging.info(f"Parser summary all cycle in Bottle Random: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
 
 	# Writing detailed log file
-	with open(log_filename2, mode='a') as log_file:
-		writer = csv.writer(log_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-
-		log_counter = 0
-		for line in log_calls:
-			writer.writerow(line)
-			log_counter += 1
-
+	log_counter = WriteExportFile(log_filename2, log_calls)
 	print(f"Parser has written {log_counter}: lines in {log_filename2}.")
