@@ -1,4 +1,5 @@
 ##############################################################
+##
 ## The script prints out the p-value of STRING protein-protein
 ## interaction enrichment method for the given set of proteins 
 ##
@@ -6,6 +7,9 @@
 ## type "python -m pip install requests" in command line (win)
 ## or terminal (mac/linux) to install the module
 ## from STRING API documentation
+##
+## URL: https://string-db.org/help/api/
+##
 ##############################################################
 
 import requests
@@ -24,10 +28,11 @@ request_url = "/".join([string_api_url, output_format, method])
 ## Set parameters
 ##
 
-# my_genes = ['9606.ENSP00000216911', '9606.ENSP00000237654', '9606.ENSP00000256442', '9606.ENSP00000261819', '9606.ENSP00000282572', '9606.ENSP00000287598',
-#             # '9606.ENSP00000288207', '9606.ENSP00000302530', '9606.ENSP00000302898', '9606.ENSP00000313950', '9606.ENSP00000314004', '9606.ENSP00000315743',
-#             # '9606.ENSP00000339109', '9606.ENSP00000344635', '9606.ENSP00000357858', '9606.ENSP00000365210', '9606.ENSP00000394394', '9606.ENSP00000396755',
-#             '9606.ENSP00000426654', '9606.ENSP0000047825']
+# my_genes = ['9606.ENSP00000216911', '9606.ENSP00000237654', '9606.ENSP00000256442', '9606.ENSP00000261819',
+#               '9606.ENSP00000282572', '9606.ENSP00000287598', '9606.ENSP00000288207', '9606.ENSP00000302530',
+#               '9606.ENSP00000302898', '9606.ENSP00000313950', '9606.ENSP00000314004', '9606.ENSP00000315743',
+#               '9606.ENSP00000339109', '9606.ENSP00000344635', '9606.ENSP00000357858', '9606.ENSP00000365210',
+#               '9606.ENSP00000394394', '9606.ENSP00000396755', '9606.ENSP00000426654', '9606.ENSP0000047825']
 
 # Test set of genes in human (taxid: 9606)
 my_genes = ['9606.ENSP00000004531', '9606.ENSP00000231706', '9606.ENSP00000291900', '9606.ENSP00000294353', '9606.ENSP00000346693', '9606.ENSP00000358831',
@@ -39,9 +44,9 @@ my_genes = ['9606.ENSP00000004531', '9606.ENSP00000231706', '9606.ENSP0000029190
 #             '7227.FBpp0078993', '7227.FBpp0079060', '7227.FBpp0079448']
 
 params = {
-    "identifiers" : "%0d".join(my_genes), # your proteins
-    "species" : 9606, # species NCBI identifier
-    "caller_identity" : "testerrr" # your app name
+    "identifiers":      "%0d".join(my_genes),   # your proteins
+    "species":          9606,                   # species NCBI identifier
+    "caller_identity":  "tester_zdul"           # your app name
 }
 
 ##
@@ -54,6 +59,38 @@ response = requests.post(request_url, data=params)
 ## Parse and print the response (incl. p-value) into the console
 ##
 
+#################################
+## Output fields of STRING API ##
+#################################
+# Field 							Description
+#
+# number_of_nodes				number of proteins in your network
+# number_of_edges 				number of edges in your network
+# average_node_degree			mean degree of the node in your network
+# local_clustering_coefficient	average local clustering coefficient
+# expected_number_of_edges		expected number of edges based on the nodes degrees
+# p_value						significance of your network having more interactions than expected
+
+print(response.raw)
+print("A line consist of the following fields:")
+print(response.text)
+
 for line in response.text.strip().split("\n"):
+    number_of_nodes = line.split("\t")[0]
+    number_of_edges = line.split("\t")[1]
+    average_node_degree = line.split("\t")[2]
+    local_clustering_coefficient = line.split("\t")[3]
+    expected_number_of_edges = line.split("\t")[4]
     pvalue = line.split("\t")[5]
+
+    print(f"The query of the following genes ({len(my_genes)}):")
+    print("="*20)
+    print(", ".join(my_genes))
+    print("="*20)
+    print("Number_of_nodes", number_of_nodes)
+    print("Number_of_edges", number_of_edges)
+    print("Average_node_degree", average_node_degree)
+    print("Local_clustering_coefficient", local_clustering_coefficient)
+    print("Expected_number_of_edges", expected_number_of_edges)
     print("P-value:", pvalue)
+

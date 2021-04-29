@@ -43,6 +43,7 @@ logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', filename
 # Taxon files: list and dicts #
 ###############################
 taxon_list = ('9606', '7955', '6239', '3702', '7227', '4896', '4932')
+taxon_list = ('7955', '6239', '3702', '7227', '4896', '4932')
 taxon_dict = {'9606': 'H. sapiens', '7955': 'D. rerio', '6239': 'C. elegans', '3702': 'A. thaliana', '7227': 'D. melanogaster', '4896': 'S. pombe', '4932': 'S. cerevisiae'}
 taxon_dict_go = {'9606': 'H. sapiens Hit', '7955': 'D. rerio Hit', '6239': 'C. elegans Hit', '3702': 'A. thaliana Hit', '7227': 'D. melanogaster Hit', '4896': 'S. pombe Hit', '4932': 'S. cerevisiae Hit'}
 # Current selection for test

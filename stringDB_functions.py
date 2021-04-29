@@ -3,6 +3,8 @@
 # Import libraries
 import csv
 import sys
+import random
+import logging
 
 # Maximalize file-read size
 csv.field_size_limit(sys.maxsize)
@@ -18,6 +20,7 @@ list_of_uniprotids = []
 #####################
 # Read UniProt file #
 #####################
+
 
 def ReadUniprotConvert(taxid):
 
@@ -62,6 +65,7 @@ def ReadUniprotConvert(taxid):
 #  returns the count of lines ###
 #################################
 
+
 def WriteExportFile(export_filename, write_this_array):
 
 	counter = 0
@@ -74,3 +78,43 @@ def WriteExportFile(export_filename, write_this_array):
 			writer.writerow(line)
 
 	return counter
+
+
+
+
+
+def ParseGODataFrame(go_dataframe, column_name_taxon, column_name_hm_value):
+	
+	# Protein list from the filtered pandas dataset of this species
+	list_of_bottle_proteins = []
+	protein_hm_array = {}
+	
+	for index, row_data in go_dataframe.iterrows():
+
+		protein = str(row_data[column_name_taxon])
+		hm_value = row_data[column_name_hm_value]
+
+		# When there is no hit protein for this species: SKIP
+		if protein == "nan":
+			continue
+		# When there are more than one hit protein, randomly selection one
+		if protein.find(',') != -1:
+			proteins_array = protein.split(",")
+			protein_selected = random.choice(proteins_array)
+		else:
+			protein_selected = protein
+
+		# Adding proteins to a list
+		list_of_bottle_proteins.append(protein_selected)
+		# Adding poritnes to H/M array
+		protein_hm_array[protein_selected] = hm_value
+
+	if len(list_of_bottle_proteins) < 10:
+		# Print & Log warning
+		print(f"Bottle Random has less than 10 proteins {len(list_of_bottle_proteins)}.")
+		logging.warning(f"Bottle Random has less than 10 proteins {len(list_of_bottle_proteins)}.")
+		return False
+
+	else:
+		return_array = {"protein_hm_array": protein_hm_array, "list_of_bottle_proteins": list_of_bottle_proteins}
+		return return_array
