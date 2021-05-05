@@ -1,4 +1,12 @@
 
+# Ortholog Parser / STRING DB Reader
+#
+# What this file do?
+# This file get p-values from STRING DB for a randomly selected pool of proteins in a given bottle.
+#
+# Code written by Zoltan Dul, PhD (2021)
+# Contact me at zoltan dul [at] gmail.com
+#
 # File for funcitions
 # Import libraries
 import csv
@@ -20,6 +28,16 @@ list_of_uniprotids = []
 #####################
 # Read UniProt file #
 #####################
+
+
+###################################################
+# Read File Function ##############################
+###################################################
+#  reads the source tsv file for the given taxid ##
+#  takes an str = taxid as an input ###############
+#  writes 3 global variables ######################
+#  returns a count of read lines ##################
+###################################################
 
 
 def ReadUniprotConvert(taxid):
@@ -57,6 +75,7 @@ def ReadUniprotConvert(taxid):
 
 		return counter
 
+
 #################################
 # Write Export Function #########
 #################################
@@ -78,9 +97,6 @@ def WriteExportFile(export_filename, write_this_array):
 			writer.writerow(line)
 
 	return counter
-
-
-
 
 
 def ParseGODataFrame(go_dataframe, column_name_taxon, column_name_hm_value):

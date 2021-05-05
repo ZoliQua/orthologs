@@ -5,7 +5,7 @@
 # This file converts downloaded id_mapping files (from data/uniprot folder) to a reduced file size. Filtering out STRING and eggNOG db related lines.
 #
 # Source folder for files (data/unirprot): https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/
-# Source files downloaded on 11/02/2021
+# Source files downloaded on 01/05/2021
 #
 # Code written by Zoltan Dul, PhD (2021)
 # Contact me at zoltan dul [at] gmail.com
@@ -15,13 +15,19 @@ import sys
 
 csv.field_size_limit(sys.maxsize)
 
-filenames = ["data/uniprot/ARATH_3702_idmapping.dat", "data/uniprot/CAEEL_6239_idmapping.dat", "data/uniprot/DANRE_7955_idmapping.dat", "data/uniprot/DROME_7227_idmapping.dat", "data/uniprot/HUMAN_9606_idmapping.dat", "data/uniprot/SCHPO_284812_idmapping.dat", "data/uniprot/YEAST_559292_idmapping.dat"]
+source_filenames = ["data/uniprot/ARATH_3702_idmapping.dat",
+              "data/uniprot/CAEEL_6239_idmapping.dat",
+              "data/uniprot/DANRE_7955_idmapping.dat",
+              "data/uniprot/DROME_7227_idmapping.dat",
+              "data/uniprot/HUMAN_9606_idmapping.dat",
+              "data/uniprot/SCHPO_284812_idmapping.dat",
+              "data/uniprot/YEAST_559292_idmapping.dat"]
 taxon_dict = {'9606': 'H. sapiens', '7955': 'D. rerio', '6239': 'C. elegans', '3702': 'A. thaliana', '7227': 'D. melanogaster', '4896': 'S. pombe', '284812': 'S. pombe', '559292': 'S. cerevisiae'}
 uniprot_list = {'9606': [], '7955': [], '6239': [], '3702': [], '7227': [], '4896': [], '4932': []}
 eggnog_taxlist = ["9606", "7955", "6239", "3702", "7227", "4896", "4932"]
 write_lines_all = []
 
-for this_file in filenames:
+for this_file in source_filenames:
 
     counter = 0
     write_lines = []

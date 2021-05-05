@@ -1,5 +1,5 @@
 
-# STRING DB
+# Ortholog Parser / STRING DB Reader
 #
 # What this file do?
 # This file get p-values from STRING DB for a randomly selected pool of proteins in a given bottle.
@@ -9,19 +9,12 @@
 #
 
 # Import libraries
-import csv
-import sys
-import random
 import requests  # python -m pip install requests
 import pandas as pd
-import logging
-from datetime import datetime
 # Import local functions
 from stringDB_functions import *
-
-# Creating timestamp for output filename
-now = datetime.now()
-current_time_abbrev = now.strftime("%Y%m%d-%H%M%S-%f")
+# Import local variables
+from stringDB_variables import *
 
 #######################
 # SET FILE PARAMETERS #
@@ -41,12 +34,6 @@ log_filename2 = dir_log + "pvalues_" + str_goid + "_detailed_" + current_time_ab
 # START LOGGING
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', filename=log_filename1, level=logging.DEBUG)
 
-###############################
-# Taxon files: list and dicts #
-###############################
-taxon_list = ('9606', '7955', '6239', '3702', '7227', '4896', '4932')
-taxon_dict = {'9606': 'H. sapiens', '7955': 'D. rerio', '6239': 'C. elegans', '3702': 'A. thaliana', '7227': 'D. melanogaster', '4896': 'S. pombe', '4932': 'S. cerevisiae'}
-taxon_dict_go = {'9606': 'H. sapiens Hit', '7955': 'D. rerio Hit', '6239': 'C. elegans Hit', '3702': 'A. thaliana Hit', '7227': 'D. melanogaster Hit', '4896': 'S. pombe Hit', '4932': 'S. cerevisiae Hit'}
 # Current selection for test
 # taxid = taxon_list[0]
 

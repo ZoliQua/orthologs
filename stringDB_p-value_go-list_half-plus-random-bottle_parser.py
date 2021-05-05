@@ -9,19 +9,12 @@
 #
 
 # Import libraries
-import csv
-import sys
-import random
 import requests  # python -m pip install requests
 import pandas as pd
-import logging
-from datetime import datetime
 # Import local functions
 from stringDB_functions import *
-
-# Creating timestamp for output filename
-now = datetime.now()
-current_time_abbrev = now.strftime("%Y%m%d-%H%M%S-%f")
+# Import local variables
+from stringDB_variables import *
 
 #######################
 # SET FILE PARAMETERS #
@@ -30,21 +23,16 @@ current_time_abbrev = now.strftime("%Y%m%d-%H%M%S-%f")
 isTest = False
 num_cycles = 10
 num_request_per_cycle = 10
+num_proteins = 10
 dir_export = "export/"
 dir_log = "logs/"
-str_goid = "go-0051726"
+str_goid = "go-0007049"
 log_filename1 = dir_log + "pvalues_" + str_goid + "_general_" + current_time_abbrev + ".tsv"
 log_filename2 = dir_log + "pvalues_" + str_goid + "_detailed_" + current_time_abbrev + ".tsv"
 
 # START LOGGING
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', filename=log_filename1, level=logging.DEBUG)
 
-###############################
-# Taxon files: list and dicts #
-###############################
-taxon_list = ('9606', '7955', '6239', '3702', '7227', '4896', '4932')
-taxon_dict = {'9606': 'H. sapiens', '7955': 'D. rerio', '6239': 'C. elegans', '3702': 'A. thaliana', '7227': 'D. melanogaster', '4896': 'S. pombe', '4932': 'S. cerevisiae'}
-taxon_dict_go = {'9606': 'H. sapiens Hit', '7955': 'D. rerio Hit', '6239': 'C. elegans Hit', '3702': 'A. thaliana Hit', '7227': 'D. melanogaster Hit', '4896': 'S. pombe Hit', '4932': 'S. cerevisiae Hit'}
 # Current selection for test
 # taxid = taxon_list[0]
 
@@ -126,8 +114,8 @@ for taxid in taxon_list:
 			p_values = []
 
 			# Print & Log
-			print(f"STRING p-value retriever has started cycle {k} of Bottle Between {nr1}-{nr2}.")
-			logging.info(f"STRING p-value retriever has started cycle {k} of Bottle Between {nr1}-{nr2}.")
+			print(f"STRING DB retriever has started cycle {k} of Bottle Between {nr1}-{nr2}.")
+			logging.info(f"STRING DB retriever has started cycle {k} of Bottle Between {nr1}-{nr2}.")
 
 			return_array = ParseGODataFrame(go[go_between_average_hm], taxon_dict_go[taxid], column_name_hm_value)
 
@@ -144,13 +132,19 @@ for taxid in taxon_list:
 				list_of_random_stringids = []
 				hm_sum_of_random_stringids = 0
 				this_line = [j, j, j]
-				for i in range(1, 11):
+				i = 1
+				count_warning = 0
+
+				while i < (num_proteins + 1):
+
 					this_random_selection = random.choice(list_of_bottle_proteins)
 					try:
 						this_string_id = uniprot_2_stringid[this_random_selection]
 					except:
+						count_warning += 1
 						logging.warning(f"This {this_random_selection} is not in uniprot-id array")
-						i -= 1
+						if count_warning <= 100:
+							i -= 1
 						continue
 
 					if this_random_selection in uniprot_2_protname:
@@ -163,6 +157,8 @@ for taxid in taxon_list:
 					this_line.append(this_protein_name)
 					this_line.append(this_string_id)
 
+					i += 1
+
 				string_api_url = "https://string-db.org/api"
 				output_format = "tsv-no-header"
 				method = "ppi_enrichment"
@@ -170,13 +166,16 @@ for taxid in taxon_list:
 				request_url = "/".join([string_api_url, output_format, method])
 
 				params = {
-					"identifiers": "%0d".join(list_of_random_stringids),  # list of my selected proteins in STRING correct IDs
-					"species": int(taxid),  # species NCBI identifier, ex. human 9606
-					"caller_identity": "zdultester"  # my random app name
+					# list of my selected proteins in STRING correct IDs
+					"identifiers": "%0d".join(list_of_random_stringids),
+					# species NCBI identifier, ex. human 9606
+					"species": int(taxid),
+					# my random app name
+					"caller_identity": "zdultester"
 				}
 
 				## Calling STRING
-
+				# If test, just generate random numbers
 				if isTest == True:
 					pvalue = "{:.4f}".format(random.uniform(0.0, 1.0))
 
@@ -197,8 +196,7 @@ for taxid in taxon_list:
 					if length < 6:
 						j -= 1
 						print(f"Taxid {taxid} - ERROR - Bottle Between {nr1}-{nr2}: Length: {length}.")
-						print(line)
-						# logging.info(f"Taxid {taxid} - Parser summary all cycle in Bottle Between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
+						logging.error(f"Taxid {taxid} - ERROR - Bottle Between {nr1}-{nr2}: Length: {length}, Line {line}.")
 						continue
 
 
@@ -224,8 +222,8 @@ for taxid in taxon_list:
 			pvs = pd.Series(p_values, index=range(1, num_request_per_cycle+1))
 			responses_array.append(["SUM", "", "Min (p-val)", pvs.min(), "Max (p-val)", pvs.max(), "Mean (p-val)", pvs.mean()])
 			# Print & Log
-			print(f"Taxid {taxid} - Parser summary for cycle {k}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
-			logging.info(f"Taxid {taxid} - Parser summary for cycle {k}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
+			print(f"Taxid {taxid} - Parser summary for p-value in cycle {k}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
+			logging.info(f"Taxid {taxid} - Parser summary for p-value in cycle {k}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
 
 			this_export_path = dir_export + taxid + "/" + export_filename
 			if isTest == False:
@@ -235,8 +233,8 @@ for taxid in taxon_list:
 		p_val_array[bottle_name] = p_values_allcycles
 
 		# Print & Log
-		print(f"Taxid {taxid} - Parser summary for all cycle in Bottle Between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
-		logging.info(f"Taxid {taxid} - Parser summary all cycle in Bottle Between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
+		print(f"Taxid {taxid} - Parser summary for p-values in all cycle in Bottle Between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
+		logging.info(f"Taxid {taxid} - Parser summary for p-values in all cycle in Bottle Between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
 
 		# Writing detailed log file
 		log_counter = WriteExportFile(log_filename2, log_calls)
