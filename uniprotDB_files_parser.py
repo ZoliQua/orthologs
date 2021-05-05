@@ -22,6 +22,7 @@ source_filenames = ["data/uniprot/ARATH_3702_idmapping.dat",
               "data/uniprot/HUMAN_9606_idmapping.dat",
               "data/uniprot/SCHPO_284812_idmapping.dat",
               "data/uniprot/YEAST_559292_idmapping.dat"]
+
 taxon_dict = {'9606': 'H. sapiens', '7955': 'D. rerio', '6239': 'C. elegans', '3702': 'A. thaliana', '7227': 'D. melanogaster', '4896': 'S. pombe', '284812': 'S. pombe', '559292': 'S. cerevisiae'}
 uniprot_list = {'9606': [], '7955': [], '6239': [], '3702': [], '7227': [], '4896': [], '4932': []}
 eggnog_taxlist = ["9606", "7955", "6239", "3702", "7227", "4896", "4932"]
@@ -64,7 +65,6 @@ for this_file in source_filenames:
         print("Parser have", counter, "lines processed.")
 
     counter = 0
-
     export_filename = "data/uniprot_convert_"+this_taxid+".tsv"
 
     with open(export_filename, mode='w') as export_file:

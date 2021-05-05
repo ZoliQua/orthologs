@@ -1,6 +1,13 @@
 
 # NETWORKX RUNNER v1.0
-# average path length
+#
+# What this file do?
+# Look for average path length
+#
+# Code written by Zoltan Dul, PhD (2021)
+# Contact me at zoltan dul [at] gmail.com
+#
+#
 
 import csv
 import sys
@@ -41,6 +48,4 @@ plt.figure(figsize=(12,12),facecolor=[0.7,0.7,0.7,0.4])
 nx.draw_networkx(G)
 plt.axis('off')
 plt.show()
-
-
 
