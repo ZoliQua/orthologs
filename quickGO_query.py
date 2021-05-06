@@ -20,39 +20,54 @@ start_time = time.time()
 this_file = "quickGO_query.py"
 TimeNow("start", this_file)
 
-
-folder = "data/go/"
+# List of TaxIDs to check
+list_of_taxids = [9606, 7955, 6239, 3702, 7227, 4896, 4932, 284812, 559292]
+# Directory of export GO files
+dir_export = "data/go/"
 
 for go_name, go_id in GOslim_dict.items():
 
-    phase_name = "\'GO Request for " + go_id.replace("_", ":") + " (" + go_name + ")\'"
-    TimeNow(phase_name)
-
     # Export filename
-    this_filename = folder + go_id + ".tsv"
+    this_filename = dir_export + go_id + ".tsv"
 
     # Check file status
     if os.path.exists(this_filename):
         os.remove(this_filename)
+        logging.info(this_filename + " has been removed.")
 
-    r = requests.get(GOSlimRequestURL(go_id), headers={"Accept": "text/tsv"})
+    for taxid in list_of_taxids:
 
-    if not r.ok:
-        r.raise_for_status()
-        # sys.exit()
-        continue
+        phase_name = "\'GO Request " + str(taxid) + " for " + go_id.replace("_", ":") + " (" + go_name + ")\'"
+        logging.info(phase_name + " start.")
 
-    responseBody = r.text
-    responseBodyArray = responseBody.split("\n")
+        r = requests.get(GOSlimRequestURL(go_id, taxid), headers={"Accept": "text/tsv"})
 
-    phase_name = "\'GO Process " + go_id.replace("_", ":") + " (" + go_name + "), lines " \
-                 + str(len(responseBodyArray)-2) + "\'"
-    TimeNow(phase_name, False, start_time)
+        if not r.ok:
+            logging.error(r)
+            r.raise_for_status()
+            # sys.exit()
+            continue
 
-    WriteTSVFile(this_filename, responseBodyArray, "\t")
+        responseBody = r.text
+        responseBodyArray = responseBody.split("\n")
 
-    # SleepWakeUp()
-    # break
+        # Remove the last line, while it is an empty line
+        responseBodyArray.pop()
+
+        # If this is not the first taxid, remove the first line
+        if taxid != 9606:
+            responseBodyArray.pop(0)
+
+        phase_name = "\'GO Process " + go_id.replace("_", ":") + " - taxid: " + str(taxid) + ", lines " \
+                     + str(len(responseBodyArray)) + "\'"
+
+        TimeNow(phase_name, False, start_time)
+        logging.info(phase_name + " - end.")
+
+        WriteTSVFile(go_id, taxid, this_filename, responseBodyArray, "\t")
+
+        # SleepWakeUp()
+    break
 
 # Print end time to the console
 TimeNow("end", this_file, start_time)

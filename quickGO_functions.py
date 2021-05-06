@@ -11,7 +11,19 @@
 import csv
 import random
 import time
+import logging
 from datetime import datetime
+
+# Creating timestamp for output filename
+now = datetime.now()
+current_time_abbrev = now.strftime("%Y%m%d-%H%M%S-%f")
+
+# LOGGING SETTINGS
+dir_log = "logs/"
+log_filename = dir_log + "quickgo_" + current_time_abbrev + ".tsv"
+
+# START LOGGING
+logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', filename=log_filename, level=logging.DEBUG)
 
 
 def TimeNow(str_now, name_of_script=False, start_time=False):
@@ -60,10 +72,10 @@ def SleepWakeUp():
 	print("Script woke up and continue the process.")
 
 
-def GOSlimRequestURL(this_go_id):
+def GOSlimRequestURL(this_go_id, this_taxid):
 
     go_id_include = this_go_id.replace("_", "%3A")
-
+	# 4932%2C4896%2C9606%2C7227%2C7955%2C6239%2C3702%2C284812%2C559292
     requestURL = "https://" \
                  + "www.ebi.ac.uk/QuickGO/services/annotation/downloadSearch?" \
                  + "selectedFields=geneProductId&" \
@@ -76,13 +88,13 @@ def GOSlimRequestURL(this_go_id):
                  + "goId=" + go_id_include + "&" \
                  + "goUsage=descendants&" \
                  + "goUsageRelationships=is_a%2Cpart_of%2Coccurs_in&" \
-                 + "taxonId=4932%2C4896%2C9606%2C7227%2C7955%2C6239%2C3702%2C284812%2C559292&" \
+                 + "taxonId=" + str(this_taxid) + "&" \
                  + "taxonUsage=descendants"
 
     return requestURL
 
 
-def WriteTSVFile(export_filename, write_this_array, split=False, this_mode='a'):
+def WriteTSVFile(go_id, tax_id, export_filename, write_this_array, split=False, this_mode='a'):
 
 	counter = 0
 
@@ -98,7 +110,10 @@ def WriteTSVFile(export_filename, write_this_array, split=False, this_mode='a'):
 			try:
 				writer.writerow(line)
 			except:
-				print("ERROR:", line)
+				log_this = "GO id: " + go_id + "TaxID: " + str(tax_id) + "Counter: " + counter
+				logging.error(log_this)
+
+	log_this = "GO id: " + go_id + "TaxID: " + str(tax_id) + "Filename: " + export_filename + "successful."
+	logging.info(log_this)
 
 	return counter
-
