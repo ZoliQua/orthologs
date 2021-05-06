@@ -94,7 +94,11 @@ def WriteTSVFile(export_filename, write_this_array, split=False, this_mode='a'):
 				line = line.split(split)
 
 			counter += 1
-			writer.writerow(line)
+
+			try:
+				writer.writerow(line)
+			except:
+				print("ERROR:", line)
 
 	return counter
 

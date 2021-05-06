@@ -13,6 +13,7 @@
 from quickGO_parse_GOslim import *
 from quickGO_functions import *
 import requests, sys
+import os
 
 # Print start time to the console
 start_time = time.time()
@@ -27,7 +28,12 @@ for go_name, go_id in GOslim_dict.items():
     phase_name = "\'GO Request for " + go_id.replace("_", ":") + " (" + go_name + ")\'"
     TimeNow(phase_name)
 
+    # Export filename
     this_filename = folder + go_id + ".tsv"
+
+    # Check file status
+    if os.path.exists(this_filename):
+        os.remove(this_filename)
 
     r = requests.get(GOSlimRequestURL(go_id), headers={"Accept": "text/tsv"})
 
