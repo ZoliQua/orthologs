@@ -48,10 +48,10 @@ def TimeNow(str_now, name_of_script=False, start_time=False):
 		seconds = temp - 60 * minutes
 
 		if name_of_script:
-			print(f"Runtime of '{name_of_script}' was", '%d hours %d minutes %d seconds' % (hours, minutes, seconds),
+			print(f"Runtime of '{name_of_script}' was", '%d hrs %d mins %d secs' % (hours, minutes, seconds),
 				"(" + str(float("{:.5f}".format(runtime))) + ")")
 		else:
-			print(f"Script running is phase {str_now}, since start", '%d hours %d minutes %d seconds elapsed' % (hours, minutes, seconds),
+			print(f"Script running is phase {str_now}, since start", '%d hrs %d mins %d secs elapsed' % (hours, minutes, seconds),
 				"(" + str(float("{:.5f}".format(runtime))) + ")")
 
 

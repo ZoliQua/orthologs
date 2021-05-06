@@ -67,7 +67,7 @@ for go_name, go_id in GOslim_dict.items():
         WriteTSVFile(go_id, taxid, this_filename, responseBodyArray, "\t")
 
         # SleepWakeUp()
-    break
+    # break
 
 # Print end time to the console
 TimeNow("end", this_file, start_time)
