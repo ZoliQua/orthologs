@@ -40,7 +40,7 @@ for go_name, go_id in GOslim_dict.items():
     responseBodyArray = responseBody.split("\n")
 
     phase_name = "\'GO Process " + go_id.replace("_", ":") + " (" + go_name + "), lines " \
-                 + len(responseBodyArray)-2 + "\'"
+                 + str(len(responseBodyArray)-2) + "\'"
     TimeNow(phase_name, False, start_time)
 
     WriteTSVFile(this_filename, responseBodyArray, "\t")
