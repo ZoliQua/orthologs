@@ -27,6 +27,8 @@ dir_export = "data/go/"
 
 for go_name, go_id in GOslim_dict.items():
 
+    # go_id = "GO_0005615"
+
     # Export filename
     this_filename = dir_export + go_id + ".tsv"
 
@@ -66,7 +68,7 @@ for go_name, go_id in GOslim_dict.items():
 
         WriteTSVFile(go_id, taxid, this_filename, responseBodyArray, "\t")
 
-        # SleepWakeUp()
+    #   SleepWakeUp()
     # break
 
 # Print end time to the console
