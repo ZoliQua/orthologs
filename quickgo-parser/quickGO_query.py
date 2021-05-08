@@ -23,7 +23,7 @@ TimeNow("start", this_file)
 # List of TaxIDs to check
 list_of_taxids = [9606, 7955, 6239, 3702, 7227, 4896, 4932, 284812, 559292]
 # Directory of export GO files
-dir_export = "data/go/"
+dir_export = "data/"
 
 for go_name, go_id in GOslim_dict.items():
 
