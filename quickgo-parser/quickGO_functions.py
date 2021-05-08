@@ -74,8 +74,12 @@ def SleepWakeUp():
 
 def GOSlimRequestURL(this_go_id, this_taxid):
 
+	# Change "_" into ":" in the GO term name
     go_id_include = this_go_id.replace("_", "%3A")
+
+	# All seven taxids to include into taxonID place
 	# 4932%2C4896%2C9606%2C7227%2C7955%2C6239%2C3702%2C284812%2C559292
+
     requestURL = "https://" \
                  + "www.ebi.ac.uk/QuickGO/services/annotation/downloadSearch?" \
                  + "selectedFields=geneProductId&" \
@@ -91,7 +95,7 @@ def GOSlimRequestURL(this_go_id, this_taxid):
                  + "taxonId=" + str(this_taxid) + "&" \
                  + "taxonUsage=descendants"
 
-    return requestURL
+	return requestURL
 
 
 def WriteTSVFile(go_id, tax_id, export_filename, write_this_array, split=False, this_mode='a'):
