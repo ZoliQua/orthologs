@@ -29,4 +29,5 @@ for this_goID in my_slim['graphs'][0]['nodes']:
 		GOslim_list.append(go_slim)
 		GOslim_dict[this_goID['lbl']] = go_slim
 
+
 print(f"GO Slim parser read {len(GOslim_dict)} GO IDs.")
