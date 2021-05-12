@@ -2,7 +2,7 @@
 # QuickGO Parser
 #
 # What this file do?
-# Containing the variables that more than one script use
+# Containing functions and classes that are used by more than one script
 #
 # Code written by Zoltan Dul, PhD (2021)
 # Contact me at zoltan dul [at] gmail.com
@@ -128,7 +128,7 @@ def GOSlimRequestURL(this_go_id, this_taxid):
 
 
 class Children:
-
+	"""Gets the children GO terms of a GO id"""
 	def __init__(self, goid):
 		"""Gets all children terms of a GeneOntology ID"""
 		self.goid = goid
@@ -139,26 +139,24 @@ class Children:
 		self.list_of_goterms = []
 		self.dict_of_goterms = {}
 		self.export_to_tsv = []
-
 		self.successful_run = self.GetChildren(goid, 0)
 		if self.successful_run:
 			self.WriteChildren()
 
 	def SleepCall(self):
 		"""Sleeps a given time and returns"""
-
+		# Adds one to the counter
 		self.call_counter += 1
-
+		# In every 100th request, going to sleep for a random time
 		if self.call_counter % 100 == 0:
 			sleep_random_time = random.randrange(5, 15)
 			LogAndPrint(f"### Script is going to sleep {sleep_random_time} seconds. ###", False)
 			time.sleep(sleep_random_time)
 			return True
-
 		return False
 
 	def Logger(self, text, is_printing=True, level="info"):
-		"""Takes a text, that logs into a log file and print into the console"""
+		"""Takes a text string, then logs into a log file and print into the console"""
 		if level == "info":
 			logging.info(text)
 		else:
@@ -168,7 +166,7 @@ class Children:
 		return True
 
 	def FileExist(self):
-		"""Checks file status, if exists skip GOid"""
+		"""Checks file status, if exists skip this GO id"""
 		if os.path.exists(self.export_filename):
 			self.exist = True
 			return True
