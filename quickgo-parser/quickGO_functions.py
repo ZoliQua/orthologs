@@ -186,7 +186,7 @@ class Children:
 			return False
 
 	def GetChildren(self, goid, level, parent_goid=None):
-
+		"""Gets the children GO terms of a GO id"""
 		isSleep = self.SleepCall()
 		content = self.GetEBIRequest(goid)
 		if not content:
@@ -243,7 +243,7 @@ class Children:
 
 
 def WriteTSVFile(go_id, tax_id, export_filename, write_this_array, split=False, this_mode='a'):
-
+	"""Write into a TSV file the output of GO Children"""
 	counter = 0
 
 	with open(export_filename, mode=this_mode) as export_file:
