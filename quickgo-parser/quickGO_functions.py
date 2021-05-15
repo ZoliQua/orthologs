@@ -16,6 +16,7 @@ import logging
 from datetime import datetime
 import urllib.request as rqs
 import json
+import pandas as pd
 
 # Creating timestamp for output filename
 now = datetime.now()
@@ -204,8 +205,8 @@ class Children:
 				if children['hasChildren']:
 					if children['id'] not in self.list_of_goterms:
 						self.Logger("\t"*level
-						            + "(lv-" + str(level) + ") "
-						            + 'Children of ' + children['id'] + " (" + children['name'] + "):")
+							+ "(lv-" + str(level) + ") "
+							+ 'Children of ' + children['id'] + " (" + children['name'] + "):")
 						self.GetChildren(children['id'], level+1, children['id'])
 						self.list_of_goterms.append(children['id'])
 						self.dict_of_goterms[children['id']] = children['name']
@@ -227,8 +228,75 @@ class Children:
 			self.no_children = True
 			return False
 
-
 	def WriteChildren(self, this_mode='a'):
+		"""Call self, write into a TSV file the output of GO Children"""
+		counter = 0
+		with open(self.export_filename, mode=this_mode) as export_file:
+			writer = csv.writer(export_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+			for line in self.export_to_tsv:
+				counter += 1
+				writer.writerow(line)
+		log_this = "Filename: " + self.export_filename + " successful."
+		self.Logger(log_this)
+
+		return counter
+
+
+class Annotations:
+	"""Gets the children GO terms of a GO id"""
+
+	def __init__(self, goid):
+		"""Gets all children terms of a GeneOntology ID"""
+		self.goid = goid
+		self.export_filename = "export/" + goid.replace(":", "_") + "_annotations.tsv"
+		self.children_filename = "export/" + goid.replace(":", "_") + "_children.tsv"
+		self.annotations_filenames = ["data/QuickGO-annotations-01-20210519.tsv", "data/QuickGO-annotations-02-20210519.tsv"]
+		self.annotations_taxids = [[9606, 559292, 284812], [3702, 6239, 7955, 7227]]
+		self.file_exist = self.FileExistAnnotations()
+		self.has_children = self.FileExistChildren()
+		self.call_counter = 0
+		self.list_of_goterms = []
+		self.dict_of_goterms = {}
+		self.export_to_tsv = []
+
+		self.ReadQuickGOAnnotation(0)
+		# self.successful_run = self.GetChildren(goid, 0)
+		# if self.successful_run:
+		# 	self.WriteAnnotations()
+
+	def Logger(self, text, is_printing=True, level="info"):
+		"""Takes a text string, then logs into a log file and print into the console"""
+		if level == "info":
+			logging.info(text)
+		else:
+			logging.debug(text)
+		if is_printing:
+			print(text)
+		return True
+
+	def FileExistChildren(self):
+		"""Checks file status of Children, returns a boolean value"""
+		if os.path.exists(self.children_filename):
+			return True
+		else:
+			return False
+
+	def FileExistAnnotations(self):
+		"""Checks file status of the Export file, returns a boolean variable"""
+		if os.path.exists(self.export_filename):
+			return True
+		else:
+			return False
+
+	def ReadQuickGOAnnotation(self, file_num):
+
+		df = pd.read_csv(self.annotations_filenames[file_num], sep='\t')
+
+		print(df)
+
+		return True
+
+	def WriteAnnotations(self, this_mode='a'):
 		"""Call self, write into a TSV file the output of GO Children"""
 		counter = 0
 		with open(self.export_filename, mode=this_mode) as export_file:
