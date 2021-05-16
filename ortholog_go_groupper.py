@@ -13,7 +13,8 @@ import operator
 
 csv.field_size_limit(sys.maxsize)
 
-list_of_go_tags = ["0007049", "0007568", "0008361", "0051726"]
+# list_of_go_tags = ["0006412", "0006629", "0006914", "0007049", "0007165", "0007568", "0008361", "0042254", "0051301", "0051726"]
+list_of_go_tags = ["0061615", "0000502", "0009295", "0006099"]
 
 for go_tag in list_of_go_tags:
     filename_go = "data/go/GO-" + go_tag + ".tsv"

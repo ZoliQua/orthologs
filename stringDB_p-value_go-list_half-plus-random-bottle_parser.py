@@ -26,7 +26,7 @@ num_request_per_cycle = 10
 num_proteins = 10
 dir_export = "export/"
 dir_log = "logs/"
-str_goid = "go-0007049"
+str_goid = "go-0051301"
 log_filename1 = dir_log + "pvalues_" + str_goid + "_general_" + current_time_abbrev + ".tsv"
 log_filename2 = dir_log + "pvalues_" + str_goid + "_detailed_" + current_time_abbrev + ".tsv"
 
@@ -229,13 +229,19 @@ for taxid in taxon_list:
 			if isTest == False:
 				counter = WriteExportFile(this_export_path, responses_array)
 
-		pvs = pd.Series(p_values_allcycles, index=range(1, ((num_cycles * num_request_per_cycle) + 1) ))
-		p_val_array[bottle_name] = p_values_allcycles
+		if len(p_values_allcycles) == 100:
+			pvs = pd.Series(p_values_allcycles, index=range(1, ((num_cycles * num_request_per_cycle) + 1) ))
+			p_val_array[bottle_name] = p_values_allcycles
 
-		# Print & Log
-		print(f"Taxid {taxid} - Parser summary for p-values in all cycle in Bottle Between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
-		logging.info(f"Taxid {taxid} - Parser summary for p-values in all cycle in Bottle Between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
+			# Print & Log
+			print(f"Taxid {taxid} - Parser summary for p-values in all cycle in Bottle Between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
+			logging.info(f"Taxid {taxid} - Parser summary for p-values in all cycle in Bottle Between {nr1}-{nr2}: Min: {pvs.min()}, Max: {pvs.max()}, Mean: {'{:.4f}'.format(pvs.mean())}.")
 
-		# Writing detailed log file
-		log_counter = WriteExportFile(log_filename2, log_calls)
-		print(f"Taxid {taxid} - Parser has written {log_counter}: lines in {log_filename2}.")
+			# Writing detailed log file
+			log_counter = WriteExportFile(log_filename2, log_calls)
+			print(f"Taxid {taxid} - Parser has written {log_counter}: lines in {log_filename2}.")
+
+		else:
+			# Print & Log
+			print(f"Taxid {taxid} - Parser SKIPPED cycle in Bottle Between {nr1}-{nr2}.")
+			logging.info(f"Taxid {taxid} - Parser SKIPPED cycle in Bottle Between {nr1}-{nr2}.")
