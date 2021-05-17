@@ -1,0 +1,666 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	TAXON ID	GENE_PRODUCT_SYNONYMS	GO ASPECT
+UniProtKB	A0A024R0Y5	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,hCG_27714	F
+UniProtKB	A0A024R0Y5	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,hCG_27714	F
+UniProtKB	A0A024R0Y5	PFKM	GO:0093001	glycolysis from storage polysaccharide through glucose-1-phosphate	9606	PFKM,hCG_27714	P
+UniProtKB	A0A024R0Y5	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM,hCG_27714	P
+UniProtKB	A0A024R0Y5	PFKM	GO:0061621	canonical glycolysis	9606	PFKM,hCG_27714	P
+UniProtKB	A0A024R0Y5	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,hCG_27714	F
+UniProtKB	A0A024R0Y5	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,hCG_27714	F
+UniProtKB	A0A024R0Y5	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,hCG_27714	F
+UniProtKB	A0A0B4K7L1	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	F
+UniProtKB	A0A0B4K7L1	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	F
+UniProtKB	A0A0B4K7L1	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	F
+UniProtKB	A0A0B4K7L1	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	F
+UniProtKB	A0A0B4K7L1	Pfk	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	P
+UniProtKB	A0A0B4K7L1	Pfk	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	P
+UniProtKB	A0A0B4K7L1	Pfk	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	P
+UniProtKB	A0A0B4K7L1	Pfk	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	P
+UniProtKB	A0A0B4KFI7	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	F
+UniProtKB	A0A0B4KFI7	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	F
+UniProtKB	A0A0B4KFI7	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	F
+UniProtKB	A0A0B4KFI7	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	F
+UniProtKB	A0A0B4KFI7	Pfk	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	P
+UniProtKB	A0A0B4KFI7	Pfk	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	P
+UniProtKB	A0A0B4KFI7	Pfk	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	P
+UniProtKB	A0A0B4KFI7	Pfk	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk,BcDNA.GH12192,BcDNA:GH12192,Dmel\CG4001,PFK,PFK1,l(2)06339,pfk,CG4001,Dmel_CG4001	P
+UniProtKB	A0A0R4ID68	pfklb	GO:0061621	canonical glycolysis	7955	pfklb	P
+UniProtKB	A0A0R4ID68	pfklb	GO:0003872	6-phosphofructokinase activity	7955	pfklb	F
+UniProtKB	A0A0R4ID68	pfklb	GO:0003872	6-phosphofructokinase activity	7955	pfklb	F
+UniProtKB	A0A0R4ID68	pfklb	GO:0003872	6-phosphofructokinase activity	7955	pfklb	F
+UniProtKB	A0A0R4ID68	pfklb	GO:0003872	6-phosphofructokinase activity	7955	pfklb	F
+UniProtKB	A0A0R4ID68	pfklb	GO:0003872	6-phosphofructokinase activity	7955	pfklb	F
+UniProtKB	A0A0R4IEX8	pfkla	GO:0003872	6-phosphofructokinase activity	7955	pfkla	F
+UniProtKB	A0A0R4IEX8	pfkla	GO:0003872	6-phosphofructokinase activity	7955	pfkla	F
+UniProtKB	A0A0R4IEX8	pfkla	GO:0003872	6-phosphofructokinase activity	7955	pfkla	F
+UniProtKB	A0A0R4IEX8	pfkla	GO:0003872	6-phosphofructokinase activity	7955	pfkla	F
+UniProtKB	A0A0R4IEX8	pfkla	GO:0061615	glycolytic process through fructose-6-phosphate	7955	pfkla	P
+UniProtKB	A0A0R4IEX8	pfkla	GO:0061615	glycolytic process through fructose-6-phosphate	7955	pfkla	P
+UniProtKB	A0A0R4IEX8	pfkla	GO:0061615	glycolytic process through fructose-6-phosphate	7955	pfkla	P
+UniProtKB	A0A0R4IEX8	pfkla	GO:0061615	glycolytic process through fructose-6-phosphate	7955	pfkla	P
+UniProtKB	A0A0R4ITA8	pfkpa	GO:0061621	canonical glycolysis	7955	pfkpa	P
+UniProtKB	A0A0R4ITA8	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A0R4ITA8	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A0R4ITA8	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A0R4ITA8	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A0R4ITA8	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A0S2Z4A1	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	A0A0S2Z4A1	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	A0A0S2Z4A1	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	A0A0S2Z4A1	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	A0A0S2Z4A8	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	A0A0S2Z4A8	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	A0A0S2Z4I1	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,hCG_27714	F
+UniProtKB	A0A0S2Z4I1	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,hCG_27714	F
+UniProtKB	A0A0S2Z4I1	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM,hCG_27714	P
+UniProtKB	A0A0S2Z4I1	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM,hCG_27714	P
+UniProtKB	A0A178UBY8	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g55830,AN1_LOCUS25947,C24_LOCUS25773	F
+UniProtKB	A0A178UBY8	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g55830,AN1_LOCUS25947,C24_LOCUS25773	F
+UniProtKB	A0A178UBY8	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g55830,AN1_LOCUS25947,C24_LOCUS25773	F
+UniProtKB	A0A178UBY8	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g55830,AN1_LOCUS25947,C24_LOCUS25773	F
+UniProtKB	A0A178UBY8	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g55830,AN1_LOCUS25947,C24_LOCUS25773	P
+UniProtKB	A0A178UBY8	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g55830,AN1_LOCUS25947,C24_LOCUS25773	P
+UniProtKB	A0A178UBY8	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g55830,AN1_LOCUS25947,C24_LOCUS25773	P
+UniProtKB	A0A178UBY8	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g55830,AN1_LOCUS25947,C24_LOCUS25773	P
+UniProtKB	A0A178UCI3	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g61070,AN1_LOCUS26466	F
+UniProtKB	A0A178UCI3	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g61070,AN1_LOCUS26466	F
+UniProtKB	A0A178UCI3	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g61070,AN1_LOCUS26466	F
+UniProtKB	A0A178UCI3	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g61070,AN1_LOCUS26466	F
+UniProtKB	A0A178UCI3	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g61070,AN1_LOCUS26466	P
+UniProtKB	A0A178UCI3	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g61070,AN1_LOCUS26466	P
+UniProtKB	A0A178UCI3	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g61070,AN1_LOCUS26466	P
+UniProtKB	A0A178UCI3	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g61070,AN1_LOCUS26466	P
+UniProtKB	A0A178UER7	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g46310,AN1_LOCUS25018,C24_LOCUS24850	F
+UniProtKB	A0A178UER7	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g46310,AN1_LOCUS25018,C24_LOCUS24850	F
+UniProtKB	A0A178UER7	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g46310,AN1_LOCUS25018,C24_LOCUS24850	F
+UniProtKB	A0A178UER7	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At5g46310,AN1_LOCUS25018,C24_LOCUS24850	F
+UniProtKB	A0A178UER7	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g46310,AN1_LOCUS25018,C24_LOCUS24850	P
+UniProtKB	A0A178UER7	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g46310,AN1_LOCUS25018,C24_LOCUS24850	P
+UniProtKB	A0A178UER7	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g46310,AN1_LOCUS25018,C24_LOCUS24850	P
+UniProtKB	A0A178UER7	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At5g46310,AN1_LOCUS25018,C24_LOCUS24850	P
+UniProtKB	A0A178UVZ6	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g33560,At4g29220,AN1_LOCUS19711	F
+UniProtKB	A0A178UVZ6	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g33560,At4g29220,AN1_LOCUS19711	F
+UniProtKB	A0A178UVZ6	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g33560,At4g29220,AN1_LOCUS19711	F
+UniProtKB	A0A178UVZ6	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g33560,At4g29220,AN1_LOCUS19711	F
+UniProtKB	A0A178UVZ6	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g33560,At4g29220,AN1_LOCUS19711	P
+UniProtKB	A0A178UVZ6	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g33560,At4g29220,AN1_LOCUS19711	P
+UniProtKB	A0A178UVZ6	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g33560,At4g29220,AN1_LOCUS19711	P
+UniProtKB	A0A178UVZ6	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g33560,At4g29220,AN1_LOCUS19711	P
+UniProtKB	A0A178UYE2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g33560,C24_LOCUS19605	F
+UniProtKB	A0A178UYE2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g33560,C24_LOCUS19605	F
+UniProtKB	A0A178UYE2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g33560,C24_LOCUS19605	F
+UniProtKB	A0A178UYE2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g33560,C24_LOCUS19605	F
+UniProtKB	A0A178UYE2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g33560,C24_LOCUS19605	P
+UniProtKB	A0A178UYE2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g33560,C24_LOCUS19605	P
+UniProtKB	A0A178UYE2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g33560,C24_LOCUS19605	P
+UniProtKB	A0A178UYE2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g33560,C24_LOCUS19605	P
+UniProtKB	A0A178V117	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g37650,At4g32840	F
+UniProtKB	A0A178V117	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g37650,At4g32840	F
+UniProtKB	A0A178V117	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g37650,At4g32840	F
+UniProtKB	A0A178V117	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g37650,At4g32840	F
+UniProtKB	A0A178V117	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g37650,At4g32840	P
+UniProtKB	A0A178V117	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g37650,At4g32840	P
+UniProtKB	A0A178V117	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g37650,At4g32840	P
+UniProtKB	A0A178V117	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g37650,At4g32840	P
+UniProtKB	A0A178V245	PFP-BETA	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA,AXX17_At4g06450	F
+UniProtKB	A0A178V245	PFP-BETA	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA,AXX17_At4g06450	F
+UniProtKB	A0A178V245	PFP-BETA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA,AXX17_At4g06450	P
+UniProtKB	A0A178V245	PFP-BETA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA,AXX17_At4g06450	P
+UniProtKB	A0A178V269	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g30300,C24_LOCUS19277	F
+UniProtKB	A0A178V269	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g30300,C24_LOCUS19277	F
+UniProtKB	A0A178V269	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g30300,C24_LOCUS19277	F
+UniProtKB	A0A178V269	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g30300,C24_LOCUS19277	F
+UniProtKB	A0A178V269	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g30300,C24_LOCUS19277	P
+UniProtKB	A0A178V269	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g30300,C24_LOCUS19277	P
+UniProtKB	A0A178V269	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g30300,C24_LOCUS19277	P
+UniProtKB	A0A178V269	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g30300,C24_LOCUS19277	P
+UniProtKB	A0A178V315	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g37650,AN1_LOCUS20105,AT9943_LOCUS17351,C24_LOCUS20000	F
+UniProtKB	A0A178V315	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g37650,AN1_LOCUS20105,AT9943_LOCUS17351,C24_LOCUS20000	F
+UniProtKB	A0A178V315	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g37650,AN1_LOCUS20105,AT9943_LOCUS17351,C24_LOCUS20000	F
+UniProtKB	A0A178V315	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At4g37650,AN1_LOCUS20105,AT9943_LOCUS17351,C24_LOCUS20000	F
+UniProtKB	A0A178V315	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g37650,AN1_LOCUS20105,AT9943_LOCUS17351,C24_LOCUS20000	P
+UniProtKB	A0A178V315	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g37650,AN1_LOCUS20105,AT9943_LOCUS17351,C24_LOCUS20000	P
+UniProtKB	A0A178V315	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g37650,AN1_LOCUS20105,AT9943_LOCUS17351,C24_LOCUS20000	P
+UniProtKB	A0A178V315	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At4g37650,AN1_LOCUS20105,AT9943_LOCUS17351,C24_LOCUS20000	P
+UniProtKB	A0A178VR33	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At2g18070	F
+UniProtKB	A0A178VR33	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At2g18070	F
+UniProtKB	A0A178VR33	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At2g18070	F
+UniProtKB	A0A178VR33	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AXX17_At2g18070	F
+UniProtKB	A0A178VR33	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At2g18070	P
+UniProtKB	A0A178VR33	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At2g18070	P
+UniProtKB	A0A178VR33	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At2g18070	P
+UniProtKB	A0A178VR33	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AXX17_At2g18070	P
+UniProtKB	A0A178W4Z8	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,AXX17_At1g71020,AN1_LOCUS6694	F
+UniProtKB	A0A178W4Z8	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,AXX17_At1g71020,AN1_LOCUS6694	F
+UniProtKB	A0A178W4Z8	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,AXX17_At1g71020,AN1_LOCUS6694	P
+UniProtKB	A0A178W4Z8	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,AXX17_At1g71020,AN1_LOCUS6694	P
+UniProtKB	A0A178W7Y1	PFP-BETA	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA,AXX17_At1g12370,AN1_LOCUS1306,C24_LOCUS1219	F
+UniProtKB	A0A178W7Y1	PFP-BETA	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA,AXX17_At1g12370,AN1_LOCUS1306,C24_LOCUS1219	F
+UniProtKB	A0A178W7Y1	PFP-BETA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA,AXX17_At1g12370,AN1_LOCUS1306,C24_LOCUS1219	P
+UniProtKB	A0A178W7Y1	PFP-BETA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA,AXX17_At1g12370,AN1_LOCUS1306,C24_LOCUS1219	P
+UniProtKB	A0A178WMV9	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,AXX17_At1g22020,AN1_LOCUS2237	F
+UniProtKB	A0A178WMV9	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,AXX17_At1g22020,AN1_LOCUS2237	F
+UniProtKB	A0A178WMV9	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,AXX17_At1g22020,AN1_LOCUS2237	P
+UniProtKB	A0A178WMV9	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,AXX17_At1g22020,AN1_LOCUS2237	P
+UniProtKB	A0A2R8Q476	pfkmb	GO:0061621	canonical glycolysis	7955	pfkmb	P
+UniProtKB	A0A2R8Q476	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8Q476	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8Q476	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8Q476	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8Q476	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8QDW4	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	A0A2R8QDW4	pfkpb	GO:0061621	canonical glycolysis	7955	pfkpb	P
+UniProtKB	A0A2R8QDW4	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	A0A2R8QDW4	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	A0A2R8QDW4	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	A0A2R8QDW4	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	A0A2R8QEU0	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8QEU0	pfkpa	GO:0061621	canonical glycolysis	7955	pfkpa	P
+UniProtKB	A0A2R8QEU0	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8QEU0	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8QEU0	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8QEU0	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8QUB7	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	A0A2R8QUB7	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	A0A2R8QUB7	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	A0A2R8QUB7	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	A0A2R8QUB7	pfkpb	GO:0061615	glycolytic process through fructose-6-phosphate	7955	pfkpb	P
+UniProtKB	A0A2R8QUB7	pfkpb	GO:0061615	glycolytic process through fructose-6-phosphate	7955	pfkpb	P
+UniProtKB	A0A2R8QUB7	pfkpb	GO:0061615	glycolytic process through fructose-6-phosphate	7955	pfkpb	P
+UniProtKB	A0A2R8QUB7	pfkpb	GO:0061615	glycolytic process through fructose-6-phosphate	7955	pfkpb	P
+UniProtKB	A0A2R8RK99	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8RK99	pfkpa	GO:0061621	canonical glycolysis	7955	pfkpa	P
+UniProtKB	A0A2R8RK99	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8RK99	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8RK99	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8RK99	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa	F
+UniProtKB	A0A2R8RZX5	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8RZX5	pfkmb	GO:0061621	canonical glycolysis	7955	pfkmb	P
+UniProtKB	A0A2R8RZX5	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8RZX5	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8RZX5	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8RZX5	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	A0A2R8Y891	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	A0A2R8Y891	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	A0A2R8Y891	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	A0A2R8Y891	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	A0A2R8Y891	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	A0A2R8Y891	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	A0A2R8Y891	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	A0A2R8Y891	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	A0A5S9VDR1	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,C24_LOCUS2149	F
+UniProtKB	A0A5S9VDR1	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,C24_LOCUS2149	F
+UniProtKB	A0A5S9VDR1	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,C24_LOCUS2149	P
+UniProtKB	A0A5S9VDR1	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,C24_LOCUS2149	P
+UniProtKB	A0A5S9WUW2	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,C24_LOCUS6580	F
+UniProtKB	A0A5S9WUW2	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,C24_LOCUS6580	F
+UniProtKB	A0A5S9WUW2	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,C24_LOCUS6580	P
+UniProtKB	A0A5S9WUW2	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,C24_LOCUS6580	P
+UniProtKB	A0A5S9X096	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AN1_LOCUS8628,C24_LOCUS8481	F
+UniProtKB	A0A5S9X096	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AN1_LOCUS8628,C24_LOCUS8481	F
+UniProtKB	A0A5S9X096	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AN1_LOCUS8628,C24_LOCUS8481	F
+UniProtKB	A0A5S9X096	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AN1_LOCUS8628,C24_LOCUS8481	F
+UniProtKB	A0A5S9X096	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AN1_LOCUS8628,C24_LOCUS8481	P
+UniProtKB	A0A5S9X096	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AN1_LOCUS8628,C24_LOCUS8481	P
+UniProtKB	A0A5S9X096	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AN1_LOCUS8628,C24_LOCUS8481	P
+UniProtKB	A0A5S9X096	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AN1_LOCUS8628,C24_LOCUS8481	P
+UniProtKB	A0A5S9XQV0	PFP-BETA	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA,C24_LOCUS17192	F
+UniProtKB	A0A5S9XQV0	PFP-BETA	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA,C24_LOCUS17192	F
+UniProtKB	A0A5S9XQV0	PFP-BETA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA,C24_LOCUS17192	P
+UniProtKB	A0A5S9XQV0	PFP-BETA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA,C24_LOCUS17192	P
+UniProtKB	A0A5S9YG36	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,C24_LOCUS26288	F
+UniProtKB	A0A5S9YG36	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,C24_LOCUS26288	F
+UniProtKB	A0A5S9YG36	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,C24_LOCUS26288	F
+UniProtKB	A0A5S9YG36	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,C24_LOCUS26288	F
+UniProtKB	A0A5S9YG36	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,C24_LOCUS26288	P
+UniProtKB	A0A5S9YG36	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,C24_LOCUS26288	P
+UniProtKB	A0A5S9YG36	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,C24_LOCUS26288	P
+UniProtKB	A0A5S9YG36	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,C24_LOCUS26288	P
+UniProtKB	A0A654FM03	PFP-BETA	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA,AN1_LOCUS17316	F
+UniProtKB	A0A654FM03	PFP-BETA	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA,AN1_LOCUS17316	F
+UniProtKB	A0A654FM03	PFP-BETA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA,AN1_LOCUS17316	P
+UniProtKB	A0A654FM03	PFP-BETA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA,AN1_LOCUS17316	P
+UniProtKB	A0A654FT45	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AN1_LOCUS19375	F
+UniProtKB	A0A654FT45	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AN1_LOCUS19375	F
+UniProtKB	A0A654FT45	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AN1_LOCUS19375	F
+UniProtKB	A0A654FT45	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AN1_LOCUS19375	F
+UniProtKB	A0A654FT45	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AN1_LOCUS19375	P
+UniProtKB	A0A654FT45	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AN1_LOCUS19375	P
+UniProtKB	A0A654FT45	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AN1_LOCUS19375	P
+UniProtKB	A0A654FT45	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AN1_LOCUS19375	P
+UniProtKB	A0A7G2DS38	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,AT9943_LOCUS1821	F
+UniProtKB	A0A7G2DS38	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,AT9943_LOCUS1821	F
+UniProtKB	A0A7G2DS38	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,AT9943_LOCUS1821	P
+UniProtKB	A0A7G2DS38	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,AT9943_LOCUS1821	P
+UniProtKB	A0A7G2DS64	AT9943_LOCUS1023	GO:0003872	6-phosphofructokinase activity	3702	AT9943_LOCUS1023	F
+UniProtKB	A0A7G2DS64	AT9943_LOCUS1023	GO:0061615	glycolytic process through fructose-6-phosphate	3702	AT9943_LOCUS1023	P
+UniProtKB	A0A7G2E6D0	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,AT9943_LOCUS5660	F
+UniProtKB	A0A7G2E6D0	PFP-ALPHA	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA,AT9943_LOCUS5660	F
+UniProtKB	A0A7G2E6D0	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,AT9943_LOCUS5660	P
+UniProtKB	A0A7G2E6D0	PFP-ALPHA	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA,AT9943_LOCUS5660	P
+UniProtKB	A0A7G2E852	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS7398	F
+UniProtKB	A0A7G2E852	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS7398	F
+UniProtKB	A0A7G2E852	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS7398	F
+UniProtKB	A0A7G2E852	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS7398	F
+UniProtKB	A0A7G2E852	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS7398	P
+UniProtKB	A0A7G2E852	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS7398	P
+UniProtKB	A0A7G2E852	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS7398	P
+UniProtKB	A0A7G2E852	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS7398	P
+UniProtKB	A0A7G2F1L4	AT9943_LOCUS14893	GO:0003872	6-phosphofructokinase activity	3702	AT9943_LOCUS14893	F
+UniProtKB	A0A7G2F1L4	AT9943_LOCUS14893	GO:0061615	glycolytic process through fructose-6-phosphate	3702	AT9943_LOCUS14893	P
+UniProtKB	A0A7G2F3U4	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS16716	F
+UniProtKB	A0A7G2F3U4	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS16716	F
+UniProtKB	A0A7G2F3U4	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS16716	F
+UniProtKB	A0A7G2F3U4	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS16716	F
+UniProtKB	A0A7G2F3U4	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS16716	P
+UniProtKB	A0A7G2F3U4	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS16716	P
+UniProtKB	A0A7G2F3U4	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS16716	P
+UniProtKB	A0A7G2F3U4	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS16716	P
+UniProtKB	A0A7G2F4J5	AT9943_LOCUS17016	GO:0003872	6-phosphofructokinase activity	3702	AT9943_LOCUS17016	F
+UniProtKB	A0A7G2F4J5	AT9943_LOCUS17016	GO:0061615	glycolytic process through fructose-6-phosphate	3702	AT9943_LOCUS17016	P
+UniProtKB	A0A7G2F712	AT9943_LOCUS17017	GO:0003872	6-phosphofructokinase activity	3702	AT9943_LOCUS17017	F
+UniProtKB	A0A7G2F712	AT9943_LOCUS17017	GO:0003872	6-phosphofructokinase activity	3702	AT9943_LOCUS17017	F
+UniProtKB	A0A7G2F712	AT9943_LOCUS17017	GO:0061615	glycolytic process through fructose-6-phosphate	3702	AT9943_LOCUS17017	P
+UniProtKB	A0A7G2F712	AT9943_LOCUS17017	GO:0061615	glycolytic process through fructose-6-phosphate	3702	AT9943_LOCUS17017	P
+UniProtKB	A0A7G2FIC5	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS21575	F
+UniProtKB	A0A7G2FIC5	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS21575	F
+UniProtKB	A0A7G2FIC5	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS21575	F
+UniProtKB	A0A7G2FIC5	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS21575	F
+UniProtKB	A0A7G2FIC5	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS21575	P
+UniProtKB	A0A7G2FIC5	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS21575	P
+UniProtKB	A0A7G2FIC5	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS21575	P
+UniProtKB	A0A7G2FIC5	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS21575	P
+UniProtKB	A0A7G2FIT2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22785	F
+UniProtKB	A0A7G2FIT2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22785	F
+UniProtKB	A0A7G2FIT2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22785	F
+UniProtKB	A0A7G2FIT2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22785	F
+UniProtKB	A0A7G2FIT2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22785	P
+UniProtKB	A0A7G2FIT2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22785	P
+UniProtKB	A0A7G2FIT2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22785	P
+UniProtKB	A0A7G2FIT2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22785	P
+UniProtKB	A0A7G2FKG2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22341	F
+UniProtKB	A0A7G2FKG2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22341	F
+UniProtKB	A0A7G2FKG2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22341	F
+UniProtKB	A0A7G2FKG2	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22341	F
+UniProtKB	A0A7G2FKG2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22341	P
+UniProtKB	A0A7G2FKG2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22341	P
+UniProtKB	A0A7G2FKG2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22341	P
+UniProtKB	A0A7G2FKG2	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22341	P
+UniProtKB	A0A7G2FKZ3	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22785	F
+UniProtKB	A0A7G2FKZ3	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22785	F
+UniProtKB	A0A7G2FKZ3	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22785	F
+UniProtKB	A0A7G2FKZ3	PFK	GO:0003872	6-phosphofructokinase activity	3702	PFK,AT9943_LOCUS22785	F
+UniProtKB	A0A7G2FKZ3	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22785	P
+UniProtKB	A0A7G2FKZ3	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22785	P
+UniProtKB	A0A7G2FKZ3	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22785	P
+UniProtKB	A0A7G2FKZ3	PFK	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK,AT9943_LOCUS22785	P
+UniProtKB	A0A7I2V3Z0	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	A0A7I2V3Z0	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	A0A7I2V3Z0	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	A0A7I2V3Z0	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	A0A7I2V3Z0	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	A0A7I2V3Z0	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	A0A7I2V3Z0	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	A0A7I2V3Z0	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	A0A7I2V5S1	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	A0A7I2V5S1	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	A0A7I2YQB6	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	A0A7I2YQB6	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	A4QNV1	pfkmb	GO:0061621	canonical glycolysis	7955	pfkmb,pfkm	P
+UniProtKB	A4QNV1	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb,pfkm	F
+UniProtKB	A4QNV1	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb,pfkm	F
+UniProtKB	A4QNV1	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb,pfkm	F
+UniProtKB	A4QNV1	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb,pfkm	F
+UniProtKB	A4QNV1	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb,pfkm	F
+UniProtKB	B1APP6	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	B1APP6	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	B1APP6	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	B1APP6	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	B1APP8	B1APP8	GO:0003872	6-phosphofructokinase activity	9606		F
+UniProtKB	B1APP8	B1APP8	GO:0061615	glycolytic process through fructose-6-phosphate	9606		P
+UniProtKB	B3KNQ7	B3KNQ7	GO:0003872	6-phosphofructokinase activity	9606		F
+UniProtKB	B3KNQ7	B3KNQ7	GO:0061615	glycolytic process through fructose-6-phosphate	9606		P
+UniProtKB	B4E108	B4E108	GO:0003872	6-phosphofructokinase activity	9606		F
+UniProtKB	B4E108	B4E108	GO:0061615	glycolytic process through fructose-6-phosphate	9606		P
+UniProtKB	B4E162	B4E162	GO:0003872	6-phosphofructokinase activity	9606		F
+UniProtKB	B4E162	B4E162	GO:0003872	6-phosphofructokinase activity	9606		F
+UniProtKB	B4E162	B4E162	GO:0061615	glycolytic process through fructose-6-phosphate	9606		P
+UniProtKB	B4E162	B4E162	GO:0061615	glycolytic process through fructose-6-phosphate	9606		P
+UniProtKB	C7LA80	Pfk-RC	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RC	F
+UniProtKB	C7LA80	Pfk-RC	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RC	F
+UniProtKB	C7LA80	Pfk-RC	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RC	F
+UniProtKB	C7LA80	Pfk-RC	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RC	F
+UniProtKB	C7LA80	Pfk-RC	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RC	P
+UniProtKB	C7LA80	Pfk-RC	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RC	P
+UniProtKB	C7LA80	Pfk-RC	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RC	P
+UniProtKB	C7LA80	Pfk-RC	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RC	P
+UniProtKB	C8VV04	Pfk-RB	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RB	F
+UniProtKB	C8VV04	Pfk-RB	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RB	F
+UniProtKB	C8VV04	Pfk-RB	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RB	F
+UniProtKB	C8VV04	Pfk-RB	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RB	F
+UniProtKB	C8VV04	Pfk-RB	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RB	P
+UniProtKB	C8VV04	Pfk-RB	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RB	P
+UniProtKB	C8VV04	Pfk-RB	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RB	P
+UniProtKB	C8VV04	Pfk-RB	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RB	P
+UniProtKB	E7F9M6	pfkla	GO:0003872	6-phosphofructokinase activity	7955	pfkla	F
+UniProtKB	E7F9M6	pfkla	GO:0061621	canonical glycolysis	7955	pfkla	P
+UniProtKB	E7F9M6	pfkla	GO:0003872	6-phosphofructokinase activity	7955	pfkla	F
+UniProtKB	E7F9M6	pfkla	GO:0003872	6-phosphofructokinase activity	7955	pfkla	F
+UniProtKB	E7F9M6	pfkla	GO:0003872	6-phosphofructokinase activity	7955	pfkla	F
+UniProtKB	E7F9M6	pfkla	GO:0003872	6-phosphofructokinase activity	7955	pfkla	F
+UniProtKB	E7FDP2	pfkpa	GO:0061621	canonical glycolysis	7955	pfkpa,si:ch73-73n3.1	P
+UniProtKB	E7FDP2	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa,si:ch73-73n3.1	F
+UniProtKB	E7FDP2	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa,si:ch73-73n3.1	F
+UniProtKB	E7FDP2	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa,si:ch73-73n3.1	F
+UniProtKB	E7FDP2	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa,si:ch73-73n3.1	F
+UniProtKB	E7FDP2	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa,si:ch73-73n3.1	F
+UniProtKB	E9QFJ1	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb,si:dkeyp-12a9.4	F
+UniProtKB	E9QFJ1	pfkpb	GO:0061621	canonical glycolysis	7955	pfkpb,si:dkeyp-12a9.4	P
+UniProtKB	E9QFJ1	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb,si:dkeyp-12a9.4	F
+UniProtKB	E9QFJ1	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb,si:dkeyp-12a9.4	F
+UniProtKB	E9QFJ1	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb,si:dkeyp-12a9.4	F
+UniProtKB	E9QFJ1	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb,si:dkeyp-12a9.4	F
+UniProtKB	F1QQS5	pfkpb	GO:0061621	canonical glycolysis	7955	pfkpb,si:dkeyp-12a9.4	P
+UniProtKB	F1QQS5	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb,si:dkeyp-12a9.4	F
+UniProtKB	F1QQS5	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb,si:dkeyp-12a9.4	F
+UniProtKB	F1R047	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	F1R047	pfkmb	GO:0061621	canonical glycolysis	7955	pfkmb	P
+UniProtKB	F1R047	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	F1R047	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	F1R047	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	F1R047	pfkmb	GO:0003872	6-phosphofructokinase activity	7955	pfkmb	F
+UniProtKB	F1R2A3	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa,si:ch73-73n3.1	F
+UniProtKB	F1R2A3	pfkpa	GO:0061621	canonical glycolysis	7955	pfkpa,si:ch73-73n3.1	P
+UniProtKB	F1R2A3	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa,si:ch73-73n3.1	F
+UniProtKB	F1R2A3	pfkpa	GO:0003872	6-phosphofructokinase activity	7955	pfkpa,si:ch73-73n3.1	F
+UniProtKB	F4JGR5	PFP-BETA2	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA2,MEE51,At4g04040,T24H24.15	F
+UniProtKB	F4JGR5	PFP-BETA2	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA2,MEE51,At4g04040,T24H24.15	F
+UniProtKB	F4JGR5	PFP-BETA2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA2,MEE51,At4g04040,T24H24.15	P
+UniProtKB	F4JGR5	PFP-BETA2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA2,MEE51,At4g04040,T24H24.15	P
+UniProtKB	F8VP00	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VP00	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	F8VSF7	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VSF7	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	F8VTQ3	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VTQ3	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	F8VUB8	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VUB8	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	F8VVE3	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VVE3	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	F8VW30	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VW30	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	F8VX13	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	F8VX13	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VYK8	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VYK8	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	F8VZI0	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VZI0	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	F8VZQ1	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	F8VZQ1	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	H0Y3Y3	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	H0Y3Y3	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	H0Y757	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	H0Y757	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	H5V888	Pfk-RB	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RB	F
+UniProtKB	H5V888	Pfk-RB	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RB	F
+UniProtKB	H5V888	Pfk-RB	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RB	F
+UniProtKB	H5V888	Pfk-RB	GO:0003872	6-phosphofructokinase activity	7227	Pfk-RB	F
+UniProtKB	H5V888	Pfk-RB	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RB	P
+UniProtKB	H5V888	Pfk-RB	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RB	P
+UniProtKB	H5V888	Pfk-RB	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RB	P
+UniProtKB	H5V888	Pfk-RB	GO:0061615	glycolytic process through fructose-6-phosphate	7227	Pfk-RB	P
+UniProtKB	O14943	PFK-P	GO:0003872	6-phosphofructokinase activity	9606	PFK-P	F
+UniProtKB	O14943	PFK-P	GO:0003872	6-phosphofructokinase activity	9606	PFK-P	F
+UniProtKB	O14943	PFK-P	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFK-P	P
+UniProtKB	O42938	pfk1	GO:0061621	canonical glycolysis	284812	pfk1,SPBC16H5.02	P
+UniProtKB	O42938	pfk1	GO:0003872	6-phosphofructokinase activity	284812	pfk1,SPBC16H5.02	F
+UniProtKB	O42938	pfk1	GO:0003872	6-phosphofructokinase activity	284812	pfk1,SPBC16H5.02	F
+UniProtKB	O42938	pfk1	GO:0003872	6-phosphofructokinase activity	284812	pfk1,SPBC16H5.02	F
+UniProtKB	O42938	pfk1	GO:0003872	6-phosphofructokinase activity	284812	pfk1,SPBC16H5.02	F
+UniProtKB	O42938	pfk1	GO:0061621	canonical glycolysis	284812	pfk1,SPBC16H5.02	P
+UniProtKB	O42938	pfk1	GO:0003872	6-phosphofructokinase activity	284812	pfk1,SPBC16H5.02	F
+UniProtKB	O42938	pfk1	GO:0003872	6-phosphofructokinase activity	284812	pfk1,SPBC16H5.02	F
+UniProtKB	O43026	gpd3	GO:0061621	canonical glycolysis	284812	gpd3,SPBC354.12	P
+UniProtKB	O60101	pgk1	GO:0061621	canonical glycolysis	284812	pgk1,SPBC14F5.04c	P
+UniProtKB	P06733	ENO1	GO:0061621	canonical glycolysis	9606	ENO1,ENO1L1,MBPB1,MPB1	P
+UniProtKB	P06733	ENO1	GO:0061621	canonical glycolysis	9606	ENO1,ENO1L1,MBPB1,MPB1	P
+UniProtKB	P07669	tpi1	GO:0061621	canonical glycolysis	284812	tpi1,tpi,SPCC24B10.21	P
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0061621	canonical glycolysis	9606	PFKM,PFKX	P
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0061621	canonical glycolysis	9606	PFKM,PFKX	P
+UniProtKB	P08237	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM,PFKX	P
+UniProtKB	P08237	PFKM	GO:0093001	glycolysis from storage polysaccharide through glucose-1-phosphate	9606	PFKM,PFKX	P
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM,PFKX	P
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P08237	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM,PFKX	F
+UniProtKB	P15007	Eno	GO:0061621	canonical glycolysis	7227	Eno,CG17654	P
+UniProtKB	P16861	PFK1	GO:0061621	canonical glycolysis	559292	PFK1,YGR240C,G8599	P
+UniProtKB	P16861	PFK1	GO:0003872	6-phosphofructokinase activity	559292	PFK1,YGR240C,G8599	F
+UniProtKB	P16861	PFK1	GO:0003872	6-phosphofructokinase activity	559292	PFK1,YGR240C,G8599	F
+UniProtKB	P16861	PFK1	GO:0003872	6-phosphofructokinase activity	559292	PFK1,YGR240C,G8599	F
+UniProtKB	P16861	PFK1	GO:0003872	6-phosphofructokinase activity	559292	PFK1,YGR240C,G8599	F
+UniProtKB	P16861	PFK1	GO:0003872	6-phosphofructokinase activity	559292	PFK1,YGR240C,G8599	F
+UniProtKB	P16861	PFK1	GO:0003872	6-phosphofructokinase activity	559292	PFK1,YGR240C,G8599	F
+UniProtKB	P16862	PFK2	GO:0061621	canonical glycolysis	559292	PFK2,YMR205C,YM8325.06C	P
+UniProtKB	P16862	PFK2	GO:0003872	6-phosphofructokinase activity	559292	PFK2,YMR205C,YM8325.06C	F
+UniProtKB	P16862	PFK2	GO:0003872	6-phosphofructokinase activity	559292	PFK2,YMR205C,YM8325.06C	F
+UniProtKB	P16862	PFK2	GO:0003872	6-phosphofructokinase activity	559292	PFK2,YMR205C,YM8325.06C	F
+UniProtKB	P16862	PFK2	GO:0003872	6-phosphofructokinase activity	559292	PFK2,YMR205C,YM8325.06C	F
+UniProtKB	P16862	PFK2	GO:0003872	6-phosphofructokinase activity	559292	PFK2,YMR205C,YM8325.06C	F
+UniProtKB	P16862	PFK2	GO:0003872	6-phosphofructokinase activity	559292	PFK2,YMR205C,YM8325.06C	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0061621	canonical glycolysis	9606	PFKL	P
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKL	P
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P17858	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	P19367	HK1	GO:0061621	canonical glycolysis	9606	HK1	P
+UniProtKB	P35557	GCK	GO:0061621	canonical glycolysis	9606	GCK	P
+UniProtKB	P36580	fba1	GO:0061621	canonical glycolysis	284812	fba1,SPBC19C2.07	P
+UniProtKB	P36623	gpm1	GO:0061621	canonical glycolysis	284812	gpm1,SPAC26F1.06	P
+UniProtKB	P40370	eno101	GO:0061621	canonical glycolysis	284812	eno101,eno1,SPBC1815.01	P
+UniProtKB	P50521	hxk2	GO:0061621	canonical glycolysis	284812	hxk2,SPAC4F8.07c	P
+UniProtKB	P51570	GALK1	GO:0061623	glycolytic process from galactose	9606	GALK1,GALK	P
+UniProtKB	P52034	Pfk	GO:0061621	canonical glycolysis	7227	Pfk,CG4001	P
+UniProtKB	P52034	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,CG4001	F
+UniProtKB	P52034	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,CG4001	F
+UniProtKB	P52034	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,CG4001	F
+UniProtKB	P52034	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,CG4001	F
+UniProtKB	P52034	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,CG4001	F
+UniProtKB	P52034	Pfk	GO:0003872	6-phosphofructokinase activity	7227	Pfk,CG4001	F
+UniProtKB	P52789	HK2	GO:0061621	canonical glycolysis	9606	HK2	P
+UniProtKB	P52790	HK3	GO:0061621	canonical glycolysis	9606	HK3	P
+UniProtKB	P78457	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	P78457	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	P78917	pgi1	GO:0061621	canonical glycolysis	284812	pgi1,SPBC1604.05	P
+UniProtKB	P78958	tdh1	GO:0061621	canonical glycolysis	284812	tdh1,gpd1,SPBC32F12.11	P
+UniProtKB	P85037	FOXK1	GO:0061621	canonical glycolysis	9606	FOXK1,MNF	P
+UniProtKB	Q01167	FOXK2	GO:0061621	canonical glycolysis	9606	FOXK2,ILF,ILF1	P
+UniProtKB	Q01167	FOXK2	GO:0061621	canonical glycolysis	9606	FOXK2,ILF,ILF1	P
+UniProtKB	Q01813	PFKP	GO:0061621	canonical glycolysis	9606	PFKP,PFKF	P
+UniProtKB	Q01813	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP,PFKF	F
+UniProtKB	Q01813	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP,PFKF	F
+UniProtKB	Q01813	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP,PFKF	F
+UniProtKB	Q01813	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP,PFKF	F
+UniProtKB	Q01813	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP,PFKF	F
+UniProtKB	Q01813	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP,PFKF	F
+UniProtKB	Q01813	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP,PFKF	F
+UniProtKB	Q09756	hxk1	GO:0061621	canonical glycolysis	284812	hxk1,SPAC24H6.04	P
+UniProtKB	Q10208	pyk1	GO:0061621	canonical glycolysis	284812	pyk1,SPAC4H3.10c	P
+UniProtKB	Q16184	phosphofructokinase-M: PFK-M	GO:0003872	6-phosphofructokinase activity	9606	phosphofructokinase-M: PFK-M	F
+UniProtKB	Q16184	phosphofructokinase-M: PFK-M	GO:0061615	glycolytic process through fructose-6-phosphate	9606	phosphofructokinase-M: PFK-M	P
+UniProtKB	Q27483	pfk-1.2	GO:0061621	canonical glycolysis	6239	pfk-1.2,C50F4.2	P
+UniProtKB	Q27483	pfk-1.2	GO:0003872	6-phosphofructokinase activity	6239	pfk-1.2,C50F4.2	F
+UniProtKB	Q27483	pfk-1.2	GO:0003872	6-phosphofructokinase activity	6239	pfk-1.2,C50F4.2	F
+UniProtKB	Q27483	pfk-1.2	GO:0003872	6-phosphofructokinase activity	6239	pfk-1.2,C50F4.2	F
+UniProtKB	Q27483	pfk-1.2	GO:0003872	6-phosphofructokinase activity	6239	pfk-1.2,C50F4.2	F
+UniProtKB	Q42197	At4g04040	GO:0003872	6-phosphofructokinase activity	3702	At4g04040	F
+UniProtKB	Q42197	At4g04040	GO:0061615	glycolytic process through fructose-6-phosphate	3702	At4g04040	P
+UniProtKB	Q49A78	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	Q49A78	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	Q568H4	pfklb	GO:0003872	6-phosphofructokinase activity	7955	pfklb,zgc:110298	F
+UniProtKB	Q568H4	pfklb	GO:0061621	canonical glycolysis	7955	pfklb,zgc:110298	P
+UniProtKB	Q568H4	pfklb	GO:0003872	6-phosphofructokinase activity	7955	pfklb,zgc:110298	F
+UniProtKB	Q59GI2	Q59GI2	GO:0003872	6-phosphofructokinase activity	9606		F
+UniProtKB	Q59GI2	Q59GI2	GO:0061615	glycolytic process through fructose-6-phosphate	9606		P
+UniProtKB	Q5VSR5	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	Q5VSR5	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	Q66HV8	pfkma	GO:0061621	canonical glycolysis	7955	pfkma,pfkm	P
+UniProtKB	Q66HV8	pfkma	GO:0003872	6-phosphofructokinase activity	7955	pfkma,pfkm	F
+UniProtKB	Q66HV8	pfkma	GO:0003872	6-phosphofructokinase activity	7955	pfkma,pfkm	F
+UniProtKB	Q66HV8	pfkma	GO:0003872	6-phosphofructokinase activity	7955	pfkma,pfkm	F
+UniProtKB	Q66HV8	pfkma	GO:0003872	6-phosphofructokinase activity	7955	pfkma,pfkm	F
+UniProtKB	Q66HV8	pfkma	GO:0003872	6-phosphofructokinase activity	7955	pfkma,pfkm	F
+UniProtKB	Q6MZK4	DKFZp686L2097	GO:0003872	6-phosphofructokinase activity	9606	DKFZp686L2097	F
+UniProtKB	Q6MZK4	DKFZp686L2097	GO:0061615	glycolytic process through fructose-6-phosphate	9606	DKFZp686L2097	P
+UniProtKB	Q7KYX9	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	Q7KYX9	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	Q7KYX9	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	Q7KYX9	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	Q7L2M7	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	Q7L2M7	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	Q7L2M7	PFKL	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKL	P
+UniProtKB	Q7L2M7	PFKL	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKL	P
+UniProtKB	Q7Z3R9	DKFZp686G1648	GO:0003872	6-phosphofructokinase activity	9606	DKFZp686G1648	F
+UniProtKB	Q7Z3R9	DKFZp686G1648	GO:0061615	glycolytic process through fructose-6-phosphate	9606	DKFZp686G1648	P
+UniProtKB	Q8NKC2	eno102	GO:0061621	canonical glycolysis	284812	eno102,eno1,SPBPB21E7.01c,SPBPB8B6.07c	P
+UniProtKB	Q8VYN6	PFK5	GO:0003872	6-phosphofructokinase activity	3702	PFK5,At2g22480,F14M13.12	F
+UniProtKB	Q8VYN6	PFK5	GO:0003872	6-phosphofructokinase activity	3702	PFK5,At2g22480,F14M13.12	F
+UniProtKB	Q8VYN6	PFK5	GO:0003872	6-phosphofructokinase activity	3702	PFK5,At2g22480,F14M13.12	F
+UniProtKB	Q8VYN6	PFK5	GO:0003872	6-phosphofructokinase activity	3702	PFK5,At2g22480,F14M13.12	F
+UniProtKB	Q8VYN6	PFK5	GO:0003872	6-phosphofructokinase activity	3702	PFK5,At2g22480,F14M13.12	F
+UniProtKB	Q8VYN6	PFK5	GO:0003872	6-phosphofructokinase activity	3702	PFK5,At2g22480,F14M13.12	F
+UniProtKB	Q8VYN6	PFK5	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK5,At2g22480,F14M13.12	P
+UniProtKB	Q8VYN6	PFK5	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK5,At2g22480,F14M13.12	P
+UniProtKB	Q8VYN6	PFK5	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK5,At2g22480,F14M13.12	P
+UniProtKB	Q8VYN6	PFK5	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK5,At2g22480,F14M13.12	P
+UniProtKB	Q8VYN6	PFK5	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK5,At2g22480,F14M13.12	P
+UniProtKB	Q8VYN6	PFK5	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK5,At2g22480,F14M13.12	P
+UniProtKB	Q8W4M5	PFP-BETA1	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA1,At1g12000,F12F1.13	F
+UniProtKB	Q8W4M5	PFP-BETA1	GO:0003872	6-phosphofructokinase activity	3702	PFP-BETA1,At1g12000,F12F1.13	F
+UniProtKB	Q8W4M5	PFP-BETA1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA1,At1g12000,F12F1.13	P
+UniProtKB	Q8W4M5	PFP-BETA1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-BETA1,At1g12000,F12F1.13	P
+UniProtKB	Q8WTZ9	Q8WTZ9	GO:0003872	6-phosphofructokinase activity	9606		F
+UniProtKB	Q8WTZ9	Q8WTZ9	GO:0061615	glycolytic process through fructose-6-phosphate	9606		P
+UniProtKB	Q94AA4	PFK3	GO:0003872	6-phosphofructokinase activity	3702	PFK3,At4g26270,T25K17.80	F
+UniProtKB	Q94AA4	PFK3	GO:0003872	6-phosphofructokinase activity	3702	PFK3,At4g26270,T25K17.80	F
+UniProtKB	Q94AA4	PFK3	GO:0003872	6-phosphofructokinase activity	3702	PFK3,At4g26270,T25K17.80	F
+UniProtKB	Q94AA4	PFK3	GO:0003872	6-phosphofructokinase activity	3702	PFK3,At4g26270,T25K17.80	F
+UniProtKB	Q94AA4	PFK3	GO:0003872	6-phosphofructokinase activity	3702	PFK3,At4g26270,T25K17.80	F
+UniProtKB	Q94AA4	PFK3	GO:0003872	6-phosphofructokinase activity	3702	PFK3,At4g26270,T25K17.80	F
+UniProtKB	Q94AA4	PFK3	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK3,At4g26270,T25K17.80	P
+UniProtKB	Q94AA4	PFK3	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK3,At4g26270,T25K17.80	P
+UniProtKB	Q94AA4	PFK3	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK3,At4g26270,T25K17.80	P
+UniProtKB	Q94AA4	PFK3	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK3,At4g26270,T25K17.80	P
+UniProtKB	Q94AA4	PFK3	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK3,At4g26270,T25K17.80	P
+UniProtKB	Q94AA4	PFK3	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK3,At4g26270,T25K17.80	P
+UniProtKB	Q96I60	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	Q96I60	PFKM	GO:0003872	6-phosphofructokinase activity	9606	PFKM	F
+UniProtKB	Q96I60	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	Q96I60	PFKM	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKM	P
+UniProtKB	Q9BRR6	ADPGK	GO:0061620	glycolytic process through glucose-6-phosphate	9606	ADPGK,PSEC0260	P
+UniProtKB	Q9BSP4	PFKL	GO:0003872	6-phosphofructokinase activity	9606	PFKL	F
+UniProtKB	Q9BSP4	PFKL	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKL	P
+UniProtKB	Q9C5J7	PFK7	GO:0003872	6-phosphofructokinase activity	3702	PFK7,At5g56630,MIK19.8	F
+UniProtKB	Q9C5J7	PFK7	GO:0003872	6-phosphofructokinase activity	3702	PFK7,At5g56630,MIK19.8	F
+UniProtKB	Q9C5J7	PFK7	GO:0003872	6-phosphofructokinase activity	3702	PFK7,At5g56630,MIK19.8	F
+UniProtKB	Q9C5J7	PFK7	GO:0003872	6-phosphofructokinase activity	3702	PFK7,At5g56630,MIK19.8	F
+UniProtKB	Q9C5J7	PFK7	GO:0003872	6-phosphofructokinase activity	3702	PFK7,At5g56630,MIK19.8	F
+UniProtKB	Q9C5J7	PFK7	GO:0003872	6-phosphofructokinase activity	3702	PFK7,At5g56630,MIK19.8	F
+UniProtKB	Q9C5J7	PFK7	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK7,At5g56630,MIK19.8	P
+UniProtKB	Q9C5J7	PFK7	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK7,At5g56630,MIK19.8	P
+UniProtKB	Q9C5J7	PFK7	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK7,At5g56630,MIK19.8	P
+UniProtKB	Q9C5J7	PFK7	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK7,At5g56630,MIK19.8	P
+UniProtKB	Q9C5J7	PFK7	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK7,At5g56630,MIK19.8	P
+UniProtKB	Q9C5J7	PFK7	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK7,At5g56630,MIK19.8	P
+UniProtKB	Q9C9K3	PFP-ALPHA2	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA2,At1g76550,F14G6.15	F
+UniProtKB	Q9C9K3	PFP-ALPHA2	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA2,At1g76550,F14G6.15	F
+UniProtKB	Q9C9K3	PFP-ALPHA2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA2,At1g76550,F14G6.15	P
+UniProtKB	Q9C9K3	PFP-ALPHA2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA2,At1g76550,F14G6.15	P
+UniProtKB	Q9FIK0	PFK2	GO:0003872	6-phosphofructokinase activity	3702	PFK2,At5g47810,MCA23.13	F
+UniProtKB	Q9FIK0	PFK2	GO:0003872	6-phosphofructokinase activity	3702	PFK2,At5g47810,MCA23.13	F
+UniProtKB	Q9FIK0	PFK2	GO:0003872	6-phosphofructokinase activity	3702	PFK2,At5g47810,MCA23.13	F
+UniProtKB	Q9FIK0	PFK2	GO:0003872	6-phosphofructokinase activity	3702	PFK2,At5g47810,MCA23.13	F
+UniProtKB	Q9FIK0	PFK2	GO:0003872	6-phosphofructokinase activity	3702	PFK2,At5g47810,MCA23.13	F
+UniProtKB	Q9FIK0	PFK2	GO:0003872	6-phosphofructokinase activity	3702	PFK2,At5g47810,MCA23.13	F
+UniProtKB	Q9FIK0	PFK2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK2,At5g47810,MCA23.13	P
+UniProtKB	Q9FIK0	PFK2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK2,At5g47810,MCA23.13	P
+UniProtKB	Q9FIK0	PFK2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK2,At5g47810,MCA23.13	P
+UniProtKB	Q9FIK0	PFK2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK2,At5g47810,MCA23.13	P
+UniProtKB	Q9FIK0	PFK2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK2,At5g47810,MCA23.13	P
+UniProtKB	Q9FIK0	PFK2	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK2,At5g47810,MCA23.13	P
+UniProtKB	Q9FKG3	PFK4	GO:0003872	6-phosphofructokinase activity	3702	PFK4,At5g61580,K11J9.3	F
+UniProtKB	Q9FKG3	PFK4	GO:0003872	6-phosphofructokinase activity	3702	PFK4,At5g61580,K11J9.3	F
+UniProtKB	Q9FKG3	PFK4	GO:0003872	6-phosphofructokinase activity	3702	PFK4,At5g61580,K11J9.3	F
+UniProtKB	Q9FKG3	PFK4	GO:0003872	6-phosphofructokinase activity	3702	PFK4,At5g61580,K11J9.3	F
+UniProtKB	Q9FKG3	PFK4	GO:0003872	6-phosphofructokinase activity	3702	PFK4,At5g61580,K11J9.3	F
+UniProtKB	Q9FKG3	PFK4	GO:0003872	6-phosphofructokinase activity	3702	PFK4,At5g61580,K11J9.3	F
+UniProtKB	Q9FKG3	PFK4	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK4,At5g61580,K11J9.3	P
+UniProtKB	Q9FKG3	PFK4	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK4,At5g61580,K11J9.3	P
+UniProtKB	Q9FKG3	PFK4	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK4,At5g61580,K11J9.3	P
+UniProtKB	Q9FKG3	PFK4	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK4,At5g61580,K11J9.3	P
+UniProtKB	Q9FKG3	PFK4	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK4,At5g61580,K11J9.3	P
+UniProtKB	Q9FKG3	PFK4	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK4,At5g61580,K11J9.3	P
+UniProtKB	Q9M076	PFK6	GO:0003872	6-phosphofructokinase activity	3702	PFK6,At4g32840,T16I18.50	F
+UniProtKB	Q9M076	PFK6	GO:0003872	6-phosphofructokinase activity	3702	PFK6,At4g32840,T16I18.50	F
+UniProtKB	Q9M076	PFK6	GO:0003872	6-phosphofructokinase activity	3702	PFK6,At4g32840,T16I18.50	F
+UniProtKB	Q9M076	PFK6	GO:0003872	6-phosphofructokinase activity	3702	PFK6,At4g32840,T16I18.50	F
+UniProtKB	Q9M076	PFK6	GO:0003872	6-phosphofructokinase activity	3702	PFK6,At4g32840,T16I18.50	F
+UniProtKB	Q9M076	PFK6	GO:0003872	6-phosphofructokinase activity	3702	PFK6,At4g32840,T16I18.50	F
+UniProtKB	Q9M076	PFK6	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK6,At4g32840,T16I18.50	P
+UniProtKB	Q9M076	PFK6	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK6,At4g32840,T16I18.50	P
+UniProtKB	Q9M076	PFK6	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK6,At4g32840,T16I18.50	P
+UniProtKB	Q9M076	PFK6	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK6,At4g32840,T16I18.50	P
+UniProtKB	Q9M076	PFK6	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK6,At4g32840,T16I18.50	P
+UniProtKB	Q9M076	PFK6	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK6,At4g32840,T16I18.50	P
+UniProtKB	Q9M0F9	PFK1	GO:0003872	6-phosphofructokinase activity	3702	PFK1,At4g29220,F17A13.40	F
+UniProtKB	Q9M0F9	PFK1	GO:0003872	6-phosphofructokinase activity	3702	PFK1,At4g29220,F17A13.40	F
+UniProtKB	Q9M0F9	PFK1	GO:0003872	6-phosphofructokinase activity	3702	PFK1,At4g29220,F17A13.40	F
+UniProtKB	Q9M0F9	PFK1	GO:0003872	6-phosphofructokinase activity	3702	PFK1,At4g29220,F17A13.40	F
+UniProtKB	Q9M0F9	PFK1	GO:0003872	6-phosphofructokinase activity	3702	PFK1,At4g29220,F17A13.40	F
+UniProtKB	Q9M0F9	PFK1	GO:0003872	6-phosphofructokinase activity	3702	PFK1,At4g29220,F17A13.40	F
+UniProtKB	Q9M0F9	PFK1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK1,At4g29220,F17A13.40	P
+UniProtKB	Q9M0F9	PFK1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK1,At4g29220,F17A13.40	P
+UniProtKB	Q9M0F9	PFK1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK1,At4g29220,F17A13.40	P
+UniProtKB	Q9M0F9	PFK1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK1,At4g29220,F17A13.40	P
+UniProtKB	Q9M0F9	PFK1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK1,At4g29220,F17A13.40	P
+UniProtKB	Q9M0F9	PFK1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFK1,At4g29220,F17A13.40	P
+UniProtKB	Q9SYP2	PFP-ALPHA1	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA1,At1g20950,F9H16.6	F
+UniProtKB	Q9SYP2	PFP-ALPHA1	GO:0003872	6-phosphofructokinase activity	3702	PFP-ALPHA1,At1g20950,F9H16.6	F
+UniProtKB	Q9SYP2	PFP-ALPHA1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA1,At1g20950,F9H16.6	P
+UniProtKB	Q9SYP2	PFP-ALPHA1	GO:0061615	glycolytic process through fructose-6-phosphate	3702	PFP-ALPHA1,At1g20950,F9H16.6	P
+UniProtKB	Q9TZL8	pfk-1.1	GO:0003872	6-phosphofructokinase activity	6239	pfk-1.1,Y71H10A.1	F
+UniProtKB	Q9TZL8	pfk-1.1	GO:0061621	canonical glycolysis	6239	pfk-1.1,Y71H10A.1	P
+UniProtKB	Q9TZL8	pfk-1.1	GO:0003872	6-phosphofructokinase activity	6239	pfk-1.1,Y71H10A.1	F
+UniProtKB	Q9TZL8	pfk-1.1	GO:0003872	6-phosphofructokinase activity	6239	pfk-1.1,Y71H10A.1	F
+UniProtKB	Q9TZL8	pfk-1.1	GO:0003872	6-phosphofructokinase activity	6239	pfk-1.1,Y71H10A.1	F
+UniProtKB	Q9TZL8	pfk-1.1	GO:0003872	6-phosphofructokinase activity	6239	pfk-1.1,Y71H10A.1	F
+UniProtKB	V9GY25	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	V9GY25	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	V9GYV7	PFKP	GO:0003872	6-phosphofructokinase activity	9606	PFKP	F
+UniProtKB	V9GYV7	PFKP	GO:0061615	glycolytic process through fructose-6-phosphate	9606	PFKP	P
+UniProtKB	V9HWE7	HEL-S-19	GO:0061623	glycolytic process from galactose	9606	HEL-S-19	P
+UniProtKB	X1WDM7	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	X1WDM7	pfkpb	GO:0061621	canonical glycolysis	7955	pfkpb	P
+UniProtKB	X1WDM7	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	X1WDM7	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	X1WDM7	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+UniProtKB	X1WDM7	pfkpb	GO:0003872	6-phosphofructokinase activity	7955	pfkpb	F
+ComplexPortal	CPX-554	pfk_yeast	GO:0003872	6-phosphofructokinase activity	559292	6-phosphofructokinase,phosphofructokinase,phosphohexokinase,6PF-1-K complex,Pfk-1 complex,PFK complex,4xPFK1:4xPFK2	F
+ComplexPortal	CPX-554	pfk_yeast	GO:0061615	glycolytic process through fructose-6-phosphate	559292	6-phosphofructokinase,phosphofructokinase,phosphohexokinase,6PF-1-K complex,Pfk-1 complex,PFK complex,4xPFK1:4xPFK2	P
