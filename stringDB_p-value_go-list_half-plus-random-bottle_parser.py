@@ -23,10 +23,10 @@ from stringDB_variables import *
 isTest = False
 num_cycles = 10
 num_request_per_cycle = 10
-num_proteins = 10
+num_proteins = 6
 dir_export = "export/"
 dir_log = "logs/"
-str_goid = "go-0051301"
+str_goid = "go-0005975"
 log_filename1 = dir_log + "pvalues_" + str_goid + "_general_" + current_time_abbrev + ".tsv"
 log_filename2 = dir_log + "pvalues_" + str_goid + "_detailed_" + current_time_abbrev + ".tsv"
 
@@ -228,6 +228,7 @@ for taxid in taxon_list:
 			this_export_path = dir_export + taxid + "/" + export_filename
 			if isTest == False:
 				counter = WriteExportFile(this_export_path, responses_array)
+				responses_array = []
 
 		if len(p_values_allcycles) == 100:
 			pvs = pd.Series(p_values_allcycles, index=range(1, ((num_cycles * num_request_per_cycle) + 1) ))
