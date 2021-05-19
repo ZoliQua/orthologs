@@ -1,0 +1,1486 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	TAXON ID	GENE_PRODUCT_SYNONYMS	GO ASPECT
+UniProtKB	A0A024R3Q0	ARF1	GO:1990386	mitotic cleavage furrow ingression	9606	ARF1,hCG_42236	P
+UniProtKB	A0A024RAI1	ACTR3	GO:0033206	meiotic cytokinesis	9606	ACTR3,hCG_26669	P
+UniProtKB	A0A067YRN8	zfyve26	GO:0000281	mitotic cytokinesis	7955	zfyve26,Suf	P
+UniProtKB	A0A067YRV0	zfyve26	GO:0000281	mitotic cytokinesis	7955	zfyve26,Suf	P
+UniProtKB	A0A087WVE4	SNX9	GO:0000281	mitotic cytokinesis	9606	SNX9	P
+UniProtKB	A0A087WZW2	SNX9	GO:0000281	mitotic cytokinesis	9606	SNX9	P
+UniProtKB	A0A087X2F3	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A0A0MPH2	si:dkey-30c15.10	GO:0000281	mitotic cytokinesis	7955	si:dkey-30c15.10,si:dkey-30c15.9	P
+UniProtKB	A0A0A0MPH2	si:dkey-30c15.10	GO:0000915	actomyosin contractile ring assembly	7955	si:dkey-30c15.10,si:dkey-30c15.9	P
+UniProtKB	A0A0A0MRV8	DCTN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	DCTN3	P
+UniProtKB	A0A0B4KGG5	vib	GO:0000916	actomyosin contractile ring contraction	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	A0A0B4KGG5	vib	GO:0000915	actomyosin contractile ring assembly	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	A0A0B4KGG5	vib	GO:0033206	meiotic cytokinesis	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	A0A0B4KGG5	vib	GO:0031566	actomyosin contractile ring maintenance	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	A0A0B4KGG5	vib	GO:0007112	male meiosis cytokinesis	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	A0A0B4KGG5	vib	GO:0007111	meiosis II cytokinesis	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	A0A0B4KGG5	vib	GO:0007110	meiosis I cytokinesis	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	A0A0B4KH28	Synd	GO:0000281	mitotic cytokinesis	7227	Synd,CG15694,D-Synd,Dmel\CG33094,synd,CG33094,Dmel_CG33094	P
+UniProtKB	A0A0B4KH28	Synd	GO:0007112	male meiosis cytokinesis	7227	Synd,CG15694,D-Synd,Dmel\CG33094,synd,CG33094,Dmel_CG33094	P
+UniProtKB	A0A0B4KH28	Synd	GO:0036090	cleavage furrow ingression	7227	Synd,CG15694,D-Synd,Dmel\CG33094,synd,CG33094,Dmel_CG33094	P
+UniProtKB	A0A0B4LFQ2	Incenp	GO:0000281	mitotic cytokinesis	7227	Incenp,DmINCENP,Dmel\CG12165,INCENP,anon-WO0118547.171,dIncenp,incenp,mat(2)ea-C,mat(2)earlyQA26,CG12165,Dmel_CG12165	P
+UniProtKB	A0A0B4LFQ2	Incenp	GO:0000281	mitotic cytokinesis	7227	Incenp,DmINCENP,Dmel\CG12165,INCENP,anon-WO0118547.171,dIncenp,incenp,mat(2)ea-C,mat(2)earlyQA26,CG12165,Dmel_CG12165	P
+UniProtKB	A0A0B5JSC2	prnpb	GO:0032506	cytokinetic process	7955	prnpb	P
+UniProtKB	A0A0C4DG83	MAP9	GO:0000281	mitotic cytokinesis	9606	MAP9,ASAP,hCG_26928	P
+UniProtKB	A0A0G2KQA6	sept4b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept4b	P
+UniProtKB	A0A0G2L1R2	incenp	GO:0000281	mitotic cytokinesis	7955	incenp	P
+UniProtKB	A0A0R4IBR3	snx9b	GO:0000281	mitotic cytokinesis	7955	snx9b	P
+UniProtKB	A0A0R4ID79	si:dkey-65b13.9	GO:0000281	mitotic cytokinesis	7955	si:dkey-65b13.9	P
+UniProtKB	A0A0R4IEM0	zgc:162239	GO:0061640	cytoskeleton-dependent cytokinesis	7955	zgc:162239	P
+UniProtKB	A0A0R4IG10	sept9b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9b	P
+UniProtKB	A0A0R4IHT4	rock2a	GO:0000281	mitotic cytokinesis	7955	rock2a	P
+UniProtKB	A0A0R4IKD5	ect2	GO:0000281	mitotic cytokinesis	7955	ect2	P
+UniProtKB	A0A0R4IKD5	ect2	GO:0032506	cytokinetic process	7955	ect2	P
+UniProtKB	A0A0R4IN26	sept15	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept15	P
+UniProtKB	A0A0R4IPQ7	sept6	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept6	P
+UniProtKB	A0A0R4IPW8	sept15	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept15	P
+UniProtKB	A0A0R4IQJ2	rock2b	GO:0000281	mitotic cytokinesis	7955	rock2b	P
+UniProtKB	A0A0R4IVY5	rock1	GO:0000281	mitotic cytokinesis	7955	rock1	P
+UniProtKB	A0A0R4IWH7	apc	GO:0000281	mitotic cytokinesis	7955	apc	P
+UniProtKB	A0A0R4IWY5	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a	P
+UniProtKB	A0A0R4IXC2	sept9b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9b	P
+UniProtKB	A0A0R4IZK0	racgap1	GO:0000281	mitotic cytokinesis	7955	racgap1	P
+UniProtKB	A0A140LGH9	sept6	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept6	P
+UniProtKB	A0A140LGQ2	sept6	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept6	P
+UniProtKB	A0A178UI19	AXX17_At5g23270	GO:0000911	cytokinesis by cell plate formation	3702	AXX17_At5g23270	P
+UniProtKB	A0A178UMR8	AXX17_At5g12670	GO:0000911	cytokinesis by cell plate formation	3702	AXX17_At5g12670,AN1_LOCUS22091,C24_LOCUS21981	P
+UniProtKB	A0A178UQV6	AXX17_At5g18530	GO:0000914	phragmoplast assembly	3702	AXX17_At5g18530	P
+UniProtKB	A0A178UQV6	AXX17_At5g18530	GO:0000911	cytokinesis by cell plate formation	3702	AXX17_At5g18530	P
+UniProtKB	A0A178UXM5	AXX17_At4g09770	GO:0000911	cytokinesis by cell plate formation	3702	AXX17_At4g09770	P
+UniProtKB	A0A178V3Y2	AXX17_At4g28970	GO:0000911	cytokinesis by cell plate formation	3702	AXX17_At4g28970,At4g25070,AT9943_LOCUS16601,C24_LOCUS19150	P
+UniProtKB	A0A178V607	AXX17_At4g28970	GO:0000911	cytokinesis by cell plate formation	3702	AXX17_At4g28970,At4g25070,AT9943_LOCUS16601	P
+UniProtKB	A0A178V7R6	AXX17_At3g43010	GO:0000911	cytokinesis by cell plate formation	3702	AXX17_At3g43010,AN1_LOCUS15232	P
+UniProtKB	A0A178W965	AXX17_At1g34610	GO:0000914	phragmoplast assembly	3702	AXX17_At1g34610	P
+UniProtKB	A0A178W965	AXX17_At1g34610	GO:0000911	cytokinesis by cell plate formation	3702	AXX17_At1g34610	P
+UniProtKB	A0A178WQC2	AXX17_At1g34620	GO:0000914	phragmoplast assembly	3702	AXX17_At1g34620	P
+UniProtKB	A0A178WQC2	AXX17_At1g34620	GO:0000911	cytokinesis by cell plate formation	3702	AXX17_At1g34620	P
+UniProtKB	A0A1I9LM32	SCD2	GO:0000911	cytokinesis by cell plate formation	3702	SCD2,At3g48860	P
+UniProtKB	A0A1P8B8X7	At4g08630	GO:0000911	cytokinesis by cell plate formation	3702	At4g08630,T3F12.6,T3F12_6	P
+UniProtKB	A0A1P8BB67	MQM1.3	GO:0000911	cytokinesis by cell plate formation	3702	MQM1.3,MQM1_3,At5g23700	P
+UniProtKB	A0A1P8BB69	MQM1.3	GO:0000911	cytokinesis by cell plate formation	3702	MQM1.3,MQM1_3,At5g23700	P
+UniProtKB	A0A1Y6IM71	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A1Y6IM94	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A1Y6IM95	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A1Y6IPP8	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A1Y6IQI2	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A1Y6IQK5	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A1Y6IRU6	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A224ANK2	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A224AV41	APC	GO:0000281	mitotic cytokinesis	9606	APC,hCG_2031476	P
+UniProtKB	A0A286Y917	anln	GO:0000915	actomyosin contractile ring assembly	7955	anln	P
+UniProtKB	A0A286Y917	anln	GO:0000281	mitotic cytokinesis	7955	anln	P
+UniProtKB	A0A286Y967	kif23	GO:0000281	mitotic cytokinesis	7955	kif23	P
+UniProtKB	A0A286Y967	kif23	GO:0036089	cleavage furrow formation	7955	kif23	P
+UniProtKB	A0A286YA61	snx9b	GO:0000281	mitotic cytokinesis	7955	snx9b	P
+UniProtKB	A0A288CG34	lzts2a	GO:0000281	mitotic cytokinesis	7955	lzts2a,LAPSER1,LZTS2	P
+UniProtKB	A0A2H2FF08	ZFYVE26	GO:0000281	mitotic cytokinesis	9606	ZFYVE26	P
+UniProtKB	A0A2Q2SV78	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A2R8PWR2	unc119a	GO:0000281	mitotic cytokinesis	7955	unc119a	P
+UniProtKB	A0A2R8Q1Z1	ect2	GO:0000281	mitotic cytokinesis	7955	ect2	P
+UniProtKB	A0A2R8Q1Z1	ect2	GO:0032506	cytokinetic process	7955	ect2	P
+UniProtKB	A0A2R8Q3Q3	unc119a	GO:0000281	mitotic cytokinesis	7955	unc119a	P
+UniProtKB	A0A2R8Q3U7	lzts2a	GO:0000281	mitotic cytokinesis	7955	lzts2a,LAPSER1,LZTS2	P
+UniProtKB	A0A2R8Q548	si:dkey-30c15.10	GO:0000281	mitotic cytokinesis	7955	si:dkey-30c15.10	P
+UniProtKB	A0A2R8Q548	si:dkey-30c15.10	GO:0000915	actomyosin contractile ring assembly	7955	si:dkey-30c15.10	P
+UniProtKB	A0A2R8Q781	map9	GO:0000281	mitotic cytokinesis	7955	map9	P
+UniProtKB	A0A2R8Q8Y9	sept9b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9b	P
+UniProtKB	A0A2R8QHK6	sept9b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9b	P
+UniProtKB	A0A2R8QJ84	unc119.2	GO:0000281	mitotic cytokinesis	7955	unc119.2	P
+UniProtKB	A0A2R8QKR2	si:dkey-30c15.10	GO:0000281	mitotic cytokinesis	7955	si:dkey-30c15.10	P
+UniProtKB	A0A2R8QKR2	si:dkey-30c15.10	GO:0000915	actomyosin contractile ring assembly	7955	si:dkey-30c15.10	P
+UniProtKB	A0A2R8QL85	unc119a	GO:0000281	mitotic cytokinesis	7955	unc119a	P
+UniProtKB	A0A2R8QPS8	efhc1	GO:0000281	mitotic cytokinesis	7955	efhc1	P
+UniProtKB	A0A2R8QRV8	unc119a	GO:0000281	mitotic cytokinesis	7955	unc119a	P
+UniProtKB	A0A2R8QU11	A0A2R8QU11	GO:0000281	mitotic cytokinesis	7955		P
+UniProtKB	A0A2R8RJY1	ect2	GO:0000281	mitotic cytokinesis	7955	ect2	P
+UniProtKB	A0A2R8RJY1	ect2	GO:0032506	cytokinetic process	7955	ect2	P
+UniProtKB	A0A2R8RP86	snx9b	GO:0000281	mitotic cytokinesis	7955	snx9b	P
+UniProtKB	A0A2R8RRV0	A0A2R8RRV0	GO:0061640	cytoskeleton-dependent cytokinesis	7955		P
+UniProtKB	A0A2R8RYP8	efhc1	GO:0000281	mitotic cytokinesis	7955	efhc1	P
+UniProtKB	A0A2R8Y4I8	SPAST	GO:0032506	cytokinetic process	9606	SPAST,SPG4	P
+UniProtKB	A0A2U3TZR0	SPAST	GO:0032506	cytokinetic process	9606	SPAST,SPG4	P
+UniProtKB	A0A384ME03	A0A384ME03	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	A0A386AVV0	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A0A3B3ITX8	A0A3B3ITX8	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	A0A5S9XJX8	C24_LOCUS15111	GO:0000911	cytokinesis by cell plate formation	3702	C24_LOCUS15111	P
+UniProtKB	A0A5S9XR82	C24_LOCUS17357	GO:0000911	cytokinesis by cell plate formation	3702	C24_LOCUS17357	P
+UniProtKB	A0A5S9Y5B7	AN1_LOCUS22657	GO:0000914	phragmoplast assembly	3702	AN1_LOCUS22657,AT9943_LOCUS19503,C24_LOCUS22539	P
+UniProtKB	A0A5S9Y5B7	AN1_LOCUS22657	GO:0000911	cytokinesis by cell plate formation	3702	AN1_LOCUS22657,AT9943_LOCUS19503,C24_LOCUS22539	P
+UniProtKB	A0A5S9Y8Y7	C24_LOCUS22994	GO:0000911	cytokinesis by cell plate formation	3702	C24_LOCUS22994	P
+UniProtKB	A0A654FMD5	AN1_LOCUS17456	GO:0000911	cytokinesis by cell plate formation	3702	AN1_LOCUS17456	P
+UniProtKB	A0A654FME3	AN1_LOCUS17458	GO:0000911	cytokinesis by cell plate formation	3702	AN1_LOCUS17458	P
+UniProtKB	A0A654FSI5	AN1_LOCUS19250	GO:0000911	cytokinesis by cell plate formation	3702	AN1_LOCUS19250	P
+UniProtKB	A0A654G420	AN1_LOCUS23109	GO:0000911	cytokinesis by cell plate formation	3702	AN1_LOCUS23109	P
+UniProtKB	A0A7G2ETN1	AT9943_LOCUS13105	GO:0000911	cytokinesis by cell plate formation	3702	AT9943_LOCUS13105	P
+UniProtKB	A0A7G2EVR7	AT9943_LOCUS15043	GO:0000911	cytokinesis by cell plate formation	3702	AT9943_LOCUS15043	P
+UniProtKB	A0A7G2F737	AT9943_LOCUS19022	GO:0000911	cytokinesis by cell plate formation	3702	AT9943_LOCUS19022	P
+UniProtKB	A0A7G2F9M1	AT9943_LOCUS19896	GO:0000911	cytokinesis by cell plate formation	3702	AT9943_LOCUS19896	P
+UniProtKB	A0A7I2V403	ZFYVE26	GO:0000281	mitotic cytokinesis	9606	ZFYVE26	P
+UniProtKB	A0A7I2V4E6	ZFYVE26	GO:0000281	mitotic cytokinesis	9606	ZFYVE26	P
+UniProtKB	A0A7I2V577	ZFYVE26	GO:0000281	mitotic cytokinesis	9606	ZFYVE26	P
+UniProtKB	A0A7I2YQU3	ZFYVE26	GO:0000281	mitotic cytokinesis	9606	ZFYVE26	P
+UniProtKB	A0A7I2YQV0	ZFYVE26	GO:0000281	mitotic cytokinesis	9606	ZFYVE26	P
+UniProtKB	A0AQB0	CG9893	GO:0061640	cytoskeleton-dependent cytokinesis	7227	CG9893	P
+UniProtKB	A0AQB1	CG9893	GO:0061640	cytoskeleton-dependent cytokinesis	7227	CG9893	P
+UniProtKB	A0AQB7	CG9893	GO:0061640	cytoskeleton-dependent cytokinesis	7227	CG9893	P
+UniProtKB	A0JMF4	sept15	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept15,sept7b	P
+UniProtKB	A0MFT2	At4g25070	GO:0000911	cytokinesis by cell plate formation	3702	At4g25070,F24A6.14	P
+UniProtKB	A1L1X3	unc119b	GO:0000281	mitotic cytokinesis	7955	unc119b,unc119.2	P
+UniProtKB	A1L2F3	nusap1	GO:0000281	mitotic cytokinesis	7955	nusap1	P
+UniProtKB	A1L2F3	nusap1	GO:0000281	mitotic cytokinesis	7955	nusap1	P
+UniProtKB	A1YIQ7	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A1YR11	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A1Z7A6	Asap	GO:1990386	mitotic cleavage furrow ingression	7227	Asap,Asap1,CG30372	P
+UniProtKB	A1Z7T0	Pkn	GO:0000281	mitotic cytokinesis	7227	Pkn,Dpkn,CG2049	P
+UniProtKB	A1Z9I5	tum	GO:0000281	mitotic cytokinesis	7227	tum,13345,AcGAP,DRacGAP,Dmel\CG13345,RacGAP,RacGAP50C,RacGAP50c,RacGap,RacGap50C,RhoGAP-50C14,TUM,Tum,Tumbleweed,acGAP,eon,i249,racGAP50,racGAP50C	P
+UniProtKB	A1Z9I5	tum	GO:0000281	mitotic cytokinesis	7227	tum,13345,AcGAP,DRacGAP,Dmel\CG13345,RacGAP,RacGAP50C,RacGAP50c,RacGap,RacGap50C,RhoGAP-50C14,TUM,Tum,Tumbleweed,acGAP,eon,i249,racGAP50,racGAP50C	P
+UniProtKB	A2BGU8	septin3	GO:0061640	cytoskeleton-dependent cytokinesis	7955	septin3,sept3,si:dkey-48a12.1,zgc:110051	P
+UniProtKB	A2BI20	si:dkey-40c11.1	GO:0000281	mitotic cytokinesis	7955	si:dkey-40c11.1	P
+UniProtKB	A2BI20	si:dkey-40c11.1	GO:0000915	actomyosin contractile ring assembly	7955	si:dkey-40c11.1	P
+UniProtKB	A2VCS9	MAP9	GO:0000281	mitotic cytokinesis	9606	MAP9	P
+UniProtKB	A2VCT0	MAP9	GO:0000281	mitotic cytokinesis	9606	MAP9	P
+UniProtKB	A3KNM3	zgc:162239	GO:0061640	cytoskeleton-dependent cytokinesis	7955	zgc:162239	P
+UniProtKB	A4FUM1	sept8b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept8b	P
+UniProtKB	A4IFW5	anln	GO:0000281	mitotic cytokinesis	7955	anln,anln-like,si:ch211-197n10.2	P
+UniProtKB	A4IFW5	anln	GO:0000915	actomyosin contractile ring assembly	7955	anln,anln-like,si:ch211-197n10.2	P
+UniProtKB	A4IG13	zgc:114123	GO:0036089	cleavage furrow formation	7955	zgc:114123	P
+UniProtKB	A4IG13	zgc:114123	GO:0040038	polar body extrusion after meiotic divisions	7955	zgc:114123	P
+UniProtKB	A4IGC0	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	A4KUQ7	snx33	GO:0000281	mitotic cytokinesis	7955	snx33,SH3PX3	P
+UniProtKB	A5HB94	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A5HB95	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A5HB96	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A5HB97	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A5JUM6	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A5JUM7	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A5JUM8	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A5JUM9	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	A5PLF7	jtb	GO:0000281	mitotic cytokinesis	7955	jtb,si:ch211-191i18.1	P
+UniProtKB	A7MBR1	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	A8JNN0	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	A8JNN0	pbl	GO:0000915	actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	A8JNN0	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	A8JNN0	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	A8JNN0	pbl	GO:0007111	meiosis II cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	A8JNN0	pbl	GO:0007110	meiosis I cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	A8JNN0	pbl	GO:1903475	mitotic actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	A8JR05	cv-c	GO:0000912	assembly of actomyosin apparatus involved in cytokinesis	7227	cv-c,CG14845,CG14846,CG14847,CG14848,CG14849,CG31319,CG31330,CG8480,Cv-c,Dmel\CG34389,RhoGAP88C,l(3)06951,rhoGAP88C,CG34389,Dmel_CG34389	P
+UniProtKB	A8K0K2	A8K0K2	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	A8K4B4	A8K4B4	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	A8MSM7	MAP9	GO:0000281	mitotic cytokinesis	9606	MAP9	P
+UniProtKB	A8WGJ9	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3	P
+UniProtKB	B0S667	DKEYP-70E6.2-001	GO:0000281	mitotic cytokinesis	7955	DKEYP-70E6.2-001	P
+UniProtKB	B0S668	DKEYP-70E6.2-002	GO:0000281	mitotic cytokinesis	7955	DKEYP-70E6.2-002	P
+UniProtKB	B2RAU5	B2RAU5	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	B2ZRE1	B2ZRE1	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	B2ZRG1	B2ZRG1	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	B3DJJ9	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3	P
+UniProtKB	B3H5K9	NEDD1	GO:0000919	cell plate assembly	3702	NEDD1,GCP-WD,At5g05970,K18J17.16	P
+UniProtKB	B3H5K9	NEDD1	GO:0000919	cell plate assembly	3702	NEDD1,GCP-WD,At5g05970,K18J17.16	P
+UniProtKB	B3KXH8	B3KXH8	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	B4DVG9	B4DVG9	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	B5RHZ3	snx33	GO:0000281	mitotic cytokinesis	7955	snx33,im:7144315,sh3px3,zgc:113233	P
+UniProtKB	B8A4V2	anxa11a	GO:0032506	cytokinetic process	7955	anxa11a	P
+UniProtKB	B8A6E8	lzts2a	GO:0000281	mitotic cytokinesis	7955	lzts2a,LAPSER1,LZTS2	P
+UniProtKB	B9DH97	SAR1	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	SAR1,ATVAMP722,VAMP722,At2g33120,F25I18.14,F25I18_14	P
+UniProtKB	B9EJB6	MAP9	GO:0000281	mitotic cytokinesis	9606	MAP9	P
+UniProtKB	D2NUE8	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RD	P
+UniProtKB	D2NUE8	pbl	GO:0000915	actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RD	P
+UniProtKB	D2NUE8	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RD	P
+UniProtKB	D2NUE8	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RD	P
+UniProtKB	D2NUE8	pbl	GO:0007111	meiosis II cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RD	P
+UniProtKB	D2NUE8	pbl	GO:0007110	meiosis I cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RD	P
+UniProtKB	D2NUE8	pbl	GO:1903475	mitotic actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RD	P
+UniProtKB	D6R9E4	KIF20A	GO:0000281	mitotic cytokinesis	9606	KIF20A	P
+UniProtKB	D6RBN1	KIF20A	GO:0000281	mitotic cytokinesis	9606	KIF20A	P
+UniProtKB	D6RFL6	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	D9IVG1	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a	P
+UniProtKB	D9IVG2	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a	P
+UniProtKB	D9IVG3	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a	P
+UniProtKB	D9IVG4	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a	P
+UniProtKB	D9IVG5	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a	P
+UniProtKB	E2CYN3	rock2b	GO:0000281	mitotic cytokinesis	7955	rock2b	P
+UniProtKB	E5KRP5	SPAST	GO:0032506	cytokinetic process	9606	SPAST,SPG4,hCG_23080	P
+UniProtKB	E5KRP6	SPAST	GO:0032506	cytokinetic process	9606	SPAST,SPG4	P
+UniProtKB	E7EMH9	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	E7ETZ8	MAP9	GO:0000281	mitotic cytokinesis	9606	MAP9	P
+UniProtKB	E7EYJ6	lzts2b	GO:0000281	mitotic cytokinesis	7955	lzts2b,LAPSER1,LZTS2	P
+UniProtKB	E7F2M1	unc119.2	GO:0000281	mitotic cytokinesis	7955	unc119.2,si:ch73-248e21.4	P
+UniProtKB	E7F528	rtkn2b	GO:0000281	mitotic cytokinesis	7955	rtkn2b	P
+UniProtKB	E7F528	rtkn2b	GO:0000915	actomyosin contractile ring assembly	7955	rtkn2b	P
+UniProtKB	E7F7H0	map9	GO:0000281	mitotic cytokinesis	7955	map9	P
+UniProtKB	E7FA38	spire1b	GO:0040038	polar body extrusion after meiotic divisions	7955	spire1b	P
+UniProtKB	E7FA38	spire1b	GO:0036089	cleavage furrow formation	7955	spire1b	P
+UniProtKB	E7FAB6	sept5b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept5b	P
+UniProtKB	E7FDG0	rock2b	GO:0000281	mitotic cytokinesis	7955	rock2b	P
+UniProtKB	E7FGH0	sept12	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept12	P
+UniProtKB	E9PFT7	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	E9QB54	dctn3	GO:0061640	cytoskeleton-dependent cytokinesis	7955	dctn3	P
+UniProtKB	E9QB54	dctn3	GO:0061640	cytoskeleton-dependent cytokinesis	7955	dctn3	P
+UniProtKB	E9QBI1	sept5b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept5b	P
+UniProtKB	E9QC85	zgc:162239	GO:0061640	cytoskeleton-dependent cytokinesis	7955	zgc:162239	P
+UniProtKB	E9QEN9	dchs1b	GO:1903673	mitotic cleavage furrow formation	7955	dchs1b,dchs1	P
+UniProtKB	E9QHH8	racgap1	GO:0000281	mitotic cytokinesis	7955	racgap1	P
+UniProtKB	F0JAF7	Rab35	GO:0000281	mitotic cytokinesis	7227	Rab35,DRab35,DmRab35,Dmel\CG9575,Q95RH7,Rab35 CES,dRab35,rab35,CG9575,Dmel_CG9575	P
+UniProtKB	F1Q533	zfyve26	GO:0000281	mitotic cytokinesis	7955	zfyve26	P
+UniProtKB	F1Q856	sept5a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept5a	P
+UniProtKB	F1Q8A4	efhc1	GO:0000281	mitotic cytokinesis	7955	efhc1	P
+UniProtKB	F1Q966	zgc:114123	GO:0036089	cleavage furrow formation	7955	zgc:114123	P
+UniProtKB	F1Q966	zgc:114123	GO:0040038	polar body extrusion after meiotic divisions	7955	zgc:114123	P
+UniProtKB	F1QA00	rtkn2b	GO:0000915	actomyosin contractile ring assembly	7955	rtkn2b	P
+UniProtKB	F1QA00	rtkn2b	GO:0000281	mitotic cytokinesis	7955	rtkn2b	P
+UniProtKB	F1QAK1	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a	P
+UniProtKB	F1QDF0	kif20a	GO:0000281	mitotic cytokinesis	7955	kif20a	P
+UniProtKB	F1QE32	unc119a	GO:0000281	mitotic cytokinesis	7955	unc119a	P
+UniProtKB	F1QGX1	dchs1b	GO:1903673	mitotic cleavage furrow formation	7955	dchs1b,dchs1	P
+UniProtKB	F1QHM4	sept4a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept4a	P
+UniProtKB	F1QJH8	anln	GO:0000281	mitotic cytokinesis	7955	anln,si:ch211-197n10.2	P
+UniProtKB	F1QJH8	anln	GO:0000915	actomyosin contractile ring assembly	7955	anln,si:ch211-197n10.2	P
+UniProtKB	F1QMC3	sept7b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept7b	P
+UniProtKB	F1QNN4	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	F1QPB5	sept5a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept5a	P
+UniProtKB	F1QQ74	sept6	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept6	P
+UniProtKB	F1QQN9	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	F1QVS6	ect2	GO:0000281	mitotic cytokinesis	7955	ect2	P
+UniProtKB	F1QVS6	ect2	GO:0032506	cytokinetic process	7955	ect2	P
+UniProtKB	F1QW60	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	F1QX09	prnpb	GO:0032506	cytokinetic process	7955	prnpb,prnprs1	P
+UniProtKB	F1QXA3	dchs1b	GO:1903673	mitotic cleavage furrow formation	7955	dchs1b,dchs1	P
+UniProtKB	F1R3Q3	sept6	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept6	P
+UniProtKB	F1R417	rock2b	GO:0000281	mitotic cytokinesis	7955	rock2b	P
+UniProtKB	F1R4T4	zgc:114123	GO:0036089	cleavage furrow formation	7955	zgc:114123	P
+UniProtKB	F1R4T4	zgc:114123	GO:0040038	polar body extrusion after meiotic divisions	7955	zgc:114123	P
+UniProtKB	F1RCK9	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a	P
+UniProtKB	F1REC2	sept7a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept7a	P
+UniProtKB	F4HPR5	DRP5A	GO:0000911	cytokinesis by cell plate formation	3702	DRP5A,At1g53140,F8L10.1	P
+UniProtKB	F4HQG6	DCL1	GO:0000911	cytokinesis by cell plate formation	3702	DCL1,ABNORMAL SUSPENSOR 1,ASU1,ATDCL1,CAF,CARPEL FACTORY,DICER-LIKE 1,EMB60,EMB76,EMBRYO DEFECTIVE 60,EMBRYO DEFECTIVE 76,SHORT INTEGUMENTS 1,SIN1,SUS1,SUSPENSOR 1,dicer-like 1,At1g01040,T25K16.4,T25K16_4	P
+UniProtKB	F4IIM1	CSI1	GO:0009833	plant-type primary cell wall biogenesis	3702	CSI1,POM2,At2g22125,T16B14.2	P
+UniProtKB	F4IIS5	KIN5A	GO:0000281	mitotic cytokinesis	3702	KIN5A,LPH,RSW7,At2g28620,T8O18.9	P
+UniProtKB	F4IIS5	KIN5A	GO:0000911	cytokinesis by cell plate formation	3702	KIN5A,LPH,RSW7,At2g28620,T8O18.9	P
+UniProtKB	F4IRB4	MYB88	GO:0010235	guard mother cell cytokinesis	3702	MYB88,At2g02820,T20F6.4	P
+UniProtKB	F4J8I0	TRM6	GO:0000913	preprophase band assembly	3702	TRM6,TON1 Recruiting Motif 6,At3g05750,F10A16.3,F10A16_3	P
+UniProtKB	F4JF62	SCD2	GO:0000911	cytokinesis by cell plate formation	3702	SCD2,At3g48860	P
+UniProtKB	F4JIB6	At4g08630	GO:0000911	cytokinesis by cell plate formation	3702	At4g08630,T3F12.6,T3F12_6	P
+UniProtKB	F4JY37	RUK	GO:0000914	phragmoplast assembly	3702	RUK,EMB3013,At5g18700,T1A4.80	P
+UniProtKB	F4JY37	RUK	GO:0000911	cytokinesis by cell plate formation	3702	RUK,EMB3013,At5g18700,T1A4.80	P
+UniProtKB	F4JY37	RUK	GO:0000914	phragmoplast assembly	3702	RUK,EMB3013,At5g18700,T1A4.80	P
+UniProtKB	F4JY37	RUK	GO:0000911	cytokinesis by cell plate formation	3702	RUK,EMB3013,At5g18700,T1A4.80	P
+UniProtKB	F4JY37	RUK	GO:0000911	cytokinesis by cell plate formation	3702	RUK,EMB3013,At5g18700,T1A4.80	P
+UniProtKB	F4K0C4	TRS130	GO:0000919	cell plate assembly	3702	TRS130,CLUB,At5g54440,F24B18.6	P
+UniProtKB	F4K0C4	TRS130	GO:0000911	cytokinesis by cell plate formation	3702	TRS130,CLUB,At5g54440,F24B18.6	P
+UniProtKB	F4K3E4	MAP65-1	GO:0000911	cytokinesis by cell plate formation	3702	MAP65-1,ATMAP65-1,MCO15.18,MCO15_18,At5g55230	P
+UniProtKB	F4K8Y4	CPI1	GO:0000911	cytokinesis by cell plate formation	3702	CPI1,CYCLOEUCALENOL CYCLOISOMERASE,cyclopropyl isomerase,At5g50375	P
+UniProtKB	F4KE93	MQM1.3	GO:0000911	cytokinesis by cell plate formation	3702	MQM1.3,MQM1_3,At5g23700	P
+UniProtKB	F4KGM7	EXO70A1	GO:0000919	cell plate assembly	3702	EXO70A1,ATEXO70A1,At5g03540,F12E4.330,F12E4_330	P
+UniProtKB	F6NI04	anln	GO:0000915	actomyosin contractile ring assembly	7955	anln,si:ch211-197n10.2	P
+UniProtKB	F6NI04	anln	GO:0000281	mitotic cytokinesis	7955	anln,si:ch211-197n10.2	P
+UniProtKB	F6NK88	zfyve26	GO:0000281	mitotic cytokinesis	7955	zfyve26	P
+UniProtKB	F8W2N0	anxa11b	GO:0032506	cytokinetic process	7955	anxa11b	P
+UniProtKB	F8W4Z3	apc	GO:0000281	mitotic cytokinesis	7955	apc	P
+UniProtKB	F8W5G2	sept7b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept7b	P
+UniProtKB	F8W5J3	sept7b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept7b	P
+UniProtKB	F8W5Z6	sept7b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept7b	P
+UniProtKB	G3V230	ZFYVE26	GO:0000281	mitotic cytokinesis	9606	ZFYVE26	P
+UniProtKB	G3V2D8	ZFYVE26	GO:0000281	mitotic cytokinesis	9606	ZFYVE26	P
+UniProtKB	G5EBU5	kca-1	GO:0040038	polar body extrusion after meiotic divisions	6239	kca-1,1F328,C10H11.10,CELE_C10H11.10	P
+UniProtKB	G5EBY3	nmy-2	GO:0000281	mitotic cytokinesis	6239	nmy-2,CELE_F20G4.3,F20G4.3	P
+UniProtKB	G5EC43	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	G5EC43	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	G5EC43	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	G5EC43	zen-4	GO:0040038	polar body extrusion after meiotic divisions	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	G5ECH5	ppfr-1	GO:0040038	polar body extrusion after meiotic divisions	6239	ppfr-1,F16A11.3	P
+UniProtKB	G5ED29	atx-2	GO:0040038	polar body extrusion after meiotic divisions	6239	atx-2,D2045.1	P
+UniProtKB	G5ED39	sep-1	GO:0000281	mitotic cytokinesis	6239	sep-1,Y47G6A.12	P
+UniProtKB	G5ED39	sep-1	GO:0040038	polar body extrusion after meiotic divisions	6239	sep-1,Y47G6A.12	P
+UniProtKB	G5ED39	sep-1	GO:0000281	mitotic cytokinesis	6239	sep-1,Y47G6A.12	P
+UniProtKB	G5ED39	sep-1	GO:0040038	polar body extrusion after meiotic divisions	6239	sep-1,Y47G6A.12	P
+UniProtKB	G5EE37	icp-1	GO:0000281	mitotic cytokinesis	6239	icp-1,CELE_Y39G10AR.13,Y39G10AR.13	P
+UniProtKB	G5EE37	icp-1	GO:0000281	mitotic cytokinesis	6239	icp-1,CELE_Y39G10AR.13,Y39G10AR.13	P
+UniProtKB	G5EG83	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	G5EG83	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	G5EG83	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	G5EG83	zen-4	GO:0040038	polar body extrusion after meiotic divisions	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	G5EGT6	cyp-31a2	GO:0040038	polar body extrusion after meiotic divisions	6239	cyp-31a2,cyp-31A2,CELE_H02I12.8,H02I12.8	P
+UniProtKB	H0Y432	CEP55	GO:0000281	mitotic cytokinesis	9606	CEP55	P
+UniProtKB	H0YAC9	KIF20A	GO:0000281	mitotic cytokinesis	9606	KIF20A	P
+UniProtKB	H0YKA7	NUSAP1	GO:0000281	mitotic cytokinesis	9606	NUSAP1	P
+UniProtKB	H0YL14	TMEM250	GO:0061640	cytoskeleton-dependent cytokinesis	9606	TMEM250,C9orf69	P
+UniProtKB	H0YMD2	NUSAP1	GO:0000281	mitotic cytokinesis	9606	NUSAP1	P
+UniProtKB	H2KYV3	C18B2.5	GO:0061640	cytoskeleton-dependent cytokinesis	6239	C18B2.5,CELE_C18B2.5	P
+UniProtKB	H3BNH8	H3BNH8	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	H3BPR3	SNX33	GO:0000281	mitotic cytokinesis	9606	SNX33	P
+UniProtKB	H9G2T2	klc-1	GO:0040038	polar body extrusion after meiotic divisions	6239	klc-1,CELE_M7.2,M7.2	P
+UniProtKB	H9G2T2	klc-1	GO:0040038	polar body extrusion after meiotic divisions	6239	klc-1,CELE_M7.2,M7.2	P
+UniProtKB	I3ISI2	sept12	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept12	P
+UniProtKB	I3ISN6	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a	P
+UniProtKB	I3ISV7	sept12	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept12	P
+UniProtKB	I6YR87	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3,PrP2	P
+UniProtKB	I6ZZC4	prnpb	GO:0032506	cytokinetic process	7955	prnpb,PrP1,prnprs1	P
+UniProtKB	M0QYC6	M0QYC6	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	M9P175	map9	GO:0000281	mitotic cytokinesis	7955	map9,Map9	P
+UniProtKB	M9PF35	Klp67A	GO:0007110	meiosis I cytokinesis	7227	Klp67A,0427,05,B,DmKlp67A,Dmel\CG10923,KIF 18A,KIF18A,KLP3,KLP67A,KRP67A,Kin-8,Klp3,Klp67,anon-WO0140519.224,anon-WO0172774.120,klp67,klp67A,l(3)S042705	P
+UniProtKB	M9PI41	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,CG10522,Dmel_CG10522	P
+UniProtKB	M9PI41	sti	GO:0000915	actomyosin contractile ring assembly	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,CG10522,Dmel_CG10522	P
+UniProtKB	M9PI41	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,CG10522,Dmel_CG10522	P
+UniProtKB	M9PI41	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,CG10522,Dmel_CG10522	P
+UniProtKB	M9PI41	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,CG10522,Dmel_CG10522	P
+UniProtKB	M9PI41	sti	GO:0007112	male meiosis cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,CG10522,Dmel_CG10522	P
+UniProtKB	O01427	air-2	GO:0031991	regulation of actomyosin contractile ring contraction	6239	air-2,stu-7,B0207.4	P
+UniProtKB	O01427	air-2	GO:0031991	regulation of actomyosin contractile ring contraction	6239	air-2,stu-7,B0207.4	P
+UniProtKB	O01767	egg-4	GO:0040038	polar body extrusion after meiotic divisions	6239	egg-4,T21E3.1	P
+UniProtKB	O01971	emr-1	GO:0000281	mitotic cytokinesis	6239	emr-1,M01D7.6	P
+UniProtKB	O04486	RABA2A	GO:0000911	cytokinesis by cell plate formation	3702	RABA2A,RAB11C,At1g09630,F21M12.2	P
+UniProtKB	O13601	rsp1	GO:1902405	mitotic actomyosin contractile ring localization	284812	rsp1,SPBC11B10.05c,pi006	P
+UniProtKB	O13619	SPBP22H7.03	GO:0140278	mitotic division septum assembly	284812	SPBP22H7.03,pi028	P
+UniProtKB	O13728	ain1	GO:1903478	actin filament bundle convergence involved in mitotic contractile ring assembly	284812	ain1,SPAC15A10.08	P
+UniProtKB	O13728	ain1	GO:1903478	actin filament bundle convergence involved in mitotic contractile ring assembly	284812	ain1,SPAC15A10.08	P
+UniProtKB	O13728	ain1	GO:1902404	mitotic actomyosin contractile ring contraction	284812	ain1,SPAC15A10.08	P
+UniProtKB	O13743	SPAC16E8.08	GO:0000281	mitotic cytokinesis	284812	SPAC16E8.08	P
+UniProtKB	O14008	cam2	GO:0000917	division septum assembly	284812	cam2,SPAC29A4.05	P
+UniProtKB	O14157	myo3	GO:0000281	mitotic cytokinesis	284812	myo3,myp2,SPAC4A8.05c	P
+UniProtKB	O14157	myo3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	myo3,myp2,SPAC4A8.05c	P
+UniProtKB	O14157	myo3	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	myo3,myp2,SPAC4A8.05c	P
+UniProtKB	O14157	myo3	GO:1902404	mitotic actomyosin contractile ring contraction	284812	myo3,myp2,SPAC4A8.05c	P
+UniProtKB	O14157	myo3	GO:1902404	mitotic actomyosin contractile ring contraction	284812	myo3,myp2,SPAC4A8.05c	P
+UniProtKB	O14185	stg1	GO:0000281	mitotic cytokinesis	284812	stg1,SPAC4F8.10c	P
+UniProtKB	O14188	rng2	GO:1903479	mitotic actomyosin contractile ring assembly actin filament organization	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:0000917	division septum assembly	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1903486	establishment of mitotic actomyosin contractile ring localization	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1903479	mitotic actomyosin contractile ring assembly actin filament organization	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1903478	actin filament bundle convergence involved in mitotic contractile ring assembly	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1903477	mitotic contractile ring actin filament bundle assembly	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14188	rng2	GO:1902404	mitotic actomyosin contractile ring contraction	284812	rng2,SPAC4F8.13c	P
+UniProtKB	O14248	tea3	GO:0000917	division septum assembly	284812	tea3,SPAC6G10.02c	P
+UniProtKB	O14251	trs120	GO:0061796	membrane addition at site of mitotic cytokinesis	284812	trs120,SPAC6G10.05c	P
+UniProtKB	O14270	fhl1	GO:0000917	division septum assembly	284812	fhl1,SPAC1142.08,SPAC8C9.01	P
+UniProtKB	O14302	cyk3	GO:0140278	mitotic division septum assembly	284812	cyk3,SPAC9G1.06c	P
+UniProtKB	O14302	cyk3	GO:1902404	mitotic actomyosin contractile ring contraction	284812	cyk3,SPAC9G1.06c	P
+UniProtKB	O14578	CIT	GO:0000281	mitotic cytokinesis	9606	CIT,CRIK,KIAA0949,STK21	P
+UniProtKB	O14578	CIT	GO:0000281	mitotic cytokinesis	9606	CIT,CRIK,KIAA0949,STK21	P
+UniProtKB	O14578	CIT	GO:0000281	mitotic cytokinesis	9606	CIT,CRIK,KIAA0949,STK21	P
+UniProtKB	O15392-1	BIRC5	GO:0000281	mitotic cytokinesis	9606	BIRC5,API4,IAP4	P
+UniProtKB	O16048	pav	GO:0000916	actomyosin contractile ring contraction	7227	pav,anon2A12,CG1258	P
+UniProtKB	O16048	pav	GO:0000281	mitotic cytokinesis	7227	pav,anon2A12,CG1258	P
+UniProtKB	O16048	pav	GO:0000281	mitotic cytokinesis	7227	pav,anon2A12,CG1258	P
+UniProtKB	O18332	Rab1	GO:0000281	mitotic cytokinesis	7227	Rab1,AAF55873,DRAB1,DRab1,Dar6,Dm Rab1,DmRab1,Dmel\CG3320,O18332,RAB1a,Rab1-RA,Rab1a,dRab1,dar6,drab1,omt,rab1,CG3320,Dmel_CG3320	P
+UniProtKB	O18332	Rab1	GO:0007112	male meiosis cytokinesis	7227	Rab1,AAF55873,DRAB1,DRab1,Dar6,Dm Rab1,DmRab1,Dmel\CG3320,O18332,RAB1a,Rab1-RA,Rab1a,dRab1,dar6,drab1,omt,rab1,CG3320,Dmel_CG3320	P
+UniProtKB	O18335	Rab11	GO:0000916	actomyosin contractile ring contraction	7227	Rab11,AAF55850,DRAB11,DRab11,Dm Rab11,DmRab11,Dmel\CG5771,Drab11,O18335,RAB11,Rab 11,Rab-11,Rab-r11,dRab11,l(3)93Bi,l(3)j2D1,rab-11,rab11,rlr7	P
+UniProtKB	O18335	Rab11	GO:0007112	male meiosis cytokinesis	7227	Rab11,AAF55850,DRAB11,DRab11,Dm Rab11,DmRab11,Dmel\CG5771,Drab11,O18335,RAB11,Rab 11,Rab-11,Rab-r11,dRab11,l(3)93Bi,l(3)j2D1,rab-11,rab11,rlr7	P
+UniProtKB	O22276	T3F12.6	GO:0000911	cytokinesis by cell plate formation	3702	T3F12.6,At4g08630	P
+UniProtKB	O23386	CSLB6	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLB6,At4g15320,FCAALL.268,dl3705c	P
+UniProtKB	O36023	spn1	GO:0061640	cytoskeleton-dependent cytokinesis	284812	spn1,SPAC4F10.11	P
+UniProtKB	O36023	spn1	GO:0000281	mitotic cytokinesis	284812	spn1,SPAC4F10.11	P
+UniProtKB	O36027	wsp1	GO:1904670	actin filament polymerization involved in mitotic actomyosin contractile ring assembly	284812	wsp1,SPAC4F10.15c	P
+UniProtKB	O42956	art1	GO:0000917	division septum assembly	284812	art1,SPBC19G7.08c	P
+UniProtKB	O42956	art1	GO:0140278	mitotic division septum assembly	284812	art1,SPBC19G7.08c	P
+UniProtKB	O43058	sep1	GO:0000917	division septum assembly	284812	sep1,SPBC4C3.12	P
+UniProtKB	O43236	SEPTIN4	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN4,ARTS,C17orf47,PNUTL2,SEP4,SEPT4,hucep-7	P
+UniProtKB	O43633	CHMP2A	GO:0061952	midbody abscission	9606	CHMP2A,BC2,CHMP2	P
+UniProtKB	O45952	csc-1	GO:0000281	mitotic cytokinesis	6239	csc-1,Y48E1B.12	P
+UniProtKB	O45952	csc-1	GO:1990386	mitotic cleavage furrow ingression	6239	csc-1,Y48E1B.12	P
+UniProtKB	O45952	csc-1	GO:0040038	polar body extrusion after meiotic divisions	6239	csc-1,Y48E1B.12	P
+UniProtKB	O46094	Ocrl	GO:0000281	mitotic cytokinesis	7227	Ocrl,Dmel\CG3573,EG:86E4.5,dOCRL,dOcrl,docrl,ocrl,CG3573,Dmel_CG3573	P
+UniProtKB	O46094	Ocrl	GO:0032187	actomyosin contractile ring localization	7227	Ocrl,Dmel\CG3573,EG:86E4.5,dOCRL,dOcrl,docrl,ocrl,CG3573,Dmel_CG3573	P
+UniProtKB	O48767	AUG2	GO:0000911	cytokinesis by cell plate formation	3702	AUG2,At2g32980,T21L14.8	P
+UniProtKB	O48946	CESA1	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA1,RSW1,At4g32410,F8B4.110	P
+UniProtKB	O48946	CESA1	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA1,RSW1,At4g32410,F8B4.110	P
+UniProtKB	O48947	CESA2	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA2,ATHA,At4g39350,T22F8.250	P
+UniProtKB	O49323	CSLD1	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLD1,At2g33100,F25I18.16	P
+UniProtKB	O59679	gef3	GO:0000917	division septum assembly	284812	gef3,SPBC29A3.17	P
+UniProtKB	O59751	klp6	GO:1903475	mitotic actomyosin contractile ring assembly	284812	klp6,SPBC1685.15c,SPBC649.01c	P
+UniProtKB	O59817	efr3	GO:1902405	mitotic actomyosin contractile ring localization	284812	efr3,SPCC794.08	P
+UniProtKB	O59945	fim1	GO:0044837	actomyosin contractile ring organization	284812	fim1,SPBC1778.06c	P
+UniProtKB	O59945	fim1	GO:1902404	mitotic actomyosin contractile ring contraction	284812	fim1,SPBC1778.06c	P
+UniProtKB	O60129	fkh2	GO:0000917	division septum assembly	284812	fkh2,SPBC16G5.15c	P
+UniProtKB	O60165	spn7	GO:0061640	cytoskeleton-dependent cytokinesis	284812	spn7,SPBC19F8.01c,SPBC21.08c	P
+UniProtKB	O61789	egg-5	GO:0040038	polar body extrusion after meiotic divisions	6239	egg-5,R12E2.10	P
+UniProtKB	O62528	pav	GO:0000916	actomyosin contractile ring contraction	7227	pav,CG1258	P
+UniProtKB	O62528	pav	GO:0000281	mitotic cytokinesis	7227	pav,CG1258	P
+UniProtKB	O62528	pav	GO:0000281	mitotic cytokinesis	7227	pav,CG1258	P
+UniProtKB	O74354	dnt1	GO:0000917	division septum assembly	284812	dnt1,SPBC25D12.02c	P
+UniProtKB	O74398	SPBC4F6.12	GO:0032187	actomyosin contractile ring localization	284812	SPBC4F6.12	P
+UniProtKB	O74398	SPBC4F6.12	GO:0044837	actomyosin contractile ring organization	284812	SPBC4F6.12	P
+UniProtKB	O74398	SPBC4F6.12	GO:1903471	regulation of mitotic actomyosin contractile ring contraction	284812	SPBC4F6.12	P
+UniProtKB	O74398	SPBC4F6.12	GO:1904498	protein localization to mitotic actomyosin contractile ring	284812	SPBC4F6.12	P
+UniProtKB	O74398	SPBC4F6.12	GO:1904498	protein localization to mitotic actomyosin contractile ring	284812	SPBC4F6.12	P
+UniProtKB	O74473	cdc11	GO:0140278	mitotic division septum assembly	284812	cdc11,SPCC1739.11c	P
+UniProtKB	O74475	bgs4	GO:0031671	primary cell septum biogenesis	284812	bgs4,SPCC1840.02c	P
+UniProtKB	O74475	bgs4	GO:1990344	secondary cell septum biogenesis	284812	bgs4,SPCC1840.02c	P
+UniProtKB	O74484	mpg1	GO:0000917	division septum assembly	284812	mpg1,SPCC1906.01	P
+UniProtKB	O74562	sec8	GO:0000917	division septum assembly	284812	sec8,SPCC970.09	P
+UniProtKB	O74756	chs2	GO:0000917	division septum assembly	284812	chs2,SPBC1709.01,SPBC1734.17	P
+UniProtKB	O74756	chs2	GO:0140278	mitotic division septum assembly	284812	chs2,SPBC1709.01,SPBC1734.17	P
+UniProtKB	O74805	myo51	GO:1903478	actin filament bundle convergence involved in mitotic contractile ring assembly	284812	myo51,SPBC2D10.14c	P
+UniProtKB	O74805	myo51	GO:1903475	mitotic actomyosin contractile ring assembly	284812	myo51,SPBC2D10.14c	P
+UniProtKB	O74994	rng3	GO:0000917	division septum assembly	284812	rng3,SPCC613.04c	P
+UniProtKB	O74994	rng3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	rng3,SPCC613.04c	P
+UniProtKB	O74994	rng3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	rng3,SPCC613.04c	P
+UniProtKB	O74994	rng3	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	rng3,SPCC613.04c	P
+UniProtKB	O74994	rng3	GO:1902404	mitotic actomyosin contractile ring contraction	284812	rng3,SPCC613.04c	P
+UniProtKB	O75116	ROCK2	GO:0000281	mitotic cytokinesis	9606	ROCK2,KIAA0619	P
+UniProtKB	O75351	VPS4B	GO:0061952	midbody abscission	9606	VPS4B,SKD1,VPS42,MIG1	P
+UniProtKB	O75935	DCTN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	DCTN3,DCTN22	P
+UniProtKB	O75935	DCTN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	DCTN3,DCTN22	P
+UniProtKB	O75935	DCTN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	DCTN3,DCTN22	P
+UniProtKB	O76095	JTB	GO:0000281	mitotic cytokinesis	9606	JTB,HSPC222	P
+UniProtKB	O76095	JTB	GO:0000281	mitotic cytokinesis	9606	JTB,HSPC222	P
+UniProtKB	O80891	CSLB4	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLB4,At2g32540,T26B15.10	P
+UniProtKB	O80898	CSLB1	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLB1,At2g32610,T26B15.17	P
+UniProtKB	O80899	CSLB2	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLB2,At2g32620,T26B15.18	P
+UniProtKB	O94143	BUD19	GO:0000282	cellular bud site selection	559292	BUD19,YJL188C	P
+UniProtKB	O94252	SPBP8B7.02	GO:0000281	mitotic cytokinesis	284812	SPBP8B7.02	P
+UniProtKB	O94360	mob1	GO:0000917	division septum assembly	284812	mob1,SPBC428.13c	P
+UniProtKB	O94360	mob1	GO:1903473	positive regulation of mitotic actomyosin contractile ring contraction	284812	mob1,SPBC428.13c	P
+UniProtKB	O94360	mob1	GO:1903473	positive regulation of mitotic actomyosin contractile ring contraction	284812	mob1,SPBC428.13c	P
+UniProtKB	O94466	rga7	GO:0140278	mitotic division septum assembly	284812	rga7,SPBC23G7.08c	P
+UniProtKB	O94477	myo52	GO:0000281	mitotic cytokinesis	284812	myo52,SPCC1919.10c	P
+UniProtKB	O94532	for3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	for3,SPCC895.05	P
+UniProtKB	O94532	for3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	for3,SPCC895.05	P
+UniProtKB	O94532	for3	GO:1904498	protein localization to mitotic actomyosin contractile ring	284812	for3,SPCC895.05	P
+UniProtKB	O94532	for3	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	for3,SPCC895.05	P
+UniProtKB	O94614	chr4	GO:0000917	division septum assembly	284812	chr4,cfh3,SPBC1289.01c,SPBC1539.11c	P
+UniProtKB	O94614	chr4	GO:0140278	mitotic division septum assembly	284812	chr4,cfh3,SPBC1289.01c,SPBC1539.11c	P
+UniProtKB	O94701	fic1	GO:1990274	mitotic actomyosin contractile ring disassembly	284812	fic1,SPBC83.18c	P
+UniProtKB	O94701	fic1	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	fic1,SPBC83.18c	P
+UniProtKB	O95061	WISP	GO:0000281	mitotic cytokinesis	9606	WISP	P
+UniProtKB	O95235	KIF20A	GO:0000281	mitotic cytokinesis	9606	KIF20A,MKLP2,RAB6KIFL	P
+UniProtKB	O95235	KIF20A	GO:0061952	midbody abscission	9606	KIF20A,MKLP2,RAB6KIFL	P
+UniProtKB	O95235	KIF20A	GO:0000281	mitotic cytokinesis	9606	KIF20A,MKLP2,RAB6KIFL	P
+UniProtKB	O95239	KIF4A	GO:0000281	mitotic cytokinesis	9606	KIF4A,KIF4	P
+UniProtKB	O95630	STAMBP	GO:0000281	mitotic cytokinesis	9606	STAMBP,AMSH	P
+UniProtKB	O96067	JTBR	GO:0000281	mitotic cytokinesis	7227	JTBR,BcDNA:RH07980,CG1935-RA,Dmel\CG1935,anon-EST:fe2G4,dJTB-like,dJTBR,CG1935,Dmel_CG1935	P
+UniProtKB	P02574	Act79B	GO:0000281	mitotic cytokinesis	7227	Act79B,CG7478	P
+UniProtKB	P04197	Myb	GO:0000281	mitotic cytokinesis	7227	Myb,CG9045	P
+UniProtKB	P06780	RHO1	GO:0032186	cellular bud neck septin ring organization	559292	RHO1,YPR165W,P9325.3	P
+UniProtKB	P07274	PFY1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	PFY1,PFY,PRF1,YOR122C,O3275,YOR3275C	P
+UniProtKB	P07560	SEC4	GO:0007107	membrane addition at site of cytokinesis	559292	SEC4,SRO6,YFL005W	P
+UniProtKB	P07560	SEC4	GO:0007107	membrane addition at site of cytokinesis	559292	SEC4,SRO6,YFL005W	P
+UniProtKB	P08134	RHOC	GO:0000281	mitotic cytokinesis	9606	RHOC,ARH9,ARHC	P
+UniProtKB	P08928	Lam	GO:0007112	male meiosis cytokinesis	7227	Lam,CG6944	P
+UniProtKB	P08928	Lam	GO:0007110	meiosis I cytokinesis	7227	Lam,CG6944	P
+UniProtKB	P08964	MYO1	GO:0031671	primary cell septum biogenesis	559292	MYO1,YHR023W	P
+UniProtKB	P08964	MYO1	GO:1904498	protein localization to mitotic actomyosin contractile ring	559292	MYO1,YHR023W	P
+UniProtKB	P08964	MYO1	GO:1904498	protein localization to mitotic actomyosin contractile ring	559292	MYO1,YHR023W	P
+UniProtKB	P08964	MYO1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	MYO1,YHR023W	P
+UniProtKB	P08964	MYO1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	MYO1,YHR023W	P
+UniProtKB	P08964	MYO1	GO:1902404	mitotic actomyosin contractile ring contraction	559292	MYO1,YHR023W	P
+UniProtKB	P08964	MYO1	GO:1902404	mitotic actomyosin contractile ring contraction	559292	MYO1,YHR023W	P
+UniProtKB	P08964	MYO1	GO:1902404	mitotic actomyosin contractile ring contraction	559292	MYO1,YHR023W	P
+UniProtKB	P0DM41	act-1	GO:0000281	mitotic cytokinesis	6239	act-1,T04C12.6	P
+UniProtKB	P0DM41	act-1	GO:0000281	mitotic cytokinesis	6239	act-1,T04C12.6	P
+UniProtKB	P0DM41	act-1	GO:0000281	mitotic cytokinesis	6239	act-1,T04C12.6	P
+UniProtKB	P0DM42	act-3	GO:0000281	mitotic cytokinesis	6239	act-3,T04C12.4	P
+UniProtKB	P0DM42	act-3	GO:0000281	mitotic cytokinesis	6239	act-3,T04C12.4	P
+UniProtKB	P0DM42	act-3	GO:0000281	mitotic cytokinesis	6239	act-3,T04C12.4	P
+UniProtKB	P10981	Act87E	GO:0000281	mitotic cytokinesis	7227	Act87E,CG18290	P
+UniProtKB	P10984	act-2	GO:0000281	mitotic cytokinesis	6239	act-2,T04C12.5	P
+UniProtKB	P10984	act-2	GO:0000281	mitotic cytokinesis	6239	act-2,T04C12.5	P
+UniProtKB	P10984	act-2	GO:0000281	mitotic cytokinesis	6239	act-2,T04C12.5	P
+UniProtKB	P10984	act-2	GO:0000281	mitotic cytokinesis	6239	act-2,T04C12.5	P
+UniProtKB	P10984	act-2	GO:0007111	meiosis II cytokinesis	6239	act-2,T04C12.5	P
+UniProtKB	P10986	act-4	GO:0000281	mitotic cytokinesis	6239	act-4,M03F4.2	P
+UniProtKB	P10987	Act5C	GO:0000281	mitotic cytokinesis	7227	Act5C,CG4027	P
+UniProtKB	P10987	Act5C	GO:0000281	mitotic cytokinesis	7227	Act5C,CG4027	P
+UniProtKB	P10989	act1	GO:1902404	mitotic actomyosin contractile ring contraction	284812	act1,cps8,SPBC32H8.12c,pi012	P
+UniProtKB	P11433	CDC24	GO:0000282	cellular bud site selection	559292	CDC24,CLS4,YAL041W	P
+UniProtKB	P13856	RSR1	GO:0007121	bipolar cellular bud site selection	559292	RSR1,BUD1,YGR152C,G6658	P
+UniProtKB	P13856	RSR1	GO:0007120	axial cellular bud site selection	559292	RSR1,BUD1,YGR152C,G6658	P
+UniProtKB	P14180	CHS2	GO:1902406	mitotic actomyosin contractile ring maintenance	559292	CHS2,YBR038W,YBR0407	P
+UniProtKB	P16949	STMN1	GO:0000281	mitotic cytokinesis	9606	STMN1,C1orf215,LAP18,OP18	P
+UniProtKB	P16949	STMN1	GO:0000281	mitotic cytokinesis	9606	STMN1,C1orf215,LAP18,OP18	P
+UniProtKB	P17536	TPM1	GO:0000281	mitotic cytokinesis	559292	TPM1,YNL079C,N2332	P
+UniProtKB	P17536	TPM1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	TPM1,YNL079C,N2332	P
+UniProtKB	P17610	ypt3	GO:0000281	mitotic cytokinesis	284812	ypt3,its5,SPAC18G6.03	P
+UniProtKB	P17610	ypt3	GO:0061796	membrane addition at site of mitotic cytokinesis	284812	ypt3,its5,SPAC18G6.03	P
+UniProtKB	P18583	SON	GO:0000281	mitotic cytokinesis	9606	SON,C21orf50,DBP5,KIAA1019,NREBP,HSPC310,HSPC312	P
+UniProtKB	P19524	MYO2	GO:0007107	membrane addition at site of cytokinesis	559292	MYO2,CDC66,YOR326W,O6167	P
+UniProtKB	P19524	MYO2	GO:0007107	membrane addition at site of cytokinesis	559292	MYO2,CDC66,YOR326W,O6167	P
+UniProtKB	P20350	rho	GO:0000281	mitotic cytokinesis	7227	rho,Ve,CG1004	P
+UniProtKB	P20439	CycB	GO:0000281	mitotic cytokinesis	7227	CycB,CG3510	P
+UniProtKB	P20439	CycB	GO:0061952	midbody abscission	7227	CycB,CG3510	P
+UniProtKB	P20936	RASA1	GO:0000281	mitotic cytokinesis	9606	RASA1,GAP,RASA	P
+UniProtKB	P21187	pAbp	GO:0007112	male meiosis cytokinesis	7227	pAbp,CG5119	P
+UniProtKB	P22987	kin1	GO:1902408	mitotic cytokinesis, site selection	284812	kin1,SPBC4F6.06	P
+UniProtKB	P23201	SPA2	GO:0007121	bipolar cellular bud site selection	559292	SPA2,PEA1,YLL021W,L1209	P
+UniProtKB	P23201	SPA2	GO:0007121	bipolar cellular bud site selection	559292	SPA2,PEA1,YLL021W,L1209	P
+UniProtKB	P24100	CDKA-1	GO:0010235	guard mother cell cytokinesis	3702	CDKA-1,CDC2,CDC2A,At3g48750,T21J18.20	P
+UniProtKB	P24100	CDKA-1	GO:0000911	cytokinesis by cell plate formation	3702	CDKA-1,CDC2,CDC2A,At3g48750,T21J18.20	P
+UniProtKB	P24100	CDKA-1	GO:0033206	meiotic cytokinesis	3702	CDKA-1,CDC2,CDC2A,At3g48750,T21J18.20	P
+UniProtKB	P24583	PKC1	GO:0032186	cellular bud neck septin ring organization	559292	PKC1,HPO2,STT1,YBL105C,YBL0807	P
+UniProtKB	P25054	APC	GO:0000281	mitotic cytokinesis	9606	APC,DP2.5	P
+UniProtKB	P25054	APC	GO:0000281	mitotic cytokinesis	9606	APC,DP2.5	P
+UniProtKB	P25295	tug1	GO:1902408	mitotic cytokinesis, site selection	284812	tug1,gtb1,SPBC32F12.04	P
+UniProtKB	P25300	BUD5	GO:0007121	bipolar cellular bud site selection	559292	BUD5,YCR038C,YCR38C,YCR526	P
+UniProtKB	P25300	BUD5	GO:0007120	axial cellular bud site selection	559292	BUD5,YCR038C,YCR38C,YCR526	P
+UniProtKB	P25337	BUD31	GO:0000282	cellular bud site selection	559292	BUD31,CWC14,YCR063W,YCR63W,YCR903	P
+UniProtKB	P25342	CDC10	GO:0061640	cytoskeleton-dependent cytokinesis	559292	CDC10,YCR002C,YCR022,YCR2C	P
+UniProtKB	P25342	CDC10	GO:0000281	mitotic cytokinesis	559292	CDC10,YCR002C,YCR022,YCR2C	P
+UniProtKB	P25558	BUD3	GO:0007120	axial cellular bud site selection	559292	BUD3,YCL014W,YCL012W,YCL013W,YCL12W,YCL13W,YCL14W	P
+UniProtKB	P25843	chic	GO:0000915	actomyosin contractile ring assembly	7227	chic,chi,CG9553	P
+UniProtKB	P25843	chic	GO:0000281	mitotic cytokinesis	7227	chic,chi,CG9553	P
+UniProtKB	P27619	shi	GO:1903475	mitotic actomyosin contractile ring assembly	7227	shi,CG18102	P
+UniProtKB	P27636	CDC15	GO:0000281	mitotic cytokinesis	559292	CDC15,LYT1,YAR019C	P
+UniProtKB	P32328	DBF20	GO:0000917	division septum assembly	559292	DBF20,YPR111W	P
+UniProtKB	P32328	DBF20	GO:0000281	mitotic cytokinesis	559292	DBF20,YPR111W	P
+UniProtKB	P32334	MSB2	GO:0000282	cellular bud site selection	559292	MSB2,YGR014W	P
+UniProtKB	P32457	CDC3	GO:0061640	cytoskeleton-dependent cytokinesis	559292	CDC3,YLR314C,L8543.7	P
+UniProtKB	P32457	CDC3	GO:0000281	mitotic cytokinesis	559292	CDC3,YLR314C,L8543.7	P
+UniProtKB	P32457	CDC3	GO:0000281	mitotic cytokinesis	559292	CDC3,YLR314C,L8543.7	P
+UniProtKB	P32458	CDC11	GO:0061640	cytoskeleton-dependent cytokinesis	559292	CDC11,PSL9,YJR076C,J1833	P
+UniProtKB	P32458	CDC11	GO:0032186	cellular bud neck septin ring organization	559292	CDC11,PSL9,YJR076C,J1833	P
+UniProtKB	P32458	CDC11	GO:0000915	actomyosin contractile ring assembly	559292	CDC11,PSL9,YJR076C,J1833	P
+UniProtKB	P32458	CDC11	GO:0000917	division septum assembly	559292	CDC11,PSL9,YJR076C,J1833	P
+UniProtKB	P32458	CDC11	GO:0000281	mitotic cytokinesis	559292	CDC11,PSL9,YJR076C,J1833	P
+UniProtKB	P32468	CDC12	GO:0061640	cytoskeleton-dependent cytokinesis	559292	CDC12,CLA10,PSL7,YHR107C	P
+UniProtKB	P32468	CDC12	GO:0000281	mitotic cytokinesis	559292	CDC12,CLA10,PSL7,YHR107C	P
+UniProtKB	P32468	CDC12	GO:1903475	mitotic actomyosin contractile ring assembly	559292	CDC12,CLA10,PSL7,YHR107C	P
+UniProtKB	P32521	PAN1	GO:0007121	bipolar cellular bud site selection	559292	PAN1,DIM2,MDP3,MIP3,YIR006C,YIB6C	P
+UniProtKB	P32521	PAN1	GO:0007120	axial cellular bud site selection	559292	PAN1,DIM2,MDP3,MIP3,YIR006C,YIB6C	P
+UniProtKB	P32598	GLC7	GO:1901901	regulation of protein localization to cell division site involved in cytokinesis	559292	GLC7,CID1,DIS2,YER133W	P
+UniProtKB	P32744	cls-2	GO:0000281	mitotic cytokinesis	6239	cls-2,R107.6	P
+UniProtKB	P32801	ELM1	GO:0000281	mitotic cytokinesis	559292	ELM1,YKL048C,YKL261	P
+UniProtKB	P32845	nullo	GO:0036089	cleavage furrow formation	7227	nullo,CG14426	P
+UniProtKB	P33314	BUD2	GO:0007121	bipolar cellular bud site selection	559292	BUD2,CLA2,ERC25,YKL092C,YKL424	P
+UniProtKB	P33314	BUD2	GO:0007120	axial cellular bud site selection	559292	BUD2,CLA2,ERC25,YKL092C,YKL424	P
+UniProtKB	P33314	BUD2	GO:0007120	axial cellular bud site selection	559292	BUD2,CLA2,ERC25,YKL092C,YKL424	P
+UniProtKB	P33338	SLA2	GO:0007121	bipolar cellular bud site selection	559292	SLA2,END4,MOP2,UFG1,YNL243W,N1102	P
+UniProtKB	P33487	ERABP1	GO:0000911	cytokinesis by cell plate formation	3702	ERABP1,At4g02980,T4I9.14	P
+UniProtKB	P33487	ERABP1	GO:0000911	cytokinesis by cell plate formation	3702	ERABP1,At4g02980,T4I9.14	P
+UniProtKB	P34331	plk-1	GO:0040038	polar body extrusion after meiotic divisions	6239	plk-1,plc1,C14B9.4	P
+UniProtKB	P34540	unc-116	GO:0033206	meiotic cytokinesis	6239	unc-116,khc-1,R05D3.7	P
+UniProtKB	P34540	unc-116	GO:0040038	polar body extrusion after meiotic divisions	6239	unc-116,khc-1,R05D3.7	P
+UniProtKB	P34881	DMT1	GO:0010069	zygote asymmetric cytokinesis in embryo sac	3702	DMT1,ATHIM,DDM2,DMT01,MET1,MET2,At5g49160,K21P3.3	P
+UniProtKB	P35579	MYH9	GO:0032506	cytokinetic process	9606	MYH9	P
+UniProtKB	P35580	MYH10	GO:0000281	mitotic cytokinesis	9606	MYH10	P
+UniProtKB	P36006	MYO3	GO:0007121	bipolar cellular bud site selection	559292	MYO3,YKL129C	P
+UniProtKB	P36135	UTH1	GO:0000917	division septum assembly	559292	UTH1,YKR042W	P
+UniProtKB	P36405	ARL3	GO:0000281	mitotic cytokinesis	9606	ARL3,ARFL3	P
+UniProtKB	P37370	VRP1	GO:0007121	bipolar cellular bud site selection	559292	VRP1,END5,MDP2,YLR337C,L8300.13	P
+UniProtKB	P38557	TUBG1	GO:0000911	cytokinesis by cell plate formation	3702	TUBG1,At3g61650,F15G16.40	P
+UniProtKB	P38558	TUBG2	GO:0000911	cytokinesis by cell plate formation	3702	TUBG2,At5g05620,MJJ3.1	P
+UniProtKB	P38823	DMA1	GO:0032186	cellular bud neck septin ring organization	559292	DMA1,CHF1,YHR115C	P
+UniProtKB	P38903	RTS1	GO:0032186	cellular bud neck septin ring organization	559292	RTS1,SCS1,YOR014W,OR26.04	P
+UniProtKB	P38903	RTS1	GO:0032186	cellular bud neck septin ring organization	559292	RTS1,SCS1,YOR014W,OR26.04	P
+UniProtKB	P38928	AXL2	GO:0007120	axial cellular bud site selection	559292	AXL2,BUD10,SRO4,YIL140W	P
+UniProtKB	P39013	END3	GO:0007121	bipolar cellular bud site selection	559292	END3,YNL084C,N2307	P
+UniProtKB	P39083	RGA1	GO:0007120	axial cellular bud site selection	559292	RGA1,DBM1,THE1,YOR127W,O3290,YOR3290W	P
+UniProtKB	P39743	RVS167	GO:1903475	mitotic actomyosin contractile ring assembly	559292	RVS167,YDR388W,D9509.8	P
+UniProtKB	P39743	RVS167	GO:1903475	mitotic actomyosin contractile ring assembly	559292	RVS167,YDR388W,D9509.8	P
+UniProtKB	P39825	cdc3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc3,SPAC4A8.15c	P
+UniProtKB	P39825	cdc3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc3,SPAC4A8.15c	P
+UniProtKB	P39825	cdc3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc3,SPAC4A8.15c	P
+UniProtKB	P39825	cdc3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc3,SPAC4A8.15c	P
+UniProtKB	P39825	cdc3	GO:1904670	actin filament polymerization involved in mitotic actomyosin contractile ring assembly	284812	cdc3,SPAC4A8.15c	P
+UniProtKB	P40091	PEA2	GO:0007121	bipolar cellular bud site selection	559292	PEA2,PPF2,YER149C	P
+UniProtKB	P40414	TPM2	GO:0000281	mitotic cytokinesis	559292	TPM2,YIL138C	P
+UniProtKB	P40414	TPM2	GO:1903475	mitotic actomyosin contractile ring assembly	559292	TPM2,YIL138C	P
+UniProtKB	P40423	sqh	GO:0000281	mitotic cytokinesis	7227	sqh,CG3595	P
+UniProtKB	P40423	sqh	GO:0000281	mitotic cytokinesis	7227	sqh,CG3595	P
+UniProtKB	P40423	sqh	GO:0000281	mitotic cytokinesis	7227	sqh,CG3595	P
+UniProtKB	P40450	BNR1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	BNR1,YIL159W	P
+UniProtKB	P40450	BNR1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	BNR1,YIL159W	P
+UniProtKB	P40463	VHS2	GO:0032186	cellular bud neck septin ring organization	559292	VHS2,YIL135C	P
+UniProtKB	P40463	VHS2	GO:0032186	cellular bud neck septin ring organization	559292	VHS2,YIL135C	P
+UniProtKB	P40463	VHS2	GO:0032186	cellular bud neck septin ring organization	559292	VHS2,YIL135C	P
+UniProtKB	P40463	VHS2	GO:0032186	cellular bud neck septin ring organization	559292	VHS2,YIL135C	P
+UniProtKB	P40463	VHS2	GO:0032186	cellular bud neck septin ring organization	559292	VHS2,YIL135C	P
+UniProtKB	P40484	MOB1	GO:0000281	mitotic cytokinesis	559292	MOB1,YIL106W	P
+UniProtKB	P40797	pnut	GO:0061640	cytoskeleton-dependent cytokinesis	7227	pnut,CG8705	P
+UniProtKB	P40797	pnut	GO:0000281	mitotic cytokinesis	7227	pnut,CG8705	P
+UniProtKB	P40797	pnut	GO:0000281	mitotic cytokinesis	7227	pnut,CG8705	P
+UniProtKB	P40818	USP8	GO:0000281	mitotic cytokinesis	9606	USP8,KIAA0055,UBPY	P
+UniProtKB	P40851	AXL1	GO:0007120	axial cellular bud site selection	559292	AXL1,YPR122W,P9642.4	P
+UniProtKB	P40946	Arf51F	GO:0007112	male meiosis cytokinesis	7227	Arf51F,Arf3,Arf6,CG8156	P
+UniProtKB	P40994	ARF3	GO:0000282	cellular bud site selection	559292	ARF3,YOR094W,YOR3172W	P
+UniProtKB	P40995	scd1	GO:0000917	division septum assembly	284812	scd1,ral1,SPAC16E8.09	P
+UniProtKB	P40996	scd2	GO:1901901	regulation of protein localization to cell division site involved in cytokinesis	284812	scd2,ral3,SPAC22H10.07	P
+UniProtKB	P41697	BUD6	GO:0007121	bipolar cellular bud site selection	559292	BUD6,AIP3,YLR319C,L8543.5	P
+UniProtKB	P41697	BUD6	GO:0007121	bipolar cellular bud site selection	559292	BUD6,AIP3,YLR319C,L8543.5	P
+UniProtKB	P41698	BUD8	GO:0000282	cellular bud site selection	559292	BUD8,YLR353W,L9638.3	P
+UniProtKB	P41809	HKR1	GO:0000282	cellular bud site selection	559292	HKR1,YDR420W	P
+UniProtKB	P41809	HKR1	GO:0000282	cellular bud site selection	559292	HKR1,YDR420W	P
+UniProtKB	P41832	BNI1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	BNI1,PPF3,SHE5,YNL271C,N0646	P
+UniProtKB	P41832	BNI1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	BNI1,PPF3,SHE5,YNL271C,N0646	P
+UniProtKB	P41901	SPR3	GO:0061640	cytoskeleton-dependent cytokinesis	559292	SPR3,YGR059W	P
+UniProtKB	P41996	cpg-2	GO:0000281	mitotic cytokinesis	6239	cpg-2,B0280.5	P
+UniProtKB	P42073	REF2	GO:1901901	regulation of protein localization to cell division site involved in cytokinesis	559292	REF2,YDR195W,YD9346.06	P
+UniProtKB	P42207	Sep1	GO:0061640	cytoskeleton-dependent cytokinesis	7227	Sep1,Diff6,iby,CG1403	P
+UniProtKB	P42697	DRP1A	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	DRP1A,ADL1,ADL1A,AG68,RSW9,At5g42080,MJC20.19	P
+UniProtKB	P42697	DRP1A	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	DRP1A,ADL1,ADL1A,AG68,RSW9,At5g42080,MJC20.19	P
+UniProtKB	P42697	DRP1A	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	DRP1A,ADL1,ADL1A,AG68,RSW9,At5g42080,MJC20.19	P
+UniProtKB	P42697	DRP1A	GO:0000911	cytokinesis by cell plate formation	3702	DRP1A,ADL1,ADL1A,AG68,RSW9,At5g42080,MJC20.19	P
+UniProtKB	P42697	DRP1A	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	DRP1A,ADL1,ADL1A,AG68,RSW9,At5g42080,MJC20.19	P
+UniProtKB	P45594	tsr	GO:0000915	actomyosin contractile ring assembly	7227	tsr,Cadf,CG4254	P
+UniProtKB	P45594	tsr	GO:0000281	mitotic cytokinesis	7227	tsr,Cadf,CG4254	P
+UniProtKB	P45594	tsr	GO:0000281	mitotic cytokinesis	7227	tsr,Cadf,CG4254	P
+UniProtKB	P45594	tsr	GO:0033206	meiotic cytokinesis	7227	tsr,Cadf,CG4254	P
+UniProtKB	P45891	Arp53D	GO:0000281	mitotic cytokinesis	7227	Arp53D,Actr53D,CG5409	P
+UniProtKB	P46822	klc-2	GO:0040038	polar body extrusion after meiotic divisions	6239	klc-2,C18C4.10	P
+UniProtKB	P46822	klc-2	GO:0040038	polar body extrusion after meiotic divisions	6239	klc-2,C18C4.10	P
+UniProtKB	P47136	BUD4	GO:0007120	axial cellular bud site selection	559292	BUD4,YJR092W,J1905	P
+UniProtKB	P47136	BUD4	GO:0007120	axial cellular bud site selection	559292	BUD4,YJR092W,J1905	P
+UniProtKB	P48008	spn3	GO:0061640	cytoskeleton-dependent cytokinesis	284812	spn3,SPBC16A3.01,SPBC543.01c	P
+UniProtKB	P48008	spn3	GO:0000281	mitotic cytokinesis	284812	spn3,SPBC16A3.01,SPBC543.01c	P
+UniProtKB	P48009	spn4	GO:0061640	cytoskeleton-dependent cytokinesis	284812	spn4,SPAC9G1.11c	P
+UniProtKB	P48009	spn4	GO:0000281	mitotic cytokinesis	284812	spn4,SPAC9G1.11c	P
+UniProtKB	P48010	spn5	GO:0061640	cytoskeleton-dependent cytokinesis	284812	spn5,mde9,meu28,SPAC24C9.15c	P
+UniProtKB	P48148	Rho1	GO:0000281	mitotic cytokinesis	7227	Rho1,CG8416	P
+UniProtKB	P48148	Rho1	GO:0000281	mitotic cytokinesis	7227	Rho1,CG8416	P
+UniProtKB	P48148	Rho1	GO:1903475	mitotic actomyosin contractile ring assembly	7227	Rho1,CG8416	P
+UniProtKB	P48462	flw	GO:0031991	regulation of actomyosin contractile ring contraction	7227	flw,PP1-9C,PP1-BETA-9C,CG2096	P
+UniProtKB	P48608	dia	GO:0000915	actomyosin contractile ring assembly	7227	dia,CG1768	P
+UniProtKB	P48608	dia	GO:0000281	mitotic cytokinesis	7227	dia,CG1768	P
+UniProtKB	P48608	dia	GO:0000281	mitotic cytokinesis	7227	dia,CG1768	P
+UniProtKB	P48608	dia	GO:0007111	meiosis II cytokinesis	7227	dia,CG1768	P
+UniProtKB	P48608	dia	GO:0007110	meiosis I cytokinesis	7227	dia,CG1768	P
+UniProtKB	P49450	CENPA	GO:0000281	mitotic cytokinesis	9606	CENPA	P
+UniProtKB	P50108	MNN10	GO:0000917	division septum assembly	559292	MNN10,BED1,YDR245W,YD8419.12	P
+UniProtKB	P50527	shk1	GO:1903472	negative regulation of mitotic actomyosin contractile ring contraction	284812	shk1,orb2,pak1,ste20,SPBC1604.14c	P
+UniProtKB	P50995	ANXA11	GO:0032506	cytokinetic process	9606	ANXA11,ANX11	P
+UniProtKB	P50995	ANXA11	GO:0032506	cytokinetic process	9606	ANXA11,ANX11	P
+UniProtKB	P51592	hyd	GO:0007112	male meiosis cytokinesis	7227	hyd,l(3)C43,CG9484	P
+UniProtKB	P52304	polo	GO:0000915	actomyosin contractile ring assembly	7227	polo,CG12306	P
+UniProtKB	P52304	polo	GO:0007112	male meiosis cytokinesis	7227	polo,CG12306	P
+UniProtKB	P53141	MLC1	GO:1903476	protein localization to cell division site involved in mitotic actomyosin contractile ring assembly	559292	MLC1,YGL106W,G3080	P
+UniProtKB	P53141	MLC1	GO:1903476	protein localization to cell division site involved in mitotic actomyosin contractile ring assembly	559292	MLC1,YGL106W,G3080	P
+UniProtKB	P53141	MLC1	GO:1903476	protein localization to cell division site involved in mitotic actomyosin contractile ring assembly	559292	MLC1,YGL106W,G3080	P
+UniProtKB	P53173	ERV14	GO:0007120	axial cellular bud site selection	559292	ERV14,YGL054C	P
+UniProtKB	P53226	BUD9	GO:0000282	cellular bud site selection	559292	BUD9,YGR041W,G4152	P
+UniProtKB	P53238	PEF1	GO:0007121	bipolar cellular bud site selection	559292	PEF1,YGR058W	P
+UniProtKB	P53238	PEF1	GO:0007120	axial cellular bud site selection	559292	PEF1,YGR058W	P
+UniProtKB	P53323	BUD32	GO:0000282	cellular bud site selection	559292	BUD32,LDB14,YGR262C	P
+UniProtKB	P53350	PLK1	GO:0000281	mitotic cytokinesis	9606	PLK1,PLK	P
+UniProtKB	P53501	Act57B	GO:0000281	mitotic cytokinesis	7227	Act57B,CG10067	P
+UniProtKB	P53616	SUN4	GO:0000917	division septum assembly	559292	SUN4,SCW3,YNL066W,N2411,YNL2411W	P
+UniProtKB	P53858	BNI4	GO:0000917	division septum assembly	559292	BNI4,YNL233W,N1146	P
+UniProtKB	P53901	INN1	GO:0000281	mitotic cytokinesis	559292	INN1,YNL152W,N1765	P
+UniProtKB	P53901	INN1	GO:0000281	mitotic cytokinesis	559292	INN1,YNL152W,N1765	P
+UniProtKB	P53901	INN1	GO:1990344	secondary cell septum biogenesis	559292	INN1,YNL152W,N1765	P
+UniProtKB	P53901	INN1	GO:1990344	secondary cell septum biogenesis	559292	INN1,YNL152W,N1765	P
+UniProtKB	P53924	DMA2	GO:0032186	cellular bud neck septin ring organization	559292	DMA2,CHF2,YNL116W,N1925	P
+UniProtKB	P53939	NIS1	GO:0007120	axial cellular bud site selection	559292	NIS1,JIP1,YNL078W,N2337	P
+UniProtKB	P53990	IST1	GO:0061640	cytoskeleton-dependent cytokinesis	9606	IST1,KIAA0174	P
+UniProtKB	P54359	Sep2	GO:0061640	cytoskeleton-dependent cytokinesis	7227	Sep2,CG4173	P
+UniProtKB	P59224	RPS13B	GO:0000911	cytokinesis by cell plate formation	3702	RPS13B,At4g00100,F6N15.7	P
+UniProtKB	P60010	ACT1	GO:1902404	mitotic actomyosin contractile ring contraction	559292	ACT1,ABY1,END7,YFL039C	P
+UniProtKB	P61158	ACTR3	GO:0033206	meiotic cytokinesis	9606	ACTR3,ARP3	P
+UniProtKB	P61160	ACTR2	GO:0033206	meiotic cytokinesis	9606	ACTR2,ARP2	P
+UniProtKB	P61209	Arf79F	GO:0007112	male meiosis cytokinesis	7227	Arf79F,ARF1,CG8385	P
+UniProtKB	P61209	Arf79F	GO:1990386	mitotic cleavage furrow ingression	7227	Arf79F,ARF1,CG8385	P
+UniProtKB	P61586	RHOA	GO:1903673	mitotic cleavage furrow formation	9606	RHOA,ARH12,ARHA,RHO12	P
+UniProtKB	P61586	RHOA	GO:0036089	cleavage furrow formation	9606	RHOA,ARH12,ARHA,RHO12	P
+UniProtKB	P62745	RHOB	GO:0000281	mitotic cytokinesis	9606	RHOB,ARH6,ARHB	P
+UniProtKB	P78929	cof1	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cof1,adf1,SPAC20G4.06c	P
+UniProtKB	P78953	mid1	GO:0000281	mitotic cytokinesis	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P78953	mid1	GO:0000915	actomyosin contractile ring assembly	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P78953	mid1	GO:0000281	mitotic cytokinesis	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P78953	mid1	GO:1903486	establishment of mitotic actomyosin contractile ring localization	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P78953	mid1	GO:1903475	mitotic actomyosin contractile ring assembly	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P78953	mid1	GO:1903475	mitotic actomyosin contractile ring assembly	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P78953	mid1	GO:1903475	mitotic actomyosin contractile ring assembly	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P78953	mid1	GO:1902408	mitotic cytokinesis, site selection	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P78953	mid1	GO:1902408	mitotic cytokinesis, site selection	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P78953	mid1	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	mid1,dmf1,SPCC4B3.15	P
+UniProtKB	P81299	cdc-14	GO:0000281	mitotic cytokinesis	6239	cdc-14,C17G10.4	P
+UniProtKB	P81299	cdc-14	GO:0040038	polar body extrusion after meiotic divisions	6239	cdc-14,C17G10.4	P
+UniProtKB	P83967	Act88F	GO:0000281	mitotic cytokinesis	7227	Act88F,CG5178	P
+UniProtKB	P84077	ARF1	GO:1990386	mitotic cleavage furrow ingression	9606	ARF1	P
+UniProtKB	P85052	BUD25	GO:0000282	cellular bud site selection	559292	BUD25,YER014C-A	P
+UniProtKB	P91129	ptr-2	GO:0000281	mitotic cytokinesis	6239	ptr-2,C32E8.8,CELE_C32E8.8	P
+UniProtKB	P91926	AP-2alpha	GO:1990386	mitotic cleavage furrow ingression	7227	AP-2alpha,CG4260	P
+UniProtKB	P91945	Klp67A	GO:0007110	meiosis I cytokinesis	7227	Klp67A,CG10923	P
+UniProtKB	P92199	let-502	GO:0000281	mitotic cytokinesis	6239	let-502,C10H11.9	P
+UniProtKB	Q00084	Klp67A	GO:0007110	meiosis I cytokinesis	7227	Klp67A,CG10923	P
+UniProtKB	Q01082	SPTBN1	GO:0000281	mitotic cytokinesis	9606	SPTBN1,SPTB2	P
+UniProtKB	Q02088	cdc8	GO:0000281	mitotic cytokinesis	284812	cdc8,SPAC27F1.02c	P
+UniProtKB	Q02088	cdc8	GO:0000281	mitotic cytokinesis	284812	cdc8,SPAC27F1.02c	P
+UniProtKB	Q02088	cdc8	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc8,SPAC27F1.02c	P
+UniProtKB	Q02088	cdc8	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc8,SPAC27F1.02c	P
+UniProtKB	Q02088	cdc8	GO:1902404	mitotic actomyosin contractile ring contraction	284812	cdc8,SPAC27F1.02c	P
+UniProtKB	Q02088	cdc8	GO:1902404	mitotic actomyosin contractile ring contraction	284812	cdc8,SPAC27F1.02c	P
+UniProtKB	Q02241	KIF23	GO:0000281	mitotic cytokinesis	9606	KIF23,KNSL5,MKLP1	P
+UniProtKB	Q02241	KIF23	GO:0000281	mitotic cytokinesis	9606	KIF23,KNSL5,MKLP1	P
+UniProtKB	Q03427	LamC	GO:0007112	male meiosis cytokinesis	7227	LamC,CG10119	P
+UniProtKB	Q03497	STE20	GO:0000282	cellular bud site selection	559292	STE20,YHL007C	P
+UniProtKB	Q03497	STE20	GO:0007121	bipolar cellular bud site selection	559292	STE20,YHL007C	P
+UniProtKB	Q03497	STE20	GO:0007121	bipolar cellular bud site selection	559292	STE20,YHL007C	P
+UniProtKB	Q03783	BUD26	GO:0000282	cellular bud site selection	559292	BUD26,YDR241W	P
+UniProtKB	Q04005	ATC1	GO:0007121	bipolar cellular bud site selection	559292	ATC1,LIC4,YDR184C,YD9395.18c	P
+UniProtKB	Q04439	MYO5	GO:0007121	bipolar cellular bud site selection	559292	MYO5,YMR109W,YM9718.08	P
+UniProtKB	Q04921	SPR28	GO:0061640	cytoskeleton-dependent cytokinesis	559292	SPR28,YDR218C,YD9934.03C	P
+UniProtKB	Q04921	SPR28	GO:0032186	cellular bud neck septin ring organization	559292	SPR28,YDR218C,YD9934.03C	P
+UniProtKB	Q04921	SPR28	GO:0000915	actomyosin contractile ring assembly	559292	SPR28,YDR218C,YD9934.03C	P
+UniProtKB	Q04921	SPR28	GO:0000917	division septum assembly	559292	SPR28,YDR218C,YD9934.03C	P
+UniProtKB	Q05080	HOF1	GO:1903476	protein localization to cell division site involved in mitotic actomyosin contractile ring assembly	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:0000281	mitotic cytokinesis	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:0000281	mitotic cytokinesis	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:0031671	primary cell septum biogenesis	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:0031671	primary cell septum biogenesis	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:1903471	regulation of mitotic actomyosin contractile ring contraction	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:1903471	regulation of mitotic actomyosin contractile ring contraction	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:1903471	regulation of mitotic actomyosin contractile ring contraction	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05080	HOF1	GO:1902406	mitotic actomyosin contractile ring maintenance	559292	HOF1,CYK2,YMR032W,YM9973.05	P
+UniProtKB	Q05CN5	MAP9	GO:0000281	mitotic cytokinesis	9606	MAP9	P
+UniProtKB	Q06160	SPH1	GO:0007121	bipolar cellular bud site selection	559292	SPH1,YLR313C	P
+UniProtKB	Q06160	SPH1	GO:0007121	bipolar cellular bud site selection	559292	SPH1,YLR313C	P
+UniProtKB	Q06580	MLC2	GO:1990274	mitotic actomyosin contractile ring disassembly	559292	MLC2,YPR188C,P9677.10	P
+UniProtKB	Q06580	MLC2	GO:1990274	mitotic actomyosin contractile ring disassembly	559292	MLC2,YPR188C,P9677.10	P
+UniProtKB	Q07533	CYK3	GO:1990344	secondary cell septum biogenesis	559292	CYK3,YDL117W	P
+UniProtKB	Q07533	CYK3	GO:1990344	secondary cell septum biogenesis	559292	CYK3,YDL117W	P
+UniProtKB	Q07657	SHS1	GO:0061640	cytoskeleton-dependent cytokinesis	559292	SHS1,SEP7,YDL225W	P
+UniProtKB	Q07657	SHS1	GO:0032186	cellular bud neck septin ring organization	559292	SHS1,SEP7,YDL225W	P
+UniProtKB	Q07657	SHS1	GO:0000915	actomyosin contractile ring assembly	559292	SHS1,SEP7,YDL225W	P
+UniProtKB	Q07657	SHS1	GO:0000917	division septum assembly	559292	SHS1,SEP7,YDL225W	P
+UniProtKB	Q07657	SHS1	GO:0000917	division septum assembly	559292	SHS1,SEP7,YDL225W	P
+UniProtKB	Q07657	SHS1	GO:0032186	cellular bud neck septin ring organization	559292	SHS1,SEP7,YDL225W	P
+UniProtKB	Q07657	SHS1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	SHS1,SEP7,YDL225W	P
+UniProtKB	Q07992	BUD28	GO:0000282	cellular bud site selection	559292	BUD28,YLR062C	P
+UniProtKB	Q08229	NBA1	GO:0007120	axial cellular bud site selection	559292	NBA1,YOL070C	P
+UniProtKB	Q08231	THP1	GO:0000282	cellular bud site selection	559292	THP1,BUD29,YOL072W,O1140	P
+UniProtKB	Q08754	BUD7	GO:0000282	cellular bud site selection	559292	BUD7,YOR299W	P
+UniProtKB	Q08756	YOR300W	GO:0000282	cellular bud site selection	559292	YOR300W,O5639	P
+UniProtKB	Q08760	RAX1	GO:0007121	bipolar cellular bud site selection	559292	RAX1,YOR301W	P
+UniProtKB	Q08760	RAX1	GO:0007121	bipolar cellular bud site selection	559292	RAX1,YOR301W	P
+UniProtKB	Q08760	RAX1	GO:0007120	axial cellular bud site selection	559292	RAX1,YOR301W	P
+UniProtKB	Q08AE8	SPIRE1	GO:0040038	polar body extrusion after meiotic divisions	9606	SPIRE1,KIAA1135,SPIR1	P
+UniProtKB	Q08AE8	SPIRE1	GO:0036089	cleavage furrow formation	9606	SPIRE1,KIAA1135,SPIR1	P
+UniProtKB	Q08AE8	SPIRE1	GO:0040038	polar body extrusion after meiotic divisions	9606	SPIRE1,KIAA1135,SPIR1	P
+UniProtKB	Q08AE8	SPIRE1	GO:0036089	cleavage furrow formation	9606	SPIRE1,KIAA1135,SPIR1	P
+UniProtKB	Q08CQ1	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	Q09116	spn2	GO:0061640	cytoskeleton-dependent cytokinesis	284812	spn2,SPAC821.06	P
+UniProtKB	Q09116	spn2	GO:0000281	mitotic cytokinesis	284812	spn2,SPAC821.06	P
+UniProtKB	Q09196	cdc4	GO:0000917	division septum assembly	284812	cdc4,SPAP8A3.08	P
+UniProtKB	Q09196	cdc4	GO:1903479	mitotic actomyosin contractile ring assembly actin filament organization	284812	cdc4,SPAP8A3.08	P
+UniProtKB	Q09196	cdc4	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc4,SPAP8A3.08	P
+UniProtKB	Q09196	cdc4	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc4,SPAP8A3.08	P
+UniProtKB	Q09196	cdc4	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc4,SPAP8A3.08	P
+UniProtKB	Q09196	cdc4	GO:1902404	mitotic actomyosin contractile ring contraction	284812	cdc4,SPAP8A3.08	P
+UniProtKB	Q09314	nop-1	GO:0000281	mitotic cytokinesis	6239	nop-1,F25B5.2	P
+UniProtKB	Q09373	fzy-1	GO:0040038	polar body extrusion after meiotic divisions	6239	fzy-1,ZK177.6	P
+UniProtKB	Q09510	mlc-4	GO:0000281	mitotic cytokinesis	6239	mlc-4,C56G7.1	P
+UniProtKB	Q09510	mlc-4	GO:0007110	meiosis I cytokinesis	6239	mlc-4,C56G7.1	P
+UniProtKB	Q09733	gef2	GO:0000917	division septum assembly	284812	gef2,SPAC31A2.16	P
+UniProtKB	Q09733	gef2	GO:1902408	mitotic cytokinesis, site selection	284812	gef2,SPAC31A2.16	P
+UniProtKB	Q09733	gef2	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	gef2,SPAC31A2.16	P
+UniProtKB	Q09763	gef1	GO:0000917	division septum assembly	284812	gef1,SPAC24H6.09	P
+UniProtKB	Q09763	gef1	GO:1990386	mitotic cleavage furrow ingression	284812	gef1,SPAC24H6.09	P
+UniProtKB	Q09763	gef1	GO:1903473	positive regulation of mitotic actomyosin contractile ring contraction	284812	gef1,SPAC24H6.09	P
+UniProtKB	Q09763	gef1	GO:1904498	protein localization to mitotic actomyosin contractile ring	284812	gef1,SPAC24H6.09	P
+UniProtKB	Q09763	gef1	GO:1904498	protein localization to mitotic actomyosin contractile ring	284812	gef1,SPAC24H6.09	P
+UniProtKB	Q09763	gef1	GO:1901901	regulation of protein localization to cell division site involved in cytokinesis	284812	gef1,SPAC24H6.09	P
+UniProtKB	Q09822	cdc15	GO:1903476	protein localization to cell division site involved in mitotic actomyosin contractile ring assembly	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:0000915	actomyosin contractile ring assembly	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1904498	protein localization to mitotic actomyosin contractile ring	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09822	cdc15	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	cdc15,SPAC20G8.05c	P
+UniProtKB	Q09883	spn6	GO:0061640	cytoskeleton-dependent cytokinesis	284812	spn6,SPCC188.12,SPCC584.09	P
+UniProtKB	Q09898	sid2	GO:0000917	division septum assembly	284812	sid2,SPAC24B11.11c	P
+UniProtKB	Q09898	sid2	GO:1903473	positive regulation of mitotic actomyosin contractile ring contraction	284812	sid2,SPAC24B11.11c	P
+UniProtKB	Q09898	sid2	GO:1903473	positive regulation of mitotic actomyosin contractile ring contraction	284812	sid2,SPAC24B11.11c	P
+UniProtKB	Q09914	rho1	GO:1903471	regulation of mitotic actomyosin contractile ring contraction	284812	rho1,SPAC1F7.04	P
+UniProtKB	Q09994	ani-2	GO:0000915	actomyosin contractile ring assembly	6239	ani-2,K10B2.5	P
+UniProtKB	Q09994	ani-2	GO:0000281	mitotic cytokinesis	6239	ani-2,K10B2.5	P
+UniProtKB	Q0KHR7	Septin4	GO:0061640	cytoskeleton-dependent cytokinesis	7227	Septin4,04-Sep,Dmel\CG9699,Sep4,dSEPT4,sep4,CG9699,Dmel_CG9699	P
+UniProtKB	Q0V967	fbxo5	GO:0000281	mitotic cytokinesis	7955	fbxo5,hrp,zgc:136397,zgc:158541	P
+UniProtKB	Q0WT40	CSLB5	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLB5,At4g15290,FCAALL.256,dl3690c	P
+UniProtKB	Q0WVN5	CSLG3	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLG3,At4g23990,T19F6.19,T32A16.160	P
+UniProtKB	Q0ZA69	unc119b	GO:0000281	mitotic cytokinesis	7955	unc119b,unc119.2	P
+UniProtKB	Q10059	cdc12	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10059	cdc12	GO:1903479	mitotic actomyosin contractile ring assembly actin filament organization	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10059	cdc12	GO:1904670	actin filament polymerization involved in mitotic actomyosin contractile ring assembly	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10059	cdc12	GO:1904670	actin filament polymerization involved in mitotic actomyosin contractile ring assembly	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10059	cdc12	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10059	cdc12	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10059	cdc12	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10059	cdc12	GO:1903475	mitotic actomyosin contractile ring assembly	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10059	cdc12	GO:1904498	protein localization to mitotic actomyosin contractile ring	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10059	cdc12	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	cdc12,SPAC1F5.04c	P
+UniProtKB	Q10168	nsp1	GO:0000917	division septum assembly	284812	nsp1,SPAC26A3.15c	P
+UniProtKB	Q10199	imp2	GO:1903476	protein localization to cell division site involved in mitotic actomyosin contractile ring assembly	284812	imp2,SPBC11C11.02	P
+UniProtKB	Q10199	imp2	GO:1990274	mitotic actomyosin contractile ring disassembly	284812	imp2,SPBC11C11.02	P
+UniProtKB	Q10199	imp2	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	imp2,SPBC11C11.02	P
+UniProtKB	Q10221	SPAC4H3.14c	GO:0000281	mitotic cytokinesis	284812	SPAC4H3.14c	P
+UniProtKB	Q10287	bgs1	GO:0031671	primary cell septum biogenesis	284812	bgs1,cps1,drc1,SPBC19G7.05c	P
+UniProtKB	Q10326	mug8	GO:0000917	division septum assembly	284812	mug8,SPAC32A11.01	P
+UniProtKB	Q10434	acp1	GO:1903475	mitotic actomyosin contractile ring assembly	284812	acp1,SPAC12B10.07	P
+UniProtKB	Q10434	acp1	GO:1903475	mitotic actomyosin contractile ring assembly	284812	acp1,SPAC12B10.07	P
+UniProtKB	Q10434	acp1	GO:1902404	mitotic actomyosin contractile ring contraction	284812	acp1,SPAC12B10.07	P
+UniProtKB	Q10443	SPAC12B10.10	GO:1902408	mitotic cytokinesis, site selection	284812	SPAC12B10.10	P
+UniProtKB	Q10443	SPAC12B10.10	GO:1902408	mitotic cytokinesis, site selection	284812	SPAC12B10.10	P
+UniProtKB	Q10443	SPAC12B10.10	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	SPAC12B10.10	P
+UniProtKB	Q12114	CHS5	GO:0000282	cellular bud site selection	559292	CHS5,CAL3,YLR330W,L8543.18	P
+UniProtKB	Q12194	RGL1	GO:0000917	division septum assembly	559292	RGL1,YPL066W,LPE4W	P
+UniProtKB	Q12280	IQG1	GO:1903479	mitotic actomyosin contractile ring assembly actin filament organization	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12280	IQG1	GO:1903479	mitotic actomyosin contractile ring assembly actin filament organization	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12280	IQG1	GO:1903479	mitotic actomyosin contractile ring assembly actin filament organization	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12280	IQG1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12280	IQG1	GO:1903475	mitotic actomyosin contractile ring assembly	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12280	IQG1	GO:1903471	regulation of mitotic actomyosin contractile ring contraction	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12280	IQG1	GO:1903471	regulation of mitotic actomyosin contractile ring contraction	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12280	IQG1	GO:1903471	regulation of mitotic actomyosin contractile ring contraction	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12280	IQG1	GO:1903471	regulation of mitotic actomyosin contractile ring contraction	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12280	IQG1	GO:1903479	mitotic actomyosin contractile ring assembly actin filament organization	559292	IQG1,CYK1,YPL242C	P
+UniProtKB	Q12465	RAX2	GO:0000282	cellular bud site selection	559292	RAX2,YLR084C,L2389,L9449.12	P
+UniProtKB	Q12465	RAX2	GO:0007121	bipolar cellular bud site selection	559292	RAX2,YLR084C,L2389,L9449.12	P
+UniProtKB	Q12465	RAX2	GO:0007121	bipolar cellular bud site selection	559292	RAX2,YLR084C,L2389,L9449.12	P
+UniProtKB	Q12465	RAX2	GO:0007120	axial cellular bud site selection	559292	RAX2,YLR084C,L2389,L9449.12	P
+UniProtKB	Q12705	ppb1	GO:1903473	positive regulation of mitotic actomyosin contractile ring contraction	284812	ppb1,SPBC1346.01c,SPBP4H10.04	P
+UniProtKB	Q12768	WASHC5	GO:0040038	polar body extrusion after meiotic divisions	9606	WASHC5,KIAA0196	P
+UniProtKB	Q12955	ANK3	GO:0000281	mitotic cytokinesis	9606	ANK3	P
+UniProtKB	Q12955	ANK3	GO:0000281	mitotic cytokinesis	9606	ANK3	P
+UniProtKB	Q13432	UNC119	GO:0000281	mitotic cytokinesis	9606	UNC119,RG4	P
+UniProtKB	Q13432	UNC119	GO:0000281	mitotic cytokinesis	9606	UNC119,RG4	P
+UniProtKB	Q13464	ROCK1	GO:0000281	mitotic cytokinesis	9606	ROCK1	P
+UniProtKB	Q14141	SEPTIN6	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN6,KIAA0128,SEP2,SEPT6	P
+UniProtKB	Q14141	SEPTIN6	GO:0000281	mitotic cytokinesis	9606	SEPTIN6,KIAA0128,SEP2,SEPT6	P
+UniProtKB	Q14674	ESPL1	GO:0000281	mitotic cytokinesis	9606	ESPL1,ESP1,KIAA0165	P
+UniProtKB	Q14999	CUL7	GO:0000281	mitotic cytokinesis	9606	CUL7,KIAA0076	P
+UniProtKB	Q15019	SEPTIN2	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN2,DIFF6,KIAA0158,NEDD5,SEPT2	P
+UniProtKB	Q15149	PLEC	GO:2000689	actomyosin contractile ring assembly actin filament organization	9606	PLEC,PLEC1	P
+UniProtKB	Q15286	RAB35	GO:0000281	mitotic cytokinesis	9606	RAB35,RAB1C,RAY	P
+UniProtKB	Q16097	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	Q16098	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	Q16181	SEPTIN7	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN7,CDC10,SEPT7	P
+UniProtKB	Q17777	C07B5.4	GO:0000915	actomyosin contractile ring assembly	6239	C07B5.4,CELE_C07B5.4	P
+UniProtKB	Q17777	C07B5.4	GO:0000281	mitotic cytokinesis	6239	C07B5.4,CELE_C07B5.4	P
+UniProtKB	Q17802	cpg-1	GO:0000281	mitotic cytokinesis	6239	cpg-1,cej-1,C07G2.1	P
+UniProtKB	Q18076	C18B2.5	GO:0061640	cytoskeleton-dependent cytokinesis	6239	C18B2.5,CELE_C18B2.5	P
+UniProtKB	Q18235	ify-1	GO:0000281	mitotic cytokinesis	6239	ify-1,C27A2.3	P
+UniProtKB	Q18235	ify-1	GO:0040038	polar body extrusion after meiotic divisions	6239	ify-1,C27A2.3	P
+UniProtKB	Q18452	maph-9	GO:0000281	mitotic cytokinesis	6239	maph-9,C34D4.1	P
+UniProtKB	Q19705	evl-20	GO:0000281	mitotic cytokinesis	6239	evl-20,arl-2,F22B5.1	P
+UniProtKB	Q1JPX7	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	Q1L895	jtb	GO:0000281	mitotic cytokinesis	7955	jtb,si:ch211-191i18.1	P
+UniProtKB	Q1L896	jtb	GO:0000281	mitotic cytokinesis	7955	jtb,si:ch211-191i18.1	P
+UniProtKB	Q1L897	jtb	GO:0000281	mitotic cytokinesis	7955	jtb,si:ch211-191i18.1	P
+UniProtKB	Q1LUB2	anln	GO:0000281	mitotic cytokinesis	7955	anln,si:ch211-197n10.2	P
+UniProtKB	Q1LUB2	anln	GO:0000915	actomyosin contractile ring assembly	7955	anln,si:ch211-197n10.2	P
+UniProtKB	Q1LUF4	kif23	GO:0000281	mitotic cytokinesis	7955	kif23	P
+UniProtKB	Q1LUF4	kif23	GO:0036089	cleavage furrow formation	7955	kif23	P
+UniProtKB	Q1LX31	si:dkey-30c15.10	GO:0000915	actomyosin contractile ring assembly	7955	si:dkey-30c15.10,si:dkey-30c15.9	P
+UniProtKB	Q1LX31	si:dkey-30c15.10	GO:0000281	mitotic cytokinesis	7955	si:dkey-30c15.10,si:dkey-30c15.9	P
+UniProtKB	Q1LYM3	spire1	GO:0040038	polar body extrusion after meiotic divisions	7955	spire1,si:ch211-215i13.7,zgc:153436	P
+UniProtKB	Q1LYM3	spire1	GO:0036089	cleavage furrow formation	7955	spire1,si:ch211-215i13.7,zgc:153436	P
+UniProtKB	Q1MTE5	arl3	GO:0000281	mitotic cytokinesis	7955	arl3,sfxn2,si:ch211-208d15.4	P
+UniProtKB	Q1RL10	CG5270	GO:0000281	mitotic cytokinesis	7227	CG5270	P
+UniProtKB	Q1RM42	unc119b	GO:0000281	mitotic cytokinesis	7955	unc119b,unc119.2	P
+UniProtKB	Q20402	egg-3	GO:0040038	polar body extrusion after meiotic divisions	6239	egg-3,F44F4.2	P
+UniProtKB	Q21215	rack-1	GO:0000281	mitotic cytokinesis	6239	rack-1,K04D7.1	P
+UniProtKB	Q21215	rack-1	GO:0040038	polar body extrusion after meiotic divisions	6239	rack-1,K04D7.1	P
+UniProtKB	Q21592	klc-1	GO:0040038	polar body extrusion after meiotic divisions	6239	klc-1,CELE_M7.2,M7.2	P
+UniProtKB	Q21592	klc-1	GO:0040038	polar body extrusion after meiotic divisions	6239	klc-1,CELE_M7.2,M7.2	P
+UniProtKB	Q22038	rho-1	GO:0000915	actomyosin contractile ring assembly	6239	rho-1,rhoa,Y51H4A.3	P
+UniProtKB	Q22590	ect-2	GO:0000281	mitotic cytokinesis	6239	ect-2,CELE_T19E10.1,T19E10.1	P
+UniProtKB	Q22590	ect-2	GO:0000281	mitotic cytokinesis	6239	ect-2,CELE_T19E10.1,T19E10.1	P
+UniProtKB	Q22869	nmy-2	GO:0000281	mitotic cytokinesis	6239	nmy-2	P
+UniProtKB	Q23983	alphaSnap	GO:0000281	mitotic cytokinesis	7227	alphaSnap,Snap,CG6625	P
+UniProtKB	Q24509	Syx5	GO:0007112	male meiosis cytokinesis	7227	Syx5,Sed5,CG4214	P
+UniProtKB	Q24547	Syx1A	GO:0000281	mitotic cytokinesis	7227	Syx1A,syx-1A,CG31136	P
+UniProtKB	Q24564	Mer	GO:0007112	male meiosis cytokinesis	7227	Mer,EMR2,CG14228	P
+UniProtKB	Q25AR8	unc-61	GO:0061640	cytoskeleton-dependent cytokinesis	6239	unc-61,CELE_Y50E8A.4,Y50E8A.4	P
+UniProtKB	Q27IK6	KIN12D	GO:0000281	mitotic cytokinesis	3702	KIN12D,POK2,At3g19050,K13E13.17	P
+UniProtKB	Q27IK6	KIN12D	GO:0000911	cytokinesis by cell plate formation	3702	KIN12D,POK2,At3g19050,K13E13.17	P
+UniProtKB	Q27IK6	KIN12D	GO:0000911	cytokinesis by cell plate formation	3702	KIN12D,POK2,At3g19050,K13E13.17	P
+UniProtKB	Q27IK7	KIN12C	GO:0000281	mitotic cytokinesis	3702	KIN12C,POK1,At3g17360,MGD8.20	P
+UniProtKB	Q27IK7	KIN12C	GO:0000911	cytokinesis by cell plate formation	3702	KIN12C,POK1,At3g17360,MGD8.20	P
+UniProtKB	Q2QAV0	TIO	GO:0000911	cytokinesis by cell plate formation	3702	TIO,FU,At1g50240,F14I3.15	P
+UniProtKB	Q2QAV0	TIO	GO:0000911	cytokinesis by cell plate formation	3702	TIO,FU,At1g50240,F14I3.15	P
+UniProtKB	Q2QAV0	TIO	GO:0000911	cytokinesis by cell plate formation	3702	TIO,FU,At1g50240,F14I3.15	P
+UniProtKB	Q2QAV0	TIO	GO:0007112	male meiosis cytokinesis	3702	TIO,FU,At1g50240,F14I3.15	P
+UniProtKB	Q2VIQ3	KIF4B	GO:0000281	mitotic cytokinesis	9606	KIF4B	P
+UniProtKB	Q32LU3	sept4a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept4a	P
+UniProtKB	Q32PN3	prnpb	GO:0032506	cytokinetic process	7955	prnpb,prnprs1	P
+UniProtKB	Q32PT5	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3	P
+UniProtKB	Q32PU0	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	Q32TF8	efhc2	GO:0000281	mitotic cytokinesis	7955	efhc2,zgc:152706	P
+UniProtKB	Q39024	MPK4	GO:0000911	cytokinesis by cell plate formation	3702	MPK4,At4g01370,F2N1.1,F2N1_2-t	P
+UniProtKB	Q39024	MPK4	GO:0007112	male meiosis cytokinesis	3702	MPK4,At4g01370,F2N1.1,F2N1_2-t	P
+UniProtKB	Q3BDV9	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3,prp2	P
+UniProtKB	Q3BDW0	prnpb	GO:0032506	cytokinetic process	7955	prnpb,prnprs1,prp1	P
+UniProtKB	Q42510	GN	GO:0000911	cytokinesis by cell plate formation	3702	GN,EMB30,GBF3,MIZ2,VAN7,At1g13980,F16A14.20,F7A19.7	P
+UniProtKB	Q49MG5	MAP9	GO:0000281	mitotic cytokinesis	9606	MAP9,ASAP	P
+UniProtKB	Q4LE70	APC variant protein	GO:0000281	mitotic cytokinesis	9606	APC variant protein	P
+UniProtKB	Q4V8R9	sept7b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept7b,LOC100000597,hm:zeh0351	P
+UniProtKB	Q4V8V5	zgc:114123	GO:0040038	polar body extrusion after meiotic divisions	7955	zgc:114123	P
+UniProtKB	Q4V8V5	zgc:114123	GO:0036089	cleavage furrow formation	7955	zgc:114123	P
+UniProtKB	Q4V9K0	snx9b	GO:0000281	mitotic cytokinesis	7955	snx9b,snx9l	P
+UniProtKB	Q4V9L0	ect2	GO:0000281	mitotic cytokinesis	7955	ect2	P
+UniProtKB	Q4V9L0	ect2	GO:0032506	cytokinetic process	7955	ect2	P
+UniProtKB	Q4V9Q4	kif23	GO:0000281	mitotic cytokinesis	7955	kif23	P
+UniProtKB	Q4V9Q4	kif23	GO:0036089	cleavage furrow formation	7955	kif23	P
+UniProtKB	Q502I3	cep55	GO:0000281	mitotic cytokinesis	7955	cep55,cep55l,zgc:112184	P
+UniProtKB	Q502I3	cep55	GO:0000281	mitotic cytokinesis	7955	cep55,cep55l,zgc:112184	P
+UniProtKB	Q502K6	kif20a	GO:0000281	mitotic cytokinesis	7955	kif20a,zgc:112061	P
+UniProtKB	Q504L3	unc119b	GO:0000281	mitotic cytokinesis	7955	unc119b,unc119.2	P
+UniProtKB	Q50J87	prnpb	GO:0032506	cytokinetic process	7955	prnpb,PrP1,prnprs1	P
+UniProtKB	Q50J88	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3,PrP2	P
+UniProtKB	Q53EZ4	CEP55	GO:0000281	mitotic cytokinesis	9606	CEP55,C10orf3,URCC6	P
+UniProtKB	Q53EZ4	CEP55	GO:0000281	mitotic cytokinesis	9606	CEP55,C10orf3,URCC6	P
+UniProtKB	Q53EZ4	CEP55	GO:0000281	mitotic cytokinesis	9606	CEP55,C10orf3,URCC6	P
+UniProtKB	Q53EZ4	CEP55	GO:0061952	midbody abscission	9606	CEP55,C10orf3,URCC6	P
+UniProtKB	Q568B3	sept10	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept10	P
+UniProtKB	Q570S7	CSLG1	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLG1,At4g24010,T19F6.17,T32A16.180	P
+UniProtKB	Q58DX0	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3,stprp-3	P
+UniProtKB	Q58EF8	snx33	GO:0000281	mitotic cytokinesis	7955	snx33,sh3px3	P
+UniProtKB	Q58EK7	sept9b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9b	P
+UniProtKB	Q58EM1	apc	GO:0000281	mitotic cytokinesis	7955	apc,im:7150932	P
+UniProtKB	Q58EN7	snx9a	GO:0000281	mitotic cytokinesis	7955	snx9a,snx9	P
+UniProtKB	Q59ES5	Q59ES5	GO:0000281	mitotic cytokinesis	9606		P
+UniProtKB	Q5CZT3	dchs1b	GO:1903673	mitotic cleavage furrow formation	7955	dchs1b,dchs1,im:7136458	P
+UniProtKB	Q5IBC5	ESP1	GO:0000911	cytokinesis by cell plate formation	3702	ESP1,AESP,ESP,RSW4,At4g22970,F7H19.150	P
+UniProtKB	Q5JST6	EFHC2	GO:0000281	mitotic cytokinesis	9606	EFHC2	P
+UniProtKB	Q5JVL4	EFHC1	GO:0000281	mitotic cytokinesis	9606	EFHC1	P
+UniProtKB	Q5JVL4	EFHC1	GO:0000281	mitotic cytokinesis	9606	EFHC1	P
+UniProtKB	Q5K0E1	prnpb	GO:0032506	cytokinetic process	7955	prnpb,prnprs1	P
+UniProtKB	Q5K4F8	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3,prp2	P
+UniProtKB	Q5RH75	rock2b	GO:0000281	mitotic cytokinesis	7955	rock2b	P
+UniProtKB	Q5SPP1	snx9b	GO:0000281	mitotic cytokinesis	7955	snx9b,snx9l	P
+UniProtKB	Q5SPP2	snx9b	GO:0000281	mitotic cytokinesis	7955	snx9b,snx9l	P
+UniProtKB	Q5TZ66	snap25a	GO:0000281	mitotic cytokinesis	7955	snap25a,Snap,snap25.1,si:dkeyp-8f4.6	P
+UniProtKB	Q5U3H9	spire2	GO:0040038	polar body extrusion after meiotic divisions	7955	spire2,zgc:103506	P
+UniProtKB	Q5U3H9	spire2	GO:0036089	cleavage furrow formation	7955	spire2,zgc:103506	P
+UniProtKB	Q5WRQ4	C07B5.4	GO:0000281	mitotic cytokinesis	6239	C07B5.4,CELE_C07B5.4	P
+UniProtKB	Q5WRQ4	C07B5.4	GO:0000915	actomyosin contractile ring assembly	6239	C07B5.4,CELE_C07B5.4	P
+UniProtKB	Q5XPH9	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3,prp	P
+UniProtKB	Q5XV72	At4g25070	GO:0000911	cytokinesis by cell plate formation	3702	At4g25070,F24A6.14	P
+UniProtKB	Q5YJK4	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3	P
+UniProtKB	Q642H3	sept8a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept8a	P
+UniProtKB	Q66IE5	rtkn2b	GO:0000915	actomyosin contractile ring assembly	7955	rtkn2b,zgc:101635	P
+UniProtKB	Q66IE5	rtkn2b	GO:0000281	mitotic cytokinesis	7955	rtkn2b,zgc:101635	P
+UniProtKB	Q68DK2	ZFYVE26	GO:0000281	mitotic cytokinesis	9606	ZFYVE26,KIAA0321	P
+UniProtKB	Q6AZC9	sept5b	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept5b	P
+UniProtKB	Q6DKK2	TTC19	GO:0000281	mitotic cytokinesis	9606	TTC19	P
+UniProtKB	Q6DRB9	ect2	GO:0000281	mitotic cytokinesis	7955	ect2	P
+UniProtKB	Q6DRB9	ect2	GO:0032506	cytokinetic process	7955	ect2	P
+UniProtKB	Q6GML9	unc119b	GO:0000281	mitotic cytokinesis	7955	unc119b,unc119.2	P
+UniProtKB	Q6GQL6	dctn3	GO:0061640	cytoskeleton-dependent cytokinesis	7955	dctn3	P
+UniProtKB	Q6GQL6	dctn3	GO:0061640	cytoskeleton-dependent cytokinesis	7955	dctn3	P
+UniProtKB	Q6NPL9	PLP3A	GO:0000911	cytokinesis by cell plate formation	3702	PLP3A,At3g50960,F18B3.240	P
+UniProtKB	Q6NQ74	TRM8	GO:0000913	preprophase band assembly	3702	TRM8,TON1 Recruiting Motif 8,At5g26910,F2P16.18,F2P16_18	P
+UniProtKB	Q6NR17	sti	GO:0000281	mitotic cytokinesis	7227	sti,CG10522	P
+UniProtKB	Q6NR17	sti	GO:0000915	actomyosin contractile ring assembly	7227	sti,CG10522	P
+UniProtKB	Q6NR17	sti	GO:0000281	mitotic cytokinesis	7227	sti,CG10522	P
+UniProtKB	Q6NR17	sti	GO:0000281	mitotic cytokinesis	7227	sti,CG10522	P
+UniProtKB	Q6NR17	sti	GO:0000281	mitotic cytokinesis	7227	sti,CG10522	P
+UniProtKB	Q6NR17	sti	GO:0007112	male meiosis cytokinesis	7227	sti,CG10522	P
+UniProtKB	Q6NW58	spast	GO:0000281	mitotic cytokinesis	7955	spast,spg4,si:ch73-233a22.3,zgc:85952	P
+UniProtKB	Q6NW58	spast	GO:0032506	cytokinetic process	7955	spast,spg4,si:ch73-233a22.3,zgc:85952	P
+UniProtKB	Q6NW76	aurkb	GO:0036089	cleavage furrow formation	7955	aurkb,stka	P
+UniProtKB	Q6NW76	aurkb	GO:0000281	mitotic cytokinesis	7955	aurkb,stka	P
+UniProtKB	Q6NW76	aurkb	GO:0036089	cleavage furrow formation	7955	aurkb,stka	P
+UniProtKB	Q6NWE2	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	Q6P3H8	racgap1	GO:0000281	mitotic cytokinesis	7955	racgap1	P
+UniProtKB	Q6P7X7	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a,sept9	P
+UniProtKB	Q6PBW0	sept5a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept5a	P
+UniProtKB	Q6PH77	MAP9	GO:0000281	mitotic cytokinesis	9606	MAP9	P
+UniProtKB	Q6PHD7	sept6	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept6	P
+UniProtKB	Q6TGX3	sept9a	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept9a,MSF,sept9	P
+UniProtKB	Q6ZU15	SEPTIN14	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN14,SEPT14	P
+UniProtKB	Q70YC4	ZNF365	GO:0000281	mitotic cytokinesis	9606	ZNF365,KIAA0844	P
+UniProtKB	Q7JRJ9	Incenp	GO:0000281	mitotic cytokinesis	7227	Incenp,DmINCENP,Dmel\CG12165,INCENP,anon-WO0118547.171,dIncenp,incenp,mat(2)ea-C,mat(2)earlyQA26,CG12165,Dmel_CG12165	P
+UniProtKB	Q7JRJ9	Incenp	GO:0000281	mitotic cytokinesis	7227	Incenp,DmINCENP,Dmel\CG12165,INCENP,anon-WO0118547.171,dIncenp,incenp,mat(2)ea-C,mat(2)earlyQA26,CG12165,Dmel_CG12165	P
+UniProtKB	Q7K1R0	Pex2	GO:0007112	male meiosis cytokinesis	7227	Pex2,pex2,CG7081	P
+UniProtKB	Q7K2N1	Efhc1.2	GO:0000281	mitotic cytokinesis	7227	Efhc1.2,Dmel\CG11048,CG11048,Dmel_CG11048	P
+UniProtKB	Q7KLG8	Septin5	GO:0061640	cytoskeleton-dependent cytokinesis	7227	Septin5,Dmel\CG2916,Sep,Sep5,Sep5-RB,dSEPT5,sep5,CG2916,Dmel_CG2916	P
+UniProtKB	Q7KRZ3	Exo84	GO:0000916	actomyosin contractile ring contraction	7227	Exo84,DExo84,Dmel\CG6095,Exo84p,anon-WO0153538.55,exo84,onr,CG6095,Dmel_CG6095	P
+UniProtKB	Q7KRZ3	Exo84	GO:0007111	meiosis II cytokinesis	7227	Exo84,DExo84,Dmel\CG6095,Exo84p,anon-WO0153538.55,exo84,onr,CG6095,Dmel_CG6095	P
+UniProtKB	Q7KRZ3	Exo84	GO:0007110	meiosis I cytokinesis	7227	Exo84,DExo84,Dmel\CG6095,Exo84p,anon-WO0153538.55,exo84,onr,CG6095,Dmel_CG6095	P
+UniProtKB	Q7KTL5	sip2	GO:0000281	mitotic cytokinesis	7227	sip2,Dmel\CG9188,FIP,fip,CG9188,Dmel_CG9188	P
+UniProtKB	Q7KUX3	Septin4	GO:0061640	cytoskeleton-dependent cytokinesis	7227	Septin4,04-Sep,Dmel\CG9699,Sep4,Sep4-RG,dSEPT4,sep4,CG9699,Dmel_CG9699	P
+UniProtKB	Q7LBR1	CHMP1B	GO:0061952	midbody abscission	9606	CHMP1B,C18orf2	P
+UniProtKB	Q7SXV6	sept2	GO:0061640	cytoskeleton-dependent cytokinesis	7955	sept2	P
+UniProtKB	Q7SY26	zgc:63587	GO:0061640	cytoskeleton-dependent cytokinesis	7955	zgc:63587	P
+UniProtKB	Q7T2F1	efhc1	GO:0000281	mitotic cytokinesis	7955	efhc1	P
+UniProtKB	Q7T391	anxa11a	GO:0032506	cytokinetic process	7955	anxa11a	P
+UniProtKB	Q7Z2Q8	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	Q7ZU15	kif23	GO:0000281	mitotic cytokinesis	7955	kif23	P
+UniProtKB	Q7ZU15	kif23	GO:0036089	cleavage furrow formation	7955	kif23	P
+UniProtKB	Q7ZVC4	chmp4b	GO:0000281	mitotic cytokinesis	7955	chmp4b,zgc:56112	P
+UniProtKB	Q7ZZB1	snx9a	GO:0000281	mitotic cytokinesis	7955	snx9a,snx9	P
+UniProtKB	Q804G3	anxa11b	GO:0032506	cytokinetic process	7955	anxa11b	P
+UniProtKB	Q804G4	anxa11a	GO:0032506	cytokinetic process	7955	anxa11a	P
+UniProtKB	Q84JA6	CESA4	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA4,IRX5,At5g44030,MRH10.14	P
+UniProtKB	Q84M91	TAN	GO:0000911	cytokinesis by cell plate formation	3702	TAN,ATN,At3g05330,T12H1.30	P
+UniProtKB	Q84M91	TAN	GO:0000914	phragmoplast assembly	3702	TAN,ATN,At3g05330,T12H1.30	P
+UniProtKB	Q86NU0	CG30183	GO:0000915	actomyosin contractile ring assembly	7227	CG30183	P
+UniProtKB	Q86NU0	CG30183	GO:0000281	mitotic cytokinesis	7227	CG30183	P
+UniProtKB	Q86NU0	CG30183	GO:0000281	mitotic cytokinesis	7227	CG30183	P
+UniProtKB	Q874R1	rho4	GO:0000917	division septum assembly	284812	rho4,SPAC16A10.04	P
+UniProtKB	Q8I0G5	gammaCOP	GO:0007112	male meiosis cytokinesis	7227	gammaCOP,copg,gamma-Cop,CG1528	P
+UniProtKB	Q8I4C9	unc-61	GO:0061640	cytoskeleton-dependent cytokinesis	6239	unc-61,CELE_Y50E8A.4,Y50E8A.4	P
+UniProtKB	Q8IGH2	Rab11	GO:0000916	actomyosin contractile ring contraction	7227	Rab11,CG5771	P
+UniProtKB	Q8IGH2	Rab11	GO:0007112	male meiosis cytokinesis	7227	Rab11,CG5771	P
+UniProtKB	Q8IGP7	Incenp	GO:0000281	mitotic cytokinesis	7227	Incenp,CG12165	P
+UniProtKB	Q8IGP7	Incenp	GO:0000281	mitotic cytokinesis	7227	Incenp,CG12165	P
+UniProtKB	Q8IQ95	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ95	pbl	GO:0000915	actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ95	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ95	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ95	pbl	GO:0007111	meiosis II cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ95	pbl	GO:0007110	meiosis I cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ95	pbl	GO:1903475	mitotic actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ96	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ96	pbl	GO:0000915	actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ96	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ96	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ96	pbl	GO:0007111	meiosis II cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ96	pbl	GO:0007110	meiosis I cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ96	pbl	GO:1903475	mitotic actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ97	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ97	pbl	GO:0000915	actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ97	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ97	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ97	pbl	GO:0007111	meiosis II cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ97	pbl	GO:0007110	meiosis I cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQ97	pbl	GO:1903475	mitotic actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,CG8114	P
+UniProtKB	Q8IQC4	ghi	GO:0000916	actomyosin contractile ring contraction	7227	ghi,Dmel\CG32038,fro,CG32038,Dmel_CG32038	P
+UniProtKB	Q8IQC4	ghi	GO:0007111	meiosis II cytokinesis	7227	ghi,Dmel\CG32038,fro,CG32038,Dmel_CG32038	P
+UniProtKB	Q8IQC4	ghi	GO:0007110	meiosis I cytokinesis	7227	ghi,Dmel\CG32038,fro,CG32038,Dmel_CG32038	P
+UniProtKB	Q8IXV7	KLHDC8B	GO:1902410	mitotic cytokinetic process	9606	KLHDC8B,FP17659	P
+UniProtKB	Q8IXV7	KLHDC8B	GO:1902410	mitotic cytokinetic process	9606	KLHDC8B,FP17659	P
+UniProtKB	Q8IXV7	KLHDC8B	GO:1902410	mitotic cytokinetic process	9606	KLHDC8B,FP17659	P
+UniProtKB	Q8IYM1	SEPTIN12	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN12,SEPT12	P
+UniProtKB	Q8L607	SIN2	GO:0000911	cytokinesis by cell plate formation	3702	SIN2,DGP1,At2g41670,T32G6.19	P
+UniProtKB	Q8L778	CESA5	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA5,At5g09870,MYH9.8	P
+UniProtKB	Q8L778	CESA5	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA5,At5g09870,MYH9.8	P
+UniProtKB	Q8L7Y8	KIN12B	GO:0007112	male meiosis cytokinesis	3702	KIN12B,PAKRP1L,At3g23670,MDB19.16	P
+UniProtKB	Q8LCV1	PLP3B	GO:0000911	cytokinesis by cell plate formation	3702	PLP3B,At5g66410,K1F13.6	P
+UniProtKB	Q8LEG3	MAP65-2	GO:0000911	cytokinesis by cell plate formation	3702	MAP65-2,At4g26760,F10M23.100	P
+UniProtKB	Q8LEG3	MAP65-2	GO:0000911	cytokinesis by cell plate formation	3702	MAP65-2,At4g26760,F10M23.100	P
+UniProtKB	Q8LNZ2	KIN7B	GO:0000911	cytokinesis by cell plate formation	3702	KIN7B,NACK2,STD,TES,At3g43210,F7K15.60	P
+UniProtKB	Q8LNZ2	KIN7B	GO:0007112	male meiosis cytokinesis	3702	KIN7B,NACK2,STD,TES,At3g43210,F7K15.60	P
+UniProtKB	Q8LPK5	CESA8	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA8,IRX1,LEW2,At4g18780,F28A21.190	P
+UniProtKB	Q8MQ03	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	Q8MQ03	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	Q8MQ03	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	Q8MQ03	zen-4	GO:0040038	polar body extrusion after meiotic divisions	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	Q8MQ04	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	Q8MQ04	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	Q8MQ04	zen-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	Q8MQ04	zen-4	GO:0040038	polar body extrusion after meiotic divisions	6239	zen-4,CELE_M03D4.1,M03D4.1	P
+UniProtKB	Q8MRH0	tum	GO:0000281	mitotic cytokinesis	7227	tum,RacGAP50C,CG13345	P
+UniProtKB	Q8MRH0	tum	GO:0000281	mitotic cytokinesis	7227	tum,RacGAP50C,CG13345	P
+UniProtKB	Q8N137	CNTROB	GO:1902410	mitotic cytokinetic process	9606	CNTROB,LIP8,PP1221	P
+UniProtKB	Q8N137	CNTROB	GO:1902410	mitotic cytokinetic process	9606	CNTROB,LIP8,PP1221	P
+UniProtKB	Q8NB28	DCTN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	DCTN3,hCG_20473	P
+UniProtKB	Q8RWD5	SCD2	GO:0000911	cytokinesis by cell plate formation	3702	SCD2,At3g48860,T21J18.130	P
+UniProtKB	Q8RWD5	SCD2	GO:0000911	cytokinesis by cell plate formation	3702	SCD2,At3g48860,T21J18.130	P
+UniProtKB	Q8RWQ4	ROPGAP7	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	ROPGAP7,At5g19390,F7K24.140	P
+UniProtKB	Q8RX83	CSLB3	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLB3,At2g32530,T26B15.9	P
+UniProtKB	Q8RXA7	SCD1	GO:0000911	cytokinesis by cell plate formation	3702	SCD1,At1g49040,F27J15.16/F27J15.17	P
+UniProtKB	Q8RXA7	SCD1	GO:0010235	guard mother cell cytokinesis	3702	SCD1,At1g49040,F27J15.16/F27J15.17	P
+UniProtKB	Q8S905	KIN7A	GO:0000911	cytokinesis by cell plate formation	3702	KIN7A,HIK,NACK1,At1g18370,F15H18.12	P
+UniProtKB	Q8SWU0	Exo84	GO:0000916	actomyosin contractile ring contraction	7227	Exo84,exo84,CG6095	P
+UniProtKB	Q8SWU0	Exo84	GO:0007111	meiosis II cytokinesis	7227	Exo84,exo84,CG6095	P
+UniProtKB	Q8SWU0	Exo84	GO:0007110	meiosis I cytokinesis	7227	Exo84,exo84,CG6095	P
+UniProtKB	Q8SXQ3	JTBR	GO:0000281	mitotic cytokinesis	7227	JTBR,CG1935	P
+UniProtKB	Q8SXT9	pav	GO:0000916	actomyosin contractile ring contraction	7227	pav,CG1258	P
+UniProtKB	Q8SXT9	pav	GO:0000281	mitotic cytokinesis	7227	pav,CG1258	P
+UniProtKB	Q8SXT9	pav	GO:0000281	mitotic cytokinesis	7227	pav,CG1258	P
+UniProtKB	Q8SY28	cv-c	GO:0000912	assembly of actomyosin apparatus involved in cytokinesis	7227	cv-c,CG8480,RhoGAP88C,CG34389	P
+UniProtKB	Q8T0Q4	shrb	GO:0000281	mitotic cytokinesis	7227	shrb,CHMP4C,DmSNF2,Dmel\CG8055,Dvps32,ESCRT,ESCRT-III,Shrb,Shrub,Snf7,Vps32,anon-WO0118547.180,snf7,vps32,CG8055,Dmel_CG8055	P
+UniProtKB	Q8T0Q4	shrb	GO:0000281	mitotic cytokinesis	7227	shrb,CHMP4C,DmSNF2,Dmel\CG8055,Dvps32,ESCRT,ESCRT-III,Shrb,Shrub,Snf7,Vps32,anon-WO0118547.180,snf7,vps32,CG8055,Dmel_CG8055	P
+UniProtKB	Q8T3L2	vib	GO:0000916	actomyosin contractile ring contraction	7227	vib,CG5269	P
+UniProtKB	Q8T3L2	vib	GO:0000915	actomyosin contractile ring assembly	7227	vib,CG5269	P
+UniProtKB	Q8T3L2	vib	GO:0033206	meiotic cytokinesis	7227	vib,CG5269	P
+UniProtKB	Q8T3L2	vib	GO:0031566	actomyosin contractile ring maintenance	7227	vib,CG5269	P
+UniProtKB	Q8T3L2	vib	GO:0007112	male meiosis cytokinesis	7227	vib,CG5269	P
+UniProtKB	Q8T3L2	vib	GO:0007111	meiosis II cytokinesis	7227	vib,CG5269	P
+UniProtKB	Q8T3L2	vib	GO:0007110	meiosis I cytokinesis	7227	vib,CG5269	P
+UniProtKB	Q8VWF1	SH3P2	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	SH3P2,At4g34660,T4L20.240	P
+UniProtKB	Q8VYR4	CSLG2	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLG2,At4g24000,T19F6.18,T32A16.170	P
+UniProtKB	Q8VZK9	CSLE1	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLE1,At1g55850,F14J16.9	P
+UniProtKB	Q8VZL1	At5g13260	GO:0000911	cytokinesis by cell plate formation	3702	At5g13260,T31B5.80,T31B5_80	P
+UniProtKB	Q8WT44	cyk-3	GO:1903673	mitotic cleavage furrow formation	6239	cyk-3,uch-1,ZK328.1	P
+UniProtKB	Q8WT44	cyk-3	GO:1903673	mitotic cleavage furrow formation	6239	cyk-3,uch-1,ZK328.1	P
+UniProtKB	Q8WUM4	PDCD6IP	GO:0000915	actomyosin contractile ring assembly	9606	PDCD6IP,AIP1,ALIX,KIAA1375	P
+UniProtKB	Q8WUM4	PDCD6IP	GO:0000281	mitotic cytokinesis	9606	PDCD6IP,AIP1,ALIX,KIAA1375	P
+UniProtKB	Q8WUM4	PDCD6IP	GO:0061952	midbody abscission	9606	PDCD6IP,AIP1,ALIX,KIAA1375	P
+UniProtKB	Q8WUX9	CHMP7	GO:0061952	midbody abscission	9606	CHMP7	P
+UniProtKB	Q8WV41	SNX33	GO:0000281	mitotic cytokinesis	9606	SNX33,SH3PX3,SH3PXD3C,SNX30	P
+UniProtKB	Q8WV41	SNX33	GO:0036089	cleavage furrow formation	9606	SNX33,SH3PX3,SH3PXD3C,SNX30	P
+UniProtKB	Q8WV41	SNX33	GO:0000281	mitotic cytokinesis	9606	SNX33,SH3PX3,SH3PXD3C,SNX30	P
+UniProtKB	Q8WV92	MITD1	GO:0000281	mitotic cytokinesis	9606	MITD1	P
+UniProtKB	Q8WV92	MITD1	GO:0061952	midbody abscission	9606	MITD1	P
+UniProtKB	Q8WV92	MITD1	GO:0061952	midbody abscission	9606	MITD1	P
+UniProtKB	Q8WWK9	CKAP2	GO:0000281	mitotic cytokinesis	9606	CKAP2,LB1,TMAP	P
+UniProtKB	Q8WWL2	SPIRE2	GO:0040038	polar body extrusion after meiotic divisions	9606	SPIRE2,KIAA1832,SPIR2	P
+UniProtKB	Q8WWL2	SPIRE2	GO:0036089	cleavage furrow formation	9606	SPIRE2,KIAA1832,SPIR2	P
+UniProtKB	Q8WWL2	SPIRE2	GO:0040038	polar body extrusion after meiotic divisions	9606	SPIRE2,KIAA1832,SPIR2	P
+UniProtKB	Q8WWL2	SPIRE2	GO:0036089	cleavage furrow formation	9606	SPIRE2,KIAA1832,SPIR2	P
+UniProtKB	Q8WWL2	SPIRE2	GO:0036089	cleavage furrow formation	9606	SPIRE2,KIAA1832,SPIR2	P
+UniProtKB	Q8WWL2	SPIRE2	GO:0040038	polar body extrusion after meiotic divisions	9606	SPIRE2,KIAA1832,SPIR2	P
+UniProtKB	Q8WYJ6	SEPTIN1	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN1,DIFF6,PNUTL3,SEPT1	P
+UniProtKB	Q90Y37	rock2a	GO:0000281	mitotic cytokinesis	7955	rock2a,rock2	P
+UniProtKB	Q90Z07	unc119a	GO:0000281	mitotic cytokinesis	7955	unc119a	P
+UniProtKB	Q90Z09	unc119b	GO:0000281	mitotic cytokinesis	7955	unc119b,unc119.2	P
+UniProtKB	Q92599	SEPTIN8	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN8,KIAA0202,SEPT8	P
+UniProtKB	Q941L0	CESA3	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA3,ATHB,CEV1,ELI1,IXR1,RSW5,At5g05170,K2A11.4	P
+UniProtKB	Q941L0	CESA3	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA3,ATHB,CEV1,ELI1,IXR1,RSW5,At5g05170,K2A11.4	P
+UniProtKB	Q944A9	NPSN11	GO:0000911	cytokinesis by cell plate formation	3702	NPSN11,At2g35190,T4C15.14	P
+UniProtKB	Q94F88	CMT3	GO:0010069	zygote asymmetric cytokinesis in embryo sac	3702	CMT3,At1g69770,T6C23.3	P
+UniProtKB	Q94FL6	MYB124	GO:0010235	guard mother cell cytokinesis	3702	MYB124,FLP,At1g14350,F14L17.12	P
+UniProtKB	Q94FN2	MOR1	GO:0000911	cytokinesis by cell plate formation	3702	MOR1,GEM1,RID5,At2g35630,T20F21.17	P
+UniProtKB	Q94FN2	MOR1	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	MOR1,GEM1,RID5,At2g35630,T20F21.17	P
+UniProtKB	Q94JQ6	CESA6	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA6,IXR2,PRC1,QUI,At5g64740,MVP7.7	P
+UniProtKB	Q94JQ6	CESA6	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA6,IXR2,PRC1,QUI,At5g64740,MVP7.7	P
+UniProtKB	Q95R61	Incenp	GO:0000281	mitotic cytokinesis	7227	Incenp,CG12165	P
+UniProtKB	Q95R61	Incenp	GO:0000281	mitotic cytokinesis	7227	Incenp,CG12165	P
+UniProtKB	Q95R90	Ocrl	GO:0000281	mitotic cytokinesis	7227	Ocrl,EG:86E4.5,CG3573	P
+UniProtKB	Q95R90	Ocrl	GO:0032187	actomyosin contractile ring localization	7227	Ocrl,EG:86E4.5,CG3573	P
+UniProtKB	Q95RH7	Rab35	GO:0000281	mitotic cytokinesis	7227	Rab35,CG9575	P
+UniProtKB	Q95RN2	Septin4	GO:0061640	cytoskeleton-dependent cytokinesis	7227	Septin4,Sep4,CG9699	P
+UniProtKB	Q95SR3	Grip128	GO:0007112	male meiosis cytokinesis	7227	Grip128,CG9201	P
+UniProtKB	Q95ZK7	gld-3	GO:0000281	mitotic cytokinesis	6239	gld-3,T07F8.3	P
+UniProtKB	Q960D2	Cnb	GO:1902410	mitotic cytokinetic process	7227	Cnb,CG5690	P
+UniProtKB	Q960I4	Septin4	GO:0061640	cytoskeleton-dependent cytokinesis	7227	Septin4,Sep4,CG9699	P
+UniProtKB	Q961B0	Apc2	GO:0000281	mitotic cytokinesis	7227	Apc2,CG6193	P
+UniProtKB	Q961D4	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,rok,CG9774	P
+UniProtKB	Q961D4	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,rok,CG9774	P
+UniProtKB	Q961D4	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,rok,CG9774	P
+UniProtKB	Q961D4	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,rok,CG9774	P
+UniProtKB	Q961G1	Cog3	GO:0007112	male meiosis cytokinesis	7227	Cog3,CG3248	P
+UniProtKB	Q96CF2	CHMP4C	GO:0061952	midbody abscission	9606	CHMP4C,SHAX3	P
+UniProtKB	Q96FZ7	CHMP6	GO:0061952	midbody abscission	9606	CHMP6,VPS20	P
+UniProtKB	Q96GD4	AURKB	GO:0036089	cleavage furrow formation	9606	AURKB,AIK2,AIM1,AIRK2,ARK2,STK1,STK12,STK5	P
+UniProtKB	Q96GD4	AURKB	GO:0036089	cleavage furrow formation	9606	AURKB,AIK2,AIM1,AIRK2,ARK2,STK1,STK12,STK5	P
+UniProtKB	Q96PH1	NOX5	GO:0061640	cytoskeleton-dependent cytokinesis	9606	NOX5	P
+UniProtKB	Q96RF0	SNX18	GO:0000281	mitotic cytokinesis	9606	SNX18,SH3PXD3B,SNAG1	P
+UniProtKB	Q96RF0	SNX18	GO:0036089	cleavage furrow formation	9606	SNX18,SH3PXD3B,SNAG1	P
+UniProtKB	Q96RK4	BBS4	GO:0000281	mitotic cytokinesis	9606	BBS4	P
+UniProtKB	Q96WV2	SPCPB16A4.02c	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	SPCPB16A4.02c	P
+UniProtKB	Q99222	AFI1	GO:0000282	cellular bud site selection	559292	AFI1,YOR129C,YOR3296C	P
+UniProtKB	Q99222	AFI1	GO:0000282	cellular bud site selection	559292	AFI1,YOR129C,YOR3296C	P
+UniProtKB	Q99299	AIM44	GO:1990344	secondary cell septum biogenesis	559292	AIM44,YPL158C,P2570	P
+UniProtKB	Q99299	AIM44	GO:1990344	secondary cell septum biogenesis	559292	AIM44,YPL158C,P2570	P
+UniProtKB	Q99299	AIM44	GO:1903473	positive regulation of mitotic actomyosin contractile ring contraction	559292	AIM44,YPL158C,P2570	P
+UniProtKB	Q99323	zip	GO:0000281	mitotic cytokinesis	7227	zip,CG15792	P
+UniProtKB	Q99323	zip	GO:0000281	mitotic cytokinesis	7227	zip,CG15792	P
+UniProtKB	Q99719	SEPTIN5	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN5,PNUTL1,SEPT5	P
+UniProtKB	Q9BKJ2	fwd	GO:0000916	actomyosin contractile ring contraction	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9BKJ2	fwd	GO:0007112	male meiosis cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9BKJ2	fwd	GO:0007112	male meiosis cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9BKJ2	fwd	GO:0007112	male meiosis cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9BKJ2	fwd	GO:0007111	meiosis II cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9BKJ2	fwd	GO:0007110	meiosis I cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9BRK4	LZTS2	GO:0000281	mitotic cytokinesis	9606	LZTS2,KIAA1813,LAPSER1	P
+UniProtKB	Q9BST9	RTKN	GO:0000281	mitotic cytokinesis	9606	RTKN,RTKN1	P
+UniProtKB	Q9BST9	RTKN	GO:0000915	actomyosin contractile ring assembly	9606	RTKN,RTKN1	P
+UniProtKB	Q9BXF3	CECR2	GO:0061640	cytoskeleton-dependent cytokinesis	9606	CECR2,KIAA1740	P
+UniProtKB	Q9BXS6	NUSAP1	GO:0000281	mitotic cytokinesis	9606	NUSAP1,ANKT,BM-037,PRO0310	P
+UniProtKB	Q9BXS6	NUSAP1	GO:0000281	mitotic cytokinesis	9606	NUSAP1,ANKT,BM-037,PRO0310	P
+UniProtKB	Q9BXS6	NUSAP1	GO:0000281	mitotic cytokinesis	9606	NUSAP1,ANKT,BM-037,PRO0310	P
+UniProtKB	Q9BY43	CHMP4A	GO:0061952	midbody abscission	9606	CHMP4A,C14orf123,SHAX2,CDA04,HSPC134	P
+UniProtKB	Q9BZQ2	SHCBP1L	GO:0007112	male meiosis cytokinesis	9606	SHCBP1L,C1orf14	P
+UniProtKB	Q9BZX4	ROPN1B	GO:0061640	cytoskeleton-dependent cytokinesis	9606	ROPN1B	P
+UniProtKB	Q9C8V1	At1g33940	GO:0000914	phragmoplast assembly	3702	At1g33940,T3M13.4,T3M13_4	P
+UniProtKB	Q9C8V1	At1g33940	GO:0000911	cytokinesis by cell plate formation	3702	At1g33940,T3M13.4,T3M13_4	P
+UniProtKB	Q9FEE2	TON2	GO:0000913	preprophase band assembly	3702	TON2,EMB40,FASS,FASS1,FASS2,FS1,GDO,At5g18580,T28N17	P
+UniProtKB	Q9FHM4	MAP65-3	GO:0000911	cytokinesis by cell plate formation	3702	MAP65-3,PLE,At5g51600,K17N15.15	P
+UniProtKB	Q9FHM4	MAP65-3	GO:0000911	cytokinesis by cell plate formation	3702	MAP65-3,PLE,At5g51600,K17N15.15	P
+UniProtKB	Q9FJV0	MKK6	GO:0007112	male meiosis cytokinesis	3702	MKK6,ANQ1,At5g56580,MIK19.2	P
+UniProtKB	Q9FLP0	MAP65-1	GO:0000911	cytokinesis by cell plate formation	3702	MAP65-1,At5g55230,MCO15.18	P
+UniProtKB	Q9FMP8	ROPGAP6	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	ROPGAP6,At5g12150,MXC9.11	P
+UniProtKB	Q9FQ24	TON1B	GO:0000913	preprophase band assembly	3702	TON1B,At3g55005,F28P10.20	P
+UniProtKB	Q9FQ25	TON1A	GO:0000913	preprophase band assembly	3702	TON1A,TON1,At3g55000,F28P10	P
+UniProtKB	Q9FVR3	CSLD6	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLD6,At1g32180,F3C3.4	P
+UniProtKB	Q9FY61	TRS120	GO:0000919	cell plate assembly	3702	TRS120,VAN4,At5g11040,T5K6.30	P
+UniProtKB	Q9FY61	TRS120	GO:0000911	cytokinesis by cell plate formation	3702	TRS120,VAN4,At5g11040,T5K6.30	P
+UniProtKB	Q9GN62	par-4	GO:0031991	regulation of actomyosin contractile ring contraction	6239	par-4,Y59A8B.14	P
+UniProtKB	Q9GP63	Grip128	GO:0007112	male meiosis cytokinesis	7227	Grip128,grip128,CG9201	P
+UniProtKB	Q9H0H5	RACGAP1	GO:0000281	mitotic cytokinesis	9606	RACGAP1,KIAA1478,MGCRACGAP	P
+UniProtKB	Q9H0H5	RACGAP1	GO:0000281	mitotic cytokinesis	9606	RACGAP1,KIAA1478,MGCRACGAP	P
+UniProtKB	Q9H0H5	RACGAP1	GO:0000281	mitotic cytokinesis	9606	RACGAP1,KIAA1478,MGCRACGAP	P
+UniProtKB	Q9H0H5	RACGAP1	GO:0000281	mitotic cytokinesis	9606	RACGAP1,KIAA1478,MGCRACGAP	P
+UniProtKB	Q9H0H5	RACGAP1	GO:0000915	actomyosin contractile ring assembly	9606	RACGAP1,KIAA1478,MGCRACGAP	P
+UniProtKB	Q9H444	CHMP4B	GO:0000281	mitotic cytokinesis	9606	CHMP4B,C20orf178,SHAX1	P
+UniProtKB	Q9H444	CHMP4B	GO:0061952	midbody abscission	9606	CHMP4B,C20orf178,SHAX1	P
+UniProtKB	Q9H8V3	ECT2	GO:0000281	mitotic cytokinesis	9606	ECT2	P
+UniProtKB	Q9H8V3	ECT2	GO:0000281	mitotic cytokinesis	9606	ECT2	P
+UniProtKB	Q9HAW6	APC	GO:0000281	mitotic cytokinesis	9606	APC	P
+UniProtKB	Q9HD42	CHMP1A	GO:0061952	midbody abscission	9606	CHMP1A,CHMP1,KIAA0047,PCOLN3,PRSM1	P
+UniProtKB	Q9HGP5	acp2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	acp2,SPAC631.01c	P
+UniProtKB	Q9HGP5	acp2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	acp2,SPAC631.01c	P
+UniProtKB	Q9HGP5	acp2	GO:1902404	mitotic actomyosin contractile ring contraction	284812	acp2,SPAC631.01c	P
+UniProtKB	Q9I7I0	CycB3	GO:0000281	mitotic cytokinesis	7227	CycB3,CG5814	P
+UniProtKB	Q9I7I0	CycB3	GO:0000281	mitotic cytokinesis	7227	CycB3,CG5814	P
+UniProtKB	Q9I7I0	CycB3	GO:0000281	mitotic cytokinesis	7227	CycB3,CG5814	P
+UniProtKB	Q9I7U5	Cnb	GO:1902410	mitotic cytokinetic process	7227	Cnb,CNB,Dmel\CG5690,anon-62BCa,cDNA C,cnb,CG5690,Dmel_CG5690	P
+UniProtKB	Q9LDN0	KIN12A	GO:0007112	male meiosis cytokinesis	3702	KIN12A,PAKRP1,At4g14150,FCAALL.159,dl3115c	P
+UniProtKB	Q9LE82	RANGAP1	GO:0000911	cytokinesis by cell plate formation	3702	RANGAP1,At3g63130,T20O10.230	P
+UniProtKB	Q9LFL0	CSLD2	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLD2,At5g16910,F2K13.60	P
+UniProtKB	Q9LQT8	GAI	GO:0033206	meiotic cytokinesis	3702	GAI,RGA2,At1g14920,F10B6.34	P
+UniProtKB	Q9LSZ6	Q9LSZ6	GO:0000911	cytokinesis by cell plate formation	3702		P
+UniProtKB	Q9LT31	VPS9A	GO:0000919	cell plate assembly	3702	VPS9A,VPS9,At3g19770,MMB12.26	P
+UniProtKB	Q9LUI3	TSO1	GO:0010235	guard mother cell cytokinesis	3702	TSO1,At3g22780,MWI23.15	P
+UniProtKB	Q9LX99	KIN14A	GO:0000913	preprophase band assembly	3702	KIN14A,GRIMP,KAC1,KCA1,KSN1,TH65,At5g10470,F12B17.180	P
+UniProtKB	Q9LX99	KIN14A	GO:0000911	cytokinesis by cell plate formation	3702	KIN14A,GRIMP,KAC1,KCA1,KSN1,TH65,At5g10470,F12B17.180	P
+UniProtKB	Q9LYV0	T31B5_80	GO:0000911	cytokinesis by cell plate formation	3702	T31B5_80	P
+UniProtKB	Q9M2F2	F14P22.240	GO:0000913	preprophase band assembly	3702	F14P22.240,TON1 Recruiting Motif 7,TRM7,At3g58650	P
+UniProtKB	Q9M3B8	PHIP1	GO:0000914	phragmoplast assembly	3702	PHIP1,At3g55340,T26I12.220	P
+UniProtKB	Q9M3B8	PHIP1	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	PHIP1,At3g55340,T26I12.220	P
+UniProtKB	Q9M9M4	CSLD3	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLD3,KJK,At3g03050,T17B22.26	P
+UniProtKB	Q9N425	csn-3	GO:0000281	mitotic cytokinesis	6239	csn-3,Y38C1AA.2	P
+UniProtKB	Q9N4B5	jtr-1	GO:0000281	mitotic cytokinesis	6239	jtr-1,CELE_Y77E11A.4,Y77E11A.4	P
+UniProtKB	Q9N574	cyp-31a3	GO:0040038	polar body extrusion after meiotic divisions	6239	cyp-31a3,cyp-31A3,CELE_Y17G9B.3,Y17G9B.3	P
+UniProtKB	Q9N9Z9	tum	GO:0000281	mitotic cytokinesis	7227	tum,RacGAP50C,acGAP,CG13345	P
+UniProtKB	Q9N9Z9	tum	GO:0000281	mitotic cytokinesis	7227	tum,RacGAP50C,acGAP,CG13345	P
+UniProtKB	Q9NQ86	TRIM36	GO:0000281	mitotic cytokinesis	9606	TRIM36,RBCC728,RNF98	P
+UniProtKB	Q9NQS7	INCENP	GO:0000281	mitotic cytokinesis	9606	INCENP	P
+UniProtKB	Q9NQS7	INCENP	GO:0000281	mitotic cytokinesis	9606	INCENP	P
+UniProtKB	Q9NQW6	ANLN	GO:0000915	actomyosin contractile ring assembly	9606	ANLN	P
+UniProtKB	Q9NQW6	ANLN	GO:0000281	mitotic cytokinesis	9606	ANLN	P
+UniProtKB	Q9NQW6	ANLN	GO:0000281	mitotic cytokinesis	9606	ANLN	P
+UniProtKB	Q9NQY0	BIN3	GO:0000917	division septum assembly	9606	BIN3	P
+UniProtKB	Q9NQY0	BIN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	BIN3	P
+UniProtKB	Q9NVA2	SEPTIN11	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN11,SEPT11	P
+UniProtKB	Q9NXW9	ALKBH4	GO:0036090	cleavage furrow ingression	9606	ALKBH4,ABH4	P
+UniProtKB	Q9NZ56	FMN2	GO:0040038	polar body extrusion after meiotic divisions	9606	FMN2	P
+UniProtKB	Q9NZZ3	CHMP5	GO:0061952	midbody abscission	9606	CHMP5,C9orf83,SNF7DC2,CGI-34,HSPC177,PNAS-114,PNAS-2	P
+UniProtKB	Q9P0V9	SEPTIN10	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN10,SEPT10	P
+UniProtKB	Q9P378	gas1	GO:0000917	division septum assembly	284812	gas1,SPAC19B12.02c	P
+UniProtKB	Q9P6L9	SPAC688.07c	GO:0000281	mitotic cytokinesis	284812	SPAC688.07c	P
+UniProtKB	Q9P6L9	SPAC688.07c	GO:0140278	mitotic division septum assembly	284812	SPAC688.07c	P
+UniProtKB	Q9P6L9	SPAC688.07c	GO:0140278	mitotic division septum assembly	284812	SPAC688.07c	P
+UniProtKB	Q9P6S3	uds1	GO:0140278	mitotic division septum assembly	284812	uds1,SPBC27.04	P
+UniProtKB	Q9P7H1	clp1	GO:0000917	division septum assembly	284812	clp1,flp1,SPAC1782.09c	P
+UniProtKB	Q9P7H1	clp1	GO:1902406	mitotic actomyosin contractile ring maintenance	284812	clp1,flp1,SPAC1782.09c	P
+UniProtKB	Q9PUU5	kif23	GO:0000281	mitotic cytokinesis	7955	kif23,zMKLP1	P
+UniProtKB	Q9PUU5	kif23	GO:0036089	cleavage furrow formation	7955	kif23,zMKLP1	P
+UniProtKB	Q9S7P9	SNAP33	GO:0000911	cytokinesis by cell plate formation	3702	SNAP33,SNAP33B,At5g61210,MAF19.21	P
+UniProtKB	Q9SJ22	CESA9	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA9,CESA09,At2g21770,F7D8.9	P
+UniProtKB	Q9SKJ5	CESA10	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA10,CESA13,At2g25540,F13B15.20	P
+UniProtKB	Q9SKJ5	CESA10	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA10,CESA13,At2g25540,F13B15.20	P
+UniProtKB	Q9SLH3	RGA	GO:0033206	meiotic cytokinesis	3702	RGA,GRS,RGA1,At2g01570,F2I9.19	P
+UniProtKB	Q9SRE4	URGT1	GO:0009833	plant-type primary cell wall biogenesis	3702	URGT1,UDP-GALT2,At1g76670,F28O16.4	P
+UniProtKB	Q9SRW9	CSLD5	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLD5,At1g02730,F22D16.26	P
+UniProtKB	Q9SRW9	CSLD5	GO:0000919	cell plate assembly	3702	CSLD5,At1g02730,F22D16.26	P
+UniProtKB	Q9SW19	F13M23.210	GO:0000911	cytokinesis by cell plate formation	3702	F13M23.210,At4g25070	P
+UniProtKB	Q9SW20	F13M23.200	GO:0000911	cytokinesis by cell plate formation	3702	F13M23.200,At4g25060,At4g25070	P
+UniProtKB	Q9SWW6	CESA7	GO:0009833	plant-type primary cell wall biogenesis	3702	CESA7,FRA5,IRX3,At5g17420,T10B6.80	P
+UniProtKB	Q9SZL9	CSLD4	GO:0009833	plant-type primary cell wall biogenesis	3702	CSLD4,At4g38190,F20D10.310	P
+UniProtKB	Q9U1K1	spir	GO:0036089	cleavage furrow formation	7227	spir,p150-Spir,CG10076	P
+UniProtKB	Q9U1K1	spir	GO:0040038	polar body extrusion after meiotic divisions	7227	spir,p150-Spir,CG10076	P
+UniProtKB	Q9U277	unc-61	GO:0061640	cytoskeleton-dependent cytokinesis	6239	unc-61,CELE_Y50E8A.4,Y50E8A.4	P
+UniProtKB	Q9U334	unc-59	GO:0061640	cytoskeleton-dependent cytokinesis	6239	unc-59,CELE_W09C5.2,W09C5.2	P
+UniProtKB	Q9U364	ect-2	GO:0000281	mitotic cytokinesis	6239	ect-2,CELE_T19E10.1,T19E10.1	P
+UniProtKB	Q9U364	ect-2	GO:0000281	mitotic cytokinesis	6239	ect-2,CELE_T19E10.1,T19E10.1	P
+UniProtKB	Q9U364	ect-2	GO:0000281	mitotic cytokinesis	6239	ect-2,CELE_T19E10.1,T19E10.1	P
+UniProtKB	Q9U779	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,Rhk,rok,CG9774	P
+UniProtKB	Q9U779	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,Rhk,rok,CG9774	P
+UniProtKB	Q9U779	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,Rhk,rok,CG9774	P
+UniProtKB	Q9U779	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,Rhk,rok,CG9774	P
+UniProtKB	Q9U7D8	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RA	P
+UniProtKB	Q9U7D8	pbl	GO:0000915	actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RA	P
+UniProtKB	Q9U7D8	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RA	P
+UniProtKB	Q9U7D8	pbl	GO:0000281	mitotic cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RA	P
+UniProtKB	Q9U7D8	pbl	GO:0007111	meiosis II cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RA	P
+UniProtKB	Q9U7D8	pbl	GO:0007110	meiosis I cytokinesis	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RA	P
+UniProtKB	Q9U7D8	pbl	GO:1903475	mitotic actomyosin contractile ring assembly	7227	pbl,0083,0293,03,0542,09,20,Dmel\CG8114,ECT2,Ect-2,Ect2,GEF,PBL,Pbl,Peb,anon-WO0172774.22,anon-WO0172774.25,l(3)09645,pbl-RA	P
+UniProtKB	Q9UBP0	SPAST	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SPAST,ADPSP,FSP2,KIAA1083,SPG4	P
+UniProtKB	Q9UBP0	SPAST	GO:0000281	mitotic cytokinesis	9606	SPAST,ADPSP,FSP2,KIAA1083,SPG4	P
+UniProtKB	Q9UBP0	SPAST	GO:0032506	cytokinetic process	9606	SPAST,ADPSP,FSP2,KIAA1083,SPG4	P
+UniProtKB	Q9UBP0	SPAST	GO:0032506	cytokinetic process	9606	SPAST,ADPSP,FSP2,KIAA1083,SPG4	P
+UniProtKB	Q9UH03	SEPTIN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN3,SEP3,SEPT3	P
+UniProtKB	Q9UHD8	SEPTIN9	GO:0061640	cytoskeleton-dependent cytokinesis	9606	SEPTIN9,KIAA0991,MSF,SEPT9	P
+UniProtKB	Q9UN37	VPS4A	GO:0000916	actomyosin contractile ring contraction	9606	VPS4A,VPS4	P
+UniProtKB	Q9UN37	VPS4A	GO:0061640	cytoskeleton-dependent cytokinesis	9606	VPS4A,VPS4	P
+UniProtKB	Q9UN37	VPS4A	GO:0061952	midbody abscission	9606	VPS4A,VPS4	P
+UniProtKB	Q9UQN3	CHMP2B	GO:0061952	midbody abscission	9606	CHMP2B,CGI-84	P
+UniProtKB	Q9USI6	myo2	GO:1903478	actin filament bundle convergence involved in mitotic contractile ring assembly	284812	myo2,SPCC645.05c	P
+UniProtKB	Q9USI6	myo2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	myo2,SPCC645.05c	P
+UniProtKB	Q9USI6	myo2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	myo2,SPCC645.05c	P
+UniProtKB	Q9USI6	myo2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	myo2,SPCC645.05c	P
+UniProtKB	Q9USI6	myo2	GO:1903475	mitotic actomyosin contractile ring assembly	284812	myo2,SPCC645.05c	P
+UniProtKB	Q9USI6	myo2	GO:1902404	mitotic actomyosin contractile ring contraction	284812	myo2,SPCC645.05c	P
+UniProtKB	Q9USI6	myo2	GO:1902404	mitotic actomyosin contractile ring contraction	284812	myo2,SPCC645.05c	P
+UniProtKB	Q9USK8	ags1	GO:0031671	primary cell septum biogenesis	284812	ags1,mok1,SPCC1281.01,SPCC17A7.01,SPCC338.01c	P
+UniProtKB	Q9USP7	SPBC902.06	GO:1902405	mitotic actomyosin contractile ring localization	284812	SPBC902.06	P
+UniProtKB	Q9UT52	mod21	GO:0000917	division septum assembly	284812	mod21,SPAC806.08c	P
+UniProtKB	Q9UTR5	rgf2	GO:0000917	division septum assembly	284812	rgf2,SPAC1006.06	P
+UniProtKB	Q9UUG5	rlc1	GO:1902404	mitotic actomyosin contractile ring contraction	284812	rlc1,SPAC926.03	P
+UniProtKB	Q9UUM7	hob3	GO:0000917	division septum assembly	284812	hob3,SPBC725.09c	P
+UniProtKB	Q9UUM7	hob3	GO:1903475	mitotic actomyosin contractile ring assembly	284812	hob3,SPBC725.09c	P
+UniProtKB	Q9V466	Nup107	GO:0007112	male meiosis cytokinesis	7227	Nup107,CG6743	P
+UniProtKB	Q9V466	Nup107	GO:0007110	meiosis I cytokinesis	7227	Nup107,CG6743	P
+UniProtKB	Q9V4P1	scra	GO:0000915	actomyosin contractile ring assembly	7227	scra,ani,CG2092	P
+UniProtKB	Q9V4P1	scra	GO:0000281	mitotic cytokinesis	7227	scra,ani,CG2092	P
+UniProtKB	Q9V4P1	scra	GO:0000281	mitotic cytokinesis	7227	scra,ani,CG2092	P
+UniProtKB	Q9V4P1	scra	GO:0000281	mitotic cytokinesis	7227	scra,ani,CG2092	P
+UniProtKB	Q9V4P1	scra	GO:0000281	mitotic cytokinesis	7227	scra,ani,CG2092	P
+UniProtKB	Q9V4P1	scra	GO:0032189	maintenance of actomyosin contractile ring localization	7227	scra,ani,CG2092	P
+UniProtKB	Q9V4P1	scra	GO:0007112	male meiosis cytokinesis	7227	scra,ani,CG2092	P
+UniProtKB	Q9V4P1	scra	GO:0000915	actomyosin contractile ring assembly	7227	scra,ani,CG2092	P
+UniProtKB	Q9V4P1	scra	GO:0000281	mitotic cytokinesis	7227	scra,ani,CG2092	P
+UniProtKB	Q9VAD6	Cog7	GO:0000916	actomyosin contractile ring contraction	7227	Cog7,CG31040	P
+UniProtKB	Q9VAD6	Cog7	GO:0007112	male meiosis cytokinesis	7227	Cog7,CG31040	P
+UniProtKB	Q9VB05	ALiX	GO:0000281	mitotic cytokinesis	7227	ALiX,AIP1,ALIX,Aip1,Alix,DAIP1,Dmel\CG12876,Snf7,alix,CG12876,Dmel_CG12876	P
+UniProtKB	Q9VBI4	Exo84	GO:0000916	actomyosin contractile ring contraction	7227	Exo84,DExo84,Dmel\CG6095,Exo84p,anon-WO0153538.55,exo84,onr,CG6095,Dmel_CG6095	P
+UniProtKB	Q9VBI4	Exo84	GO:0007111	meiosis II cytokinesis	7227	Exo84,DExo84,Dmel\CG6095,Exo84p,anon-WO0153538.55,exo84,onr,CG6095,Dmel_CG6095	P
+UniProtKB	Q9VBI4	Exo84	GO:0007110	meiosis I cytokinesis	7227	Exo84,DExo84,Dmel\CG6095,Exo84p,anon-WO0153538.55,exo84,onr,CG6095,Dmel_CG6095	P
+UniProtKB	Q9VC08	Mink	GO:0000281	mitotic cytokinesis	7227	Mink,Dmel\CG11120,CG11120,Dmel_CG11120	P
+UniProtKB	Q9VC08	Mink	GO:0000281	mitotic cytokinesis	7227	Mink,Dmel\CG11120,CG11120,Dmel_CG11120	P
+UniProtKB	Q9VCY7	bond	GO:0000915	actomyosin contractile ring assembly	7227	bond,Dmel\CG6921,James bond,CG6921,Dmel_CG6921	P
+UniProtKB	Q9VCY7	bond	GO:0007112	male meiosis cytokinesis	7227	bond,Dmel\CG6921,James bond,CG6921,Dmel_CG6921	P
+UniProtKB	Q9VCY7	bond	GO:0007111	meiosis II cytokinesis	7227	bond,Dmel\CG6921,James bond,CG6921,Dmel_CG6921	P
+UniProtKB	Q9VCY7	bond	GO:0007110	meiosis I cytokinesis	7227	bond,Dmel\CG6921,James bond,CG6921,Dmel_CG6921	P
+UniProtKB	Q9VDI1	Synd	GO:0000281	mitotic cytokinesis	7227	Synd,CG15694,D-Synd,Dmel\CG33094,synd,syndapin,CG33094,Dmel_CG33094	P
+UniProtKB	Q9VDI1	Synd	GO:0007112	male meiosis cytokinesis	7227	Synd,CG15694,D-Synd,Dmel\CG33094,synd,syndapin,CG33094,Dmel_CG33094	P
+UniProtKB	Q9VDI1	Synd	GO:0036090	cleavage furrow ingression	7227	Synd,CG15694,D-Synd,Dmel\CG33094,synd,syndapin,CG33094,Dmel_CG33094	P
+UniProtKB	Q9VDY8	vib	GO:0000916	actomyosin contractile ring contraction	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	Q9VDY8	vib	GO:0000915	actomyosin contractile ring assembly	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	Q9VDY8	vib	GO:0033206	meiotic cytokinesis	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	Q9VDY8	vib	GO:0031566	actomyosin contractile ring maintenance	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	Q9VDY8	vib	GO:0007112	male meiosis cytokinesis	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	Q9VDY8	vib	GO:0007111	meiosis II cytokinesis	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	Q9VDY8	vib	GO:0007110	meiosis I cytokinesis	7227	vib,02,0450,1104,16,Dm-PITPalpha,Dmel\CG5269,Gio,PITP,PITP-DM,Vib,anon-WO0142479.3,anon-WO0172774.12,anon-WO0172774.16,anon-WO0172774.28,gio,giotto,l(3)S045002,l(3)S045002c	P
+UniProtKB	Q9VEM2	Det	GO:0000915	actomyosin contractile ring assembly	7227	Det,Dmel\CG12265,det,scpo,svn,CG12265,Dmel_CG12265	P
+UniProtKB	Q9VEM2	Det	GO:0000281	mitotic cytokinesis	7227	Det,Dmel\CG12265,det,scpo,svn,CG12265,Dmel_CG12265	P
+UniProtKB	Q9VEM2	Det	GO:0033206	meiotic cytokinesis	7227	Det,Dmel\CG12265,det,scpo,svn,CG12265,Dmel_CG12265	P
+UniProtKB	Q9VEM2	Det	GO:0007111	meiosis II cytokinesis	7227	Det,Dmel\CG12265,det,scpo,svn,CG12265,Dmel_CG12265	P
+UniProtKB	Q9VEM2	Det	GO:0007110	meiosis I cytokinesis	7227	Det,Dmel\CG12265,det,scpo,svn,CG12265,Dmel_CG12265	P
+UniProtKB	Q9VFK2	cv-c	GO:0000912	assembly of actomyosin apparatus involved in cytokinesis	7227	cv-c,CG14845,CG14846,CG14847,CG14848,CG14849,CG31319,CG31330,CG8480,Cv-c,Dmel\CG34389,RhoGAP88C,cv-c-RA,l(3)06951,rhoGAP88C,CG34389,Dmel_CG34389	P
+UniProtKB	Q9VGP1	CG5270	GO:0000281	mitotic cytokinesis	7227	CG5270	P
+UniProtKB	Q9VIL0	brun	GO:0000916	actomyosin contractile ring contraction	7227	brun,bru,CG2478	P
+UniProtKB	Q9VIL0	brun	GO:0000916	actomyosin contractile ring contraction	7227	brun,bru,CG2478	P
+UniProtKB	Q9VIL0	brun	GO:0007112	male meiosis cytokinesis	7227	brun,bru,CG2478	P
+UniProtKB	Q9VIL0	brun	GO:0007111	meiosis II cytokinesis	7227	brun,bru,CG2478	P
+UniProtKB	Q9VIL0	brun	GO:0007110	meiosis I cytokinesis	7227	brun,bru,CG2478	P
+UniProtKB	Q9VIP0	nesd	GO:0007112	male meiosis cytokinesis	7227	nesd,CG10722	P
+UniProtKB	Q9VIP0	nesd	GO:0007112	male meiosis cytokinesis	7227	nesd,CG10722	P
+UniProtKB	Q9VJD3	fws	GO:0000916	actomyosin contractile ring contraction	7227	fws,CG6549	P
+UniProtKB	Q9VJD3	fws	GO:0007111	meiosis II cytokinesis	7227	fws,CG6549	P
+UniProtKB	Q9VJD3	fws	GO:0007110	meiosis I cytokinesis	7227	fws,CG6549	P
+UniProtKB	Q9VJD3	fws	GO:0007112	male meiosis cytokinesis	7227	fws,CG6549	P
+UniProtKB	Q9VKJ9	l(2)gd1	GO:0000281	mitotic cytokinesis	7227	l(2)gd1,lgd,CG4713	P
+UniProtKB	Q9VKN7	aurB	GO:0000281	mitotic cytokinesis	7227	aurB,ial,CG6620	P
+UniProtKB	Q9VKN7	aurB	GO:0000281	mitotic cytokinesis	7227	aurB,ial,CG6620	P
+UniProtKB	Q9VKN7	aurB	GO:0061952	midbody abscission	7227	aurB,ial,CG6620	P
+UniProtKB	Q9VKU7	Grip75	GO:0007112	male meiosis cytokinesis	7227	Grip75,75p,CG6176	P
+UniProtKB	Q9VLD7	aust	GO:0007112	male meiosis cytokinesis	7227	aust,Aust,Dmel\CG17009,aust-RA,CG17009,Dmel_CG17009	P
+UniProtKB	Q9VLP4	mtsh	GO:0007112	male meiosis cytokinesis	7227	mtsh,CG7795	P
+UniProtKB	Q9VME5	slam	GO:0036090	cleavage furrow ingression	7227	slam,Dmel\CG9506,Slam,wdo,CG9506,Dmel_CG9506	P
+UniProtKB	Q9VME5	slam	GO:0036089	cleavage furrow formation	7227	slam,Dmel\CG9506,Slam,wdo,CG9506,Dmel_CG9506	P
+UniProtKB	Q9VNH6	Sec8	GO:0000916	actomyosin contractile ring contraction	7227	Sec8,CG2095	P
+UniProtKB	Q9VNH6	Sec8	GO:0007111	meiosis II cytokinesis	7227	Sec8,CG2095	P
+UniProtKB	Q9VNH6	Sec8	GO:0007110	meiosis I cytokinesis	7227	Sec8,CG2095	P
+UniProtKB	Q9VQ93	sau	GO:0000915	actomyosin contractile ring assembly	7227	sau,GOLPH3,l(2)s5379,rti,CG7085	P
+UniProtKB	Q9VQ93	sau	GO:0000915	actomyosin contractile ring assembly	7227	sau,GOLPH3,l(2)s5379,rti,CG7085	P
+UniProtKB	Q9VQ93	sau	GO:0000281	mitotic cytokinesis	7227	sau,GOLPH3,l(2)s5379,rti,CG7085	P
+UniProtKB	Q9VQ93	sau	GO:0007112	male meiosis cytokinesis	7227	sau,GOLPH3,l(2)s5379,rti,CG7085	P
+UniProtKB	Q9VQ93	sau	GO:0007111	meiosis II cytokinesis	7227	sau,GOLPH3,l(2)s5379,rti,CG7085	P
+UniProtKB	Q9VQ93	sau	GO:0007110	meiosis I cytokinesis	7227	sau,GOLPH3,l(2)s5379,rti,CG7085	P
+UniProtKB	Q9VQ93	sau	GO:0036089	cleavage furrow formation	7227	sau,GOLPH3,l(2)s5379,rti,CG7085	P
+UniProtKB	Q9VS46	Rint1	GO:0007112	male meiosis cytokinesis	7227	Rint1,CG8605	P
+UniProtKB	Q9VS46	Rint1	GO:0036090	cleavage furrow ingression	7227	Rint1,CG8605	P
+UniProtKB	Q9VSH8	Pex2	GO:0007112	male meiosis cytokinesis	7227	Pex2,DmelPex2,Dmel\CG7081,PEX2,pex2,CG7081,Dmel_CG7081	P
+UniProtKB	Q9VSW5	Klp67A	GO:0007110	meiosis I cytokinesis	7227	Klp67A,0427,05,B,DmKlp67A,Dmel\CG10923,KIF 18A,KIF18A,KLP3,KLP67A,KRP67A,Kin-8,Klp3,Klp67,anon-WO0140519.224,anon-WO0172774.120,klp67,klp67A,l(3)S042705	P
+UniProtKB	Q9VTY8	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,sti-RA,CG10522,Dmel_CG10522	P
+UniProtKB	Q9VTY8	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,sti-RA,CG10522,Dmel_CG10522	P
+UniProtKB	Q9VTY8	sti	GO:0000915	actomyosin contractile ring assembly	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,sti-RA,CG10522,Dmel_CG10522	P
+UniProtKB	Q9VTY8	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,sti-RA,CG10522,Dmel_CG10522	P
+UniProtKB	Q9VTY8	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,sti-RA,CG10522,Dmel_CG10522	P
+UniProtKB	Q9VTY8	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,sti-RA,CG10522,Dmel_CG10522	P
+UniProtKB	Q9VTY8	sti	GO:0000281	mitotic cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,sti-RA,CG10522,Dmel_CG10522	P
+UniProtKB	Q9VTY8	sti	GO:0007112	male meiosis cytokinesis	7227	sti,CIT,CIT-K,Citron,Citron K,DCK,Dmel\CG10522,STI,anon-WO0118547.388,cit,ck,dck,l(3)7m-62,l(3)7m62,l(3)SG21,sti-RA,CG10522,Dmel_CG10522	P
+UniProtKB	Q9VXE3	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	Q9VXE3	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	Q9VXE3	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	Q9VXE3	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	Q9VXE3	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	Q9VXP5	Efhc1.1	GO:0000281	mitotic cytokinesis	7227	Efhc1.1,Dmel\CG8959,CG8959,Dmel_CG8959	P
+UniProtKB	Q9VXU8	Grip128	GO:0007112	male meiosis cytokinesis	7227	Grip128,DGrip128,Dgrip128,Dgrips128,Dmel\CG9201,GCP5,Grip 128,grip,grip128,CG9201,Dmel_CG9201	P
+UniProtKB	Q9VZF5	pav	GO:0000916	actomyosin contractile ring contraction	7227	pav,08,0934,0973,13,2A12,2A12MEL,DmKLP1,DmMKLP1,DmPAV,DmPav,Dmel\CG1258,KIF 23,KIF23,KLP,MKLP1,Mklp1,PAV,PAV-KLP	P
+UniProtKB	Q9VZF5	pav	GO:0000281	mitotic cytokinesis	7227	pav,08,0934,0973,13,2A12,2A12MEL,DmKLP1,DmMKLP1,DmPAV,DmPav,Dmel\CG1258,KIF 23,KIF23,KLP,MKLP1,Mklp1,PAV,PAV-KLP	P
+UniProtKB	Q9VZF5	pav	GO:0000281	mitotic cytokinesis	7227	pav,08,0934,0973,13,2A12,2A12MEL,DmKLP1,DmMKLP1,DmPAV,DmPav,Dmel\CG1258,KIF 23,KIF23,KLP,MKLP1,Mklp1,PAV,PAV-KLP	P
+UniProtKB	Q9W0B8	alphaCOP	GO:0007112	male meiosis cytokinesis	7227	alphaCOP,Dmel\CG7961,alpha-COP,alpha-Cop,alphaCop,CG7961,Dmel_CG7961	P
+UniProtKB	Q9W0D7	Pex10	GO:0007112	male meiosis cytokinesis	7227	Pex10,DmelPex10,Dmel\CG7864,PEX10,pex10,CG7864,Dmel_CG7864	P
+UniProtKB	Q9W0R8	fwd	GO:0000916	actomyosin contractile ring contraction	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9W0R8	fwd	GO:0007112	male meiosis cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9W0R8	fwd	GO:0007112	male meiosis cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9W0R8	fwd	GO:0007112	male meiosis cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9W0R8	fwd	GO:0007111	meiosis II cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9W0R8	fwd	GO:0007110	meiosis I cytokinesis	7227	fwd,Dmel\CG7004,Fwd,PI4K,PI4K3B,PI4KIIIbeta,anon-WO0118547.259,CG7004,Dmel_CG7004	P
+UniProtKB	Q9W1L2	CG4093	GO:0000915	actomyosin contractile ring assembly	7227	CG4093,CG4530,Dmel\CG30183,CG30183,Dmel_CG30183	P
+UniProtKB	Q9W1L2	CG4093	GO:0000281	mitotic cytokinesis	7227	CG4093,CG4530,Dmel\CG30183,CG30183,Dmel_CG30183	P
+UniProtKB	Q9W1L2	CG4093	GO:0000281	mitotic cytokinesis	7227	CG4093,CG4530,Dmel\CG30183,CG30183,Dmel_CG30183	P
+UniProtKB	Q9W1V8	DCTN3-p24	GO:0061640	cytoskeleton-dependent cytokinesis	7227	DCTN3-p24,DCTN3,Dmel\CG9893,P24,l(2)06 496,l(2)06496,p22,p24,CG9893,Dmel_CG9893	P
+UniProtKB	Q9W1V8	DCTN3-p24	GO:0061640	cytoskeleton-dependent cytokinesis	7227	DCTN3-p24,DCTN3,Dmel\CG9893,P24,l(2)06 496,l(2)06496,p22,p24,CG9893,Dmel_CG9893	P
+UniProtKB	Q9W4X9	Zw10	GO:0007112	male meiosis cytokinesis	7227	Zw10,mit(1)15,CG9900	P
+UniProtKB	Q9W4X9	Zw10	GO:0007107	membrane addition at site of cytokinesis	7227	Zw10,mit(1)15,CG9900	P
+UniProtKB	Q9W4X9	Zw10	GO:0036090	cleavage furrow ingression	7227	Zw10,mit(1)15,CG9900	P
+UniProtKB	Q9W5X0	Rab35	GO:0000281	mitotic cytokinesis	7227	Rab35,DRab35,DmRab35,Dmel\CG9575,Q95RH7,Rab35 CES,dRab35,rab35,CG9575,Dmel_CG9575	P
+UniProtKB	Q9XTB5	lem-2	GO:0000281	mitotic cytokinesis	6239	lem-2,W01G7.5	P
+UniProtKB	Q9XTF3	mbk-2	GO:0000281	mitotic cytokinesis	6239	mbk-2,F49E11.1	P
+UniProtKB	Q9XTT4	ani-1	GO:0000281	mitotic cytokinesis	6239	ani-1,Y49E10.19	P
+UniProtKB	Q9XTT4	ani-1	GO:0000915	actomyosin contractile ring assembly	6239	ani-1,Y49E10.19	P
+UniProtKB	Q9XTT4	ani-1	GO:0040038	polar body extrusion after meiotic divisions	6239	ani-1,Y49E10.19	P
+UniProtKB	Q9XUS9	cyk-4	GO:0000281	mitotic cytokinesis	6239	cyk-4,CELE_K08E3.6,K08E3.6	P
+UniProtKB	Q9XUS9	cyk-4	GO:0000281	mitotic cytokinesis	6239	cyk-4,CELE_K08E3.6,K08E3.6	P
+UniProtKB	Q9XUS9	cyk-4	GO:1990386	mitotic cleavage furrow ingression	6239	cyk-4,CELE_K08E3.6,K08E3.6	P
+UniProtKB	Q9XUS9	cyk-4	GO:0040038	polar body extrusion after meiotic divisions	6239	cyk-4,CELE_K08E3.6,K08E3.6	P
+UniProtKB	Q9XUS9	cyk-4	GO:0040038	polar body extrusion after meiotic divisions	6239	cyk-4,CELE_K08E3.6,K08E3.6	P
+UniProtKB	Q9XVI9	mlc-5	GO:0000281	mitotic cytokinesis	6239	mlc-5,T12D8.6	P
+UniProtKB	Q9XWN6	ani-3	GO:0000915	actomyosin contractile ring assembly	6239	ani-3,Y43F8C.14	P
+UniProtKB	Q9XWN6	ani-3	GO:0000281	mitotic cytokinesis	6239	ani-3,Y43F8C.14	P
+UniProtKB	Q9XWW8	efhc-1	GO:0000281	mitotic cytokinesis	6239	efhc-1,CELE_Y49A10A.1,Y49A10A.1	P
+UniProtKB	Q9XZ29	Klp3A	GO:0007110	meiosis I cytokinesis	7227	Klp3A,3A7Kin,BcDNA:LD21815,DmKLP3A,DmKlp3A,Dmel\CG8590,EG:BACR25B3.9,KIF 4A,KIF4,KIF4A,KLP-3A,KLP3A,Klp 3A,Klp3a,fs(1)M4,klp3A,klp3a,mei-352,CG8590	P
+UniProtKB	Q9Y1T2	Apc2	GO:0000281	mitotic cytokinesis	7227	Apc2,APC,APC2,D-APC2,Dm APC2,Dmel\CG6193,E-APC,E-APC dAPC2,apc2,d-APC2,dAPC2,dApc2,dapc2,e-apc,CG6193,Dmel_CG6193	P
+UniProtKB	Q9Y3E7	CHMP3	GO:0061952	midbody abscission	9606	CHMP3,CGI149,NEDF,VPS24,CGI-149	P
+UniProtKB	Q9Y5X1	SNX9	GO:0000281	mitotic cytokinesis	9606	SNX9,SH3PX1,SH3PXD3A	P
+UniProtKB	Q9Y5X1	SNX9	GO:0036089	cleavage furrow formation	9606	SNX9,SH3PX1,SH3PXD3A	P
+UniProtKB	Q9Y5X1	SNX9	GO:0000281	mitotic cytokinesis	9606	SNX9,SH3PX1,SH3PXD3A	P
+UniProtKB	Q9Y705	alp4	GO:0000917	division septum assembly	284812	alp4,SPBC365.15	P
+UniProtKB	Q9Y7U5	rgf3	GO:0000917	division septum assembly	284812	rgf3,lad1,SPCC645.06c	P
+UniProtKB	Q9Y7U6	rgf1	GO:0000917	division septum assembly	284812	rgf1,SPCC645.07	P
+UniProtKB	Q9Y809	arm1	GO:1903475	mitotic actomyosin contractile ring assembly	284812	arm1,mdm20,SPBC1215.02c	P
+UniProtKB	Q9ZTW3	VAMP721	GO:0009920	cell plate formation involved in plant-type cell wall biogenesis	3702	VAMP721,VAMP7B,At1g04750,F13M7.26,F13M7_23,T1G11.1	P
+UniProtKB	Q9ZU46	ZAR1	GO:0010069	zygote asymmetric cytokinesis in embryo sac	3702	ZAR1,At2g01210,F10A8.9	P
+UniProtKB	X1WHE9	prnprs3	GO:0032506	cytokinetic process	7955	prnprs3	P
+UniProtKB	X2JC83	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JC83	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JC83	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JC83	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JE40	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JE40	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JE40	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JE40	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JKQ8	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JKQ8	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JKQ8	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X2JKQ8	Rok	GO:0000281	mitotic cytokinesis	7227	Rok,DROK,DRhk,DRok,Dmel\CG9774,Drok,MRLC,ROCK,ROCK-1,ROCK1,ROCK2,ROK,ROKalpha,Rhk,RhoK,Rock,beta,dROK,dRok	P
+UniProtKB	X5M920	icp-1	GO:0000281	mitotic cytokinesis	6239	icp-1,CELE_Y39G10AR.13,Y39G10AR.13	P
+UniProtKB	X6RA56	DCTN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	DCTN3	P
+UniProtKB	X6RCK5	DCTN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	DCTN3	P
+UniProtKB	X6RLR1	DCTN3	GO:0061640	cytoskeleton-dependent cytokinesis	9606	DCTN3	P
+ComplexPortal	CPX-1140	hics_yeast	GO:1902410	mitotic cytokinetic process	559292	CYK3:HOF1:INN1:SHO1	P
+ComplexPortal	CPX-116	cpc_human	GO:0000281	mitotic cytokinesis	9606	AURKB:BIRC5:CDCA8:INCENP	P
+ComplexPortal	CPX-1675	septin_yeast	GO:0032186	cellular bud neck septin ring organization	559292	2xCDC3:2xCDC10:CDC11:2xCDC12:SHS1	P
+ComplexPortal	CPX-1705	bud14-glc7_yeast	GO:0000282	cellular bud site selection	559292	BUD14:GLC7,Bud14p-Glc7p complex	P
+ComplexPortal	CPX-329	escrt-iii_human	GO:0000916	actomyosin contractile ring contraction	9606	CHMP1A:CHMP1B:CHMP2A:CHMP2B:CHMP3:CHMP4A:CHMP4B:CHMP4C:CHMP5:CHMP6:CHMP7,ESCRT3 complex,ESCRT III complex,Endosomal sorting complex required for transport-III complex	P
+ComplexPortal	CPX-329	escrt-iii_human	GO:0061640	cytoskeleton-dependent cytokinesis	9606	CHMP1A:CHMP1B:CHMP2A:CHMP2B:CHMP3:CHMP4A:CHMP4B:CHMP4C:CHMP5:CHMP6:CHMP7,ESCRT3 complex,ESCRT III complex,Endosomal sorting complex required for transport-III complex	P
+ComplexPortal	CPX-329	escrt-iii_human	GO:0061952	midbody abscission	9606	CHMP1A:CHMP1B:CHMP2A:CHMP2B:CHMP3:CHMP4A:CHMP4B:CHMP4C:CHMP5:CHMP6:CHMP7,ESCRT3 complex,ESCRT III complex,Endosomal sorting complex required for transport-III complex	P
+ComplexPortal	CPX-334	vps4_yeast-1	GO:0061952	midbody abscission	559292	ESCRT-IV complex,VPS4 oligomer,Vacuolar protein sorting-associated complex,Endosomal sorting complex required for transport-IV complex	P
+ComplexPortal	CPX-338	vps4a-vps4b_human	GO:0061952	midbody abscission	9606	VPS4A:VPS4B,Vacuolar protein sorting-associated complex,ESCRT-IV complex	P
+ComplexPortal	CPX-3461	cpc_caeel	GO:0000281	mitotic cytokinesis	6239	Aurora kinase complex,Aurora B kinase complex,CPC,ABI,air-1:bir-1:csc-1:icp-1	P
+ComplexPortal	CPX-3462	polarity_yeast	GO:0000282	cellular bud site selection	559292	BEM1:CDC24:CLA4	P
+ComplexPortal	CPX-3503	iqg1-hof1-2	GO:0031991	regulation of actomyosin contractile ring contraction	559292	HOF1:IQG1:MLC1,Mlc1p-Iqg1p-Hof1p complex	P
+ComplexPortal	CPX-4025	pph_caeel	GO:0000916	actomyosin contractile ring contraction	6239	pph-6:saps-1,PPH-6–SAPS-1 complex,PPH-6/SAPS-1	P
+ComplexPortal	CPX-4943	exocyst_human	GO:0000281	mitotic cytokinesis	9606	EXOC1:EXOC2:EXOC3:EXOC4:EXOC5:EXOC6:EXOC7:EXOC8,exocyst complex,CATCHR family complex	P
+ComplexPortal	CPX-4944	exocyst_human-1	GO:0000281	mitotic cytokinesis	9606	EXOC1:EXOC2:EXOC3:EXOC4:EXOC5:EXOC6B:EXOC7:EXOC8,exocyst complex,CATCHR family complex	P
