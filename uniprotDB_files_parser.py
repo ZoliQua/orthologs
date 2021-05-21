@@ -37,7 +37,7 @@ for this_file in source_filenames:
 
     with open(this_file, newline='') as f:
         reader = csv.DictReader(f, fieldnames= ( 'uniprot', 'db','second' ), delimiter='\t')
-        counter = 0
+
         try:
             for row in reader:
                 counter += 1
