@@ -7,14 +7,14 @@
 # Code written by Zoltan Dul, PhD (2021)
 # Contact me at zoltan dul [at] gmail.com
 #
-# File for funcitions
+# File for functions
 # Import libraries
 import csv
 import sys
 import random
 import logging
 
-# Maximalize file-read size
+# maximalise file-read size
 csv.field_size_limit(sys.maxsize)
 
 uniprot_2_stringid = {}
