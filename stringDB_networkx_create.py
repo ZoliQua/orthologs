@@ -9,6 +9,8 @@
 #
 #
 
+# Importing libraries
+
 import csv
 import sys
 import networkx as nx
@@ -18,6 +20,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
 
+# Maximalize memory read size
 csv.field_size_limit(sys.maxsize)
 
 protein_list = ["P31946","P62258","Q04917","P61981","P31947","P27348","P63104"]
