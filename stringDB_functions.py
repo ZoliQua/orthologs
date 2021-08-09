@@ -99,7 +99,7 @@ def WriteExportFile(export_filename, write_this_array):
 	return counter
 
 
-def ParseGODataFrame(go_dataframe, column_name_taxon, column_name_hm_value):
+def ParseGODataFrame(go_dataframe, column_name_taxon, column_name_hm_value, num_proteins):
 	
 	# Protein list from the filtered pandas dataset of this species
 	list_of_bottle_proteins = []
@@ -125,7 +125,7 @@ def ParseGODataFrame(go_dataframe, column_name_taxon, column_name_hm_value):
 		# Adding poritnes to H/M array
 		protein_hm_array[protein_selected] = hm_value
 
-	if len(list_of_bottle_proteins) < 10:
+	if len(list_of_bottle_proteins) < num_proteins:
 		# Print & Log warning
 		print(f"Bottle Random has less than 10 proteins {len(list_of_bottle_proteins)}.")
 		logging.warning(f"Bottle Random has less than 10 proteins {len(list_of_bottle_proteins)}.")
