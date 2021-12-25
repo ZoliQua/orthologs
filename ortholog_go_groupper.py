@@ -14,7 +14,11 @@ import operator
 csv.field_size_limit(sys.maxsize)
 
 # list_of_go_tags = ["0006412", "0006629", "0006914", "0007049", "0007165", "0007568", "0008361", "0042254", "0051301", "0051726"]
-list_of_go_tags = ["0000902", "0000910", "0002376", "0003013", "0005975"]
+# list_of_go_tags = ["0006259", "0006397", "0006399", "0006457"]
+
+# list_of_go_tags = ["0008361", "0002376", "0009295", "0000902", "0006099", "0003013", "0000502", "0006399", "0000910", "0005975"]
+
+list_of_go_tags = ["0008361", "0002376", "0009295", "0000902", "0006099", "0003013", "0000502", "0006399", "0000910", "0005975", "0006629", "0006914", "0007568", "0006259", "0051726", "0051301", "0006397", "0007049", "0006412"]
 
 for go_tag in list_of_go_tags:
     filename_go = "data/go/GO-" + go_tag + ".tsv"
@@ -51,7 +55,7 @@ for go_tag in list_of_go_tags:
     taxon_dict = {'3702': [], '6239': [], '7227': [], '7955': [], '9606': [], '559292': [], '284812': []}
     eggnog_taxlist = ["9606", "7955", "6239", "3702", "7227", "4896", "4932"]
 
-    write_lines_all = {}
+    eggNOG_database = {}
 
     with open(filename, newline='') as f:
         reader = csv.DictReader(f, fieldnames= ('uniprot', 'db', 'taxid', 'groupid'), delimiter='\t')
@@ -63,13 +67,13 @@ for go_tag in list_of_go_tags:
                 # Filtering eggNOG DB out
                 if row['db'] == 'eggNOG':
 
-                    if row['groupid'] in write_lines_all:
-                        if row['taxid'] in write_lines_all[row['groupid']]:
-                            write_lines_all[row['groupid']][row['taxid']].append(row['uniprot'])
+                    if row['groupid'] in eggNOG_database:
+                        if row['taxid'] in eggNOG_database[row['groupid']]:
+                            eggNOG_database[row['groupid']][row['taxid']].append(row['uniprot'])
                         else:
-                            write_lines_all[row['groupid']][row['taxid']] = [row['uniprot']]
+                            eggNOG_database[row['groupid']][row['taxid']] = [row['uniprot']]
                     else:
-                        write_lines_all[row['groupid']] = {row['taxid']: [row['uniprot']]}
+                        eggNOG_database[row['groupid']] = {row['taxid']: [row['uniprot']]}
 
                 # if counter == 10000:
                 #      break
@@ -85,7 +89,7 @@ for go_tag in list_of_go_tags:
     write_the_output_hit_dict_4order = {}
 
     counter = 0
-    for groupid in write_lines_all:
+    for groupid in eggNOG_database:
 
         this_line = ""
         this_mezok = {}
@@ -96,11 +100,11 @@ for go_tag in list_of_go_tags:
 
         for sor_taxid in taxon_list:
             sor_taxid2 = "H" + sor_taxid + "H"
-            if sor_taxid in write_lines_all[groupid]:
+            if sor_taxid in eggNOG_database[groupid]:
                 this_mezok[sor_taxid] = []
                 this_mezok[sor_taxid2] = []
                 this_total_spec_count[sor_taxid] = 1
-                for uniprot in write_lines_all[groupid][sor_taxid]:
+                for uniprot in eggNOG_database[groupid][sor_taxid]:
 
                     this_mezok[sor_taxid].append(uniprot)
                     this_total_prot_count[sor_taxid] += 1
@@ -150,11 +154,25 @@ for go_tag in list_of_go_tags:
         this_line += str(hit_spec_count) + "\t"
         this_line += str(total_spec_count) + "\t"
 
-        for sor_taxid in taxon_list:
-            this_line += ",".join(this_mezok[sor_taxid]) + "\t"
-        for sor_taxid in taxon_list:
-            sor_taxid2 = "H" + sor_taxid + "H"
-            this_line += ",".join(this_mezok[sor_taxid2]) + "\t"
+        # adding detailed information
+        for taxid in taxon_list:
+            this_line += str(this_hit_spec_count[taxid]) + "\t"
+            this_line += str(this_hit_prot_count[taxid]) + "\t"
+            this_line += str(this_total_spec_count[taxid]) + "\t"
+            this_line += str(this_total_prot_count[taxid]) + "\t"
+
+            if this_total_prot_count[taxid] > 0:
+                fraction = this_hit_prot_count[taxid] / this_total_prot_count[taxid]
+            else:
+                fraction = 0
+
+            this_line += str(float("{:.5f}".format(fraction))) + "\t"
+
+                # for sor_taxid in taxon_list:
+        #     this_line += ",".join(this_mezok[sor_taxid]) + "\t"
+        # for sor_taxid in taxon_list:
+        #     sor_taxid2 = "H" + sor_taxid + "H"
+        #     this_line += ",".join(this_mezok[sor_taxid2]) + "\t"
 
         counter += 1
         write_the_output.append(this_line)
@@ -169,7 +187,7 @@ for go_tag in list_of_go_tags:
 
     sorted_dicdata = sorted(write_the_output_hit_dict_4order.items(), key=operator.itemgetter(1), reverse=True)
 
-    export_filename = "data/go-" + go_tag + "-ordered.tsv"
+    export_filename = "data/go-" + go_tag + "-ordered-detailed.tsv"
     counter = 0
 
     with open(export_filename, mode='w') as export_file:
