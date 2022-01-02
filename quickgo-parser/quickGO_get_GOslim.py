@@ -1,16 +1,17 @@
-
-# QuickGO GO Slim Parser
 #
-# What this file do?
-# Retrieve GO SLIM data from GeneOntology website
+# QuickGO GO_SLIM Parser
 #
-# Code written by Zoltan Dul, PhD (2021)
+# What this file does?
+# Retrieve the latest GO SLIM list from GeneOntology website
+#
+# Code written by Zoltan Dul, PhD (2021, 2022)
 # Contact me at zoltan dul [at] gmail.com
 #
 
 import urllib.request as rqs
 import json
 
+print_list2console = True
 
 url_goslim = "http://current.geneontology.org/ontology/subsets/goslim_generic.json"
 hdr = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': "Magic Browser"}
@@ -29,5 +30,10 @@ for this_goID in my_slim['graphs'][0]['nodes']:
 		GOslim_list.append(go_slim)
 		GOslim_dict[this_goID['lbl']] = go_slim
 
+if print_list2console:
+	print("GO Slim Dict as follows:")
+	print(GOslim_dict)
+	print("GO Slim List as follows:")
+	print(GOslim_list)
 
 print(f"GO Slim parser read {len(GOslim_dict)} GO IDs.")
