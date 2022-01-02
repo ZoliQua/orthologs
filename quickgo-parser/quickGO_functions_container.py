@@ -1,8 +1,8 @@
-
-# QuickGO Parser
 #
-# What this file do?
-# Containing functions and classes that are used by more than one script
+# QuickGO Functions / container file /
+#
+# What this file does?
+# Containing functions and classes that are used by more than one script in the directory
 #
 # Code written by Zoltan Dul, PhD (2021)
 # Contact me at zoltan dul [at] gmail.com
@@ -127,6 +127,32 @@ def GOSlimRequestURL(this_go_id, this_taxid):
 
 	return requestURL
 
+def GOSlimRequestURL_AllTaxon(this_go_id):
+
+	# Change "_" into ":" in the GO term name
+	go_id_include = this_go_id.replace("_", "%3A")
+
+	requestURL = "https://" \
+	            + "www.ebi.ac.uk/QuickGO/services/annotation/downloadSearch?" \
+				+ "selectedFields=geneProductId&" \
+				+ "selectedFields=symbol&" \
+				+ "selectedFields=goId&" \
+				+ "selectedFields=goName&" \
+                + "selectedFields=taxonId&" \
+				+ "selectedFields=synonyms&" \
+				+ "selectedFields=goAspect&" \
+				+ "goId=" + go_id_include + "&" \
+				+ "goUsage=descendants&" \
+				+ "goUsageRelationships=is_a%2Cpart_of%2Coccurs_in"
+
+	requestURL = "https://" \
+	             + "www.ebi.ac.uk/QuickGO/services/annotation/downloadSearch?" \
+	             + "goId=" + go_id_include + "&" \
+	             + "goUsage=descendants&" \
+	             + "goUsageRelationships=is_a%2Cpart_of%2Coccurs_in&page=3"
+
+	return requestURL
+
 
 class Children:
 	"""Gets the children GO terms of a GO id"""
@@ -230,6 +256,7 @@ class Children:
 
 	def WriteChildren(self, this_mode='a'):
 		"""Call self, write into a TSV file the output of GO Children"""
+
 		counter = 0
 		with open(self.export_filename, mode=this_mode) as export_file:
 			writer = csv.writer(export_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -290,7 +317,7 @@ class Annotations:
 
 	def ReadQuickGOAnnotation(self, file_num):
 
-		df = pd.read_csv(self.annotations_filenames[file_num], sep='\t')
+		df = pd.read_csv(self.annotations_filenames[file_num], sep='\t', low_memory=False)
 
 		print(df)
 
