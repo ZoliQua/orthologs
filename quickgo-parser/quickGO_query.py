@@ -10,8 +10,8 @@
 
 # taxon ids: 9606, 7955, 6239, 3702, 7227, 4896, 4932, 284812, 559292
 
-from quickGO_parse_GOslim import *
-from quickGO_functions import *
+from quickGO_get_GOslim import *
+from quickGO_functions_container import *
 import requests, sys
 import os
 
