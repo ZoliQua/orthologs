@@ -1,15 +1,15 @@
-
-# QuickGO Parser
 #
-# What this file do?
-# Containing the variables that more than one script use
+# QuickGO Query for Children Terms
+#
+# What this file does?
+# Gets all the children terms of a given GO term.
 #
 # Code written by Zoltan Dul, PhD (2021)
 # Contact me at zoltan dul [at] gmail.com
 #
 
-from quickGO_parse_GOslim import *
-from quickGO_functions import *
+from quickGO_get_GOslim import *
+from quickGO_functions_container import *
 
 LogAndPrint("Script started.")
 
