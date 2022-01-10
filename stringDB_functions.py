@@ -13,6 +13,9 @@ import csv
 import sys
 import random
 import logging
+import signal
+import time
+import requests  # python -m pip install requests
 
 # maximalise file-read size
 csv.field_size_limit(sys.maxsize)
@@ -134,3 +137,37 @@ def ParseGODataFrame(go_dataframe, column_name_taxon, column_name_hm_value, num_
 	else:
 		return_array = {"protein_hm_array": protein_hm_array, "list_of_bottle_proteins": list_of_bottle_proteins}
 		return return_array
+
+# Custom timeout exception
+class TimeoutError(Exception): pass
+
+#  Call this function exceeds timeout
+def handler(signum, frame):
+    raise TimeoutError()
+
+#  Function timeout decorator
+def time_out(interval, doc):
+    def decorator(func):
+        def wrapper(*args, **kwargs):
+            try:
+                signal.signal(signal.SIGALRM, handler)
+                signal.alarm(interval)       #  Interval seconds to send SIGALRM signals to the process
+                result = func(*args, **kwargs)
+                signal.alarm(0)              #  After the function is executed after the specified time is executed, close the Alarm alarm clock
+                return result
+            except TimeoutError as e:
+                #  Capture the timeout exception, what to do
+                print("The function failed to run due to timeout, func:<%s>" % doc)
+                logging.warning("The function failed to run due to timeout, func:<%s>" % doc)
+        return wrapper
+    return decorator
+
+@time_out(1, "Function call")
+def request_in_time(req, par):
+    #print("task1 start")
+    try:
+        response = requests.post(req, data = par)
+    except:
+        response = False
+    return response
+
