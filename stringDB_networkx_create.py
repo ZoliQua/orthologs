@@ -23,15 +23,17 @@ from matplotlib import cm
 # Maximalize memory read size
 csv.field_size_limit(sys.maxsize)
 
-protein_list = ["P31946","P62258","Q04917","P61981","P31947","P27348","P63104"]
+protein_list = ["P31946", "P62258", "Q04917", "P61981", "P31947", "P27348", "P63104"]
 proteins = '%0d'.join(protein_list)
 url = 'https://string-db.org/api/tsv/network?identifiers=' + proteins + '&species=9606'
 r = requests.get(url)
 
-lines = r.text.split('\n') # pull the text from the response object and split based on new lines
-data = [l.split('\t') for l in lines] # split each line into its components based on tabs
+lines = r.text.split('\n')  # pull the text from the response object and split based on new lines
+data = [l.split('\t') for l in lines]   # split each line into its components based on tabs
+
 # convert to dataframe using the first row as the column names; drop empty, final row
 df = pd.DataFrame(data[1:-1], columns = data[0])
+
 # dataframe with the preferred names of the two proteins and the score of the interaction
 interactions = df[['preferredName_A', 'preferredName_B', 'score']]
 
@@ -47,7 +49,7 @@ for i in range(len(interactions)):
 
 
 pos = nx.spring_layout(G) # position the nodes using the spring layout
-plt.figure(figsize=(12,12),facecolor=[0.7,0.7,0.7,0.4])
+plt.figure(figsize=(12, 12), facecolor=[0.7, 0.7, 0.7, 0.4])
 nx.draw_networkx(G)
 plt.axis('off')
 plt.show()
