@@ -2,7 +2,8 @@
 #
 # What this file do?
 # This file converts downloaded GO export file (from data/go folder) to a reduced file size.
-# Filtering out taxid, subGO term, and uniprot ids to the console.
+# Filtering out tax_id, sub_GO term, and uniprot ids
+# Then print it to the console.
 #
 # Code written by Zoltan Dul, PhD (2021)
 # Contact me at zoltan dul [at] gmail.com
@@ -30,19 +31,3 @@ with open(filename, newline='') as f:
         sys.exit('file {}, line {}: {}'.format(filename, reader.line_num, e))
 
 print(taxon_list)
-
-# filename = "data/latest.Eukaryota.tsv"
-# with open(filename, newline='') as f:
-#     reader = csv.DictReader(f, fieldnames= ('uniprot', 'eggnog'), delimiter='\t')
-#     counter = 0
-#     try:
-#         for row in reader:
-#             #print(row)
-#             counter += 1
-#  #           if counter == 100:
-#  #               break
-#             if counter % 100000 == 0:
-#                 print(counter)
-#                 print(row)
-#     except csv.Error as e:
-#         sys.exit('file {}, line {}: {}'.format(filename, reader.line_num, e))
