@@ -1,17 +1,21 @@
-# GO PARSER v1.0
+# GO PARSER tester v1.2
 #
 # What this file do?
 # This file converts downloaded GO export file (from data/go folder) to a reduced file size.
 # Filtering out tax_id, sub_GO term, and uniprot ids
 # Then print it to the console.
 #
-# Code written by Zoltan Dul, PhD (2021)
+# Code written by Zoltan Dul, PhD (2022)
 # Contact me at zoltan dul [at] gmail.com
 
 import csv
 
+# Sourse file
 filename = "data/go/go_reg_of_cc.tsv"
+# Taxon list
 taxon_list = []
+
+# Open the file
 with open(filename, newline='') as f:
     reader = csv.DictReader(f, fieldnames= ('type', 'uniprot', 'name', 'subgo', 'longname', 'taxid'), delimiter='\t')
     counter = 0
@@ -30,4 +34,5 @@ with open(filename, newline='') as f:
     except csv.Error as e:
         sys.exit('file {}, line {}: {}'.format(filename, reader.line_num, e))
 
+# Print the taxon list to the console
 print(taxon_list)
