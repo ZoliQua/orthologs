@@ -144,6 +144,8 @@ test_folder/jpgImageDir
 test_folder/pngImageDir
 export/
 logs/
+eggnog/eggnog6/
+
 
 >>>>>>> 8f7b5e3... Initial commit for ortholog repository
 
