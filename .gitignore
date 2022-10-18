@@ -138,6 +138,8 @@ data/uniprot/HUMAN_9606_idmapping.dat
 data/uniprot/SCHPO_284812_idmapping.dat
 data/uniprot/YEAST_559292_idmapping.dat
 data/uniprot/2021_1
+data/uniprot/2021_2
+data/uniprot/2022_1
 
 # Images
 test_folder/jpgImageDir
