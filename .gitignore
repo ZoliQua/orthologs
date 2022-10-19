@@ -140,6 +140,7 @@ data/uniprot/YEAST_559292_idmapping.dat
 data/uniprot/2021_1
 data/uniprot/2021_2
 data/uniprot/2022_1
+data/go/QuickGO-annotations-GOslim-generic-20220126.tsv
 
 # Images
 test_folder/jpgImageDir
